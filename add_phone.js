@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const User = require('./models/User');
 
-mongoose.connect('mongodb://127.0.0.1:27017/grosync').then(async () => {
+mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/grosync').then(async () => {
     try {
         console.log("Adding phone field to all existing users in the database...");
         const users = await User.find({});

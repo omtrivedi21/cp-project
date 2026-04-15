@@ -5,7 +5,7 @@ const Product = require('./models/Product');
 
 async function validateImages() {
     try {
-        await mongoose.connect('mongodb://localhost:27017/grosync');
+        await mongoose.connect(process.env.MONGO_URI || 'mongodb://localhost:27017/grosync');
         console.log('Connected to MongoDB');
         
         const products = await Product.find();

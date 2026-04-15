@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const GroupBuy = require('./models/GroupBuy');
 
-mongoose.connect('mongodb://127.0.0.1:27017/grosync').then(async () => {
+mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/grosync').then(async () => {
     try {
         const groups = await GroupBuy.find({ status: 'active' });
         for (let group of groups) {

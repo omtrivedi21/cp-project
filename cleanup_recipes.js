@@ -3,7 +3,7 @@ const Recipe = require('./models/Recipe');
 
 async function cleanRecipes() {
     try {
-        await mongoose.connect('mongodb://127.0.0.1:27017/grosync');
+        await mongoose.connect(process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/grosync');
         console.log("Connected to MongoDB");
 
         const validCuisines = ["North Indian", "South Indian", "Gujarati", "Punjabi", "Italian"];

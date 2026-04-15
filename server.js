@@ -1,4 +1,5 @@
 require('dotenv').config();
+const dns = require('dns');
 const apiKey = process.env.GEMINI_API_KEY;
 const express = require('express');
 const mongoose = require('mongoose');
@@ -8,6 +9,8 @@ const path = require('path');
 const fs = require('fs');
 const twilio = require("twilio");
 const compression = require('compression');
+
+dns.setServers(['8.8.8.8', '8.8.4.4']);
 
 
 const app = express();
@@ -36,8 +39,12 @@ app.use('/api/admin', require('./routes/admin'));
 app.use('/api/payment', require('./routes/payment'));
 
 // MongoDB Connection
-const mongoURI = process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/grosync';
-mongoose.connect(mongoURI)
+const mongoURI = process.env.MONGO_URI || 'mongodb+srv://omtrivedi2195:IagsMbWvKXwmRuPQ@grosync.ej1bzqo.mongodb.net/grosync';
+console.log('Connecting to MongoDB URI:', mongoURI);
+mongoose.connect(mongoURI, {
+        serverSelectionTimeoutMS: 10000,
+        connectTimeoutMS: 10000
+    })
     .then(() => console.log('✅ MongoDB Connected'))
     .catch(err => {
         const errorMsg = `[${new Date().toISOString()}] DB Connection Error: ${err.message}\n`;
@@ -76,6 +83,15 @@ app.use(express.static(path.join(__dirname, '.'), {
 // app.get('*', (req, res) => {
 //     res.sendFile(path.join(__dirname, 'home.html'));
 // });
+
+server.on('error', (err) => {
+    if (err.code === 'EADDRINUSE') {
+        console.error(`Port ${PORT} is already in use. Close the other process or change PORT.`);
+    } else {
+        console.error('Server error:', err);
+    }
+    process.exit(1);
+});
 
 server.listen(PORT, () => {
     console.log(`Server running at http://localhost:${PORT}`);
