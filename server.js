@@ -39,8 +39,14 @@ app.use('/api/admin', require('./routes/admin'));
 app.use('/api/payment', require('./routes/payment'));
 
 // MongoDB Connection
-const mongoURI = process.env.MONGO_URI || 'mongodb+srv://omtrivedi2195:IagsMbWvKXwmRuPQ@grosync.ej1bzqo.mongodb.net/grosync';
-console.log('Connecting to MongoDB URI:', mongoURI);
+const mongoURI = process.env.MONGO_URI;
+
+if (!mongoURI) {
+    console.error('❌ MONGO_URI is not defined');
+    process.exit(1);
+}
+
+console.log('Connecting to MongoDB...');
 mongoose.connect(mongoURI, {
         serverSelectionTimeoutMS: 10000,
         connectTimeoutMS: 10000
