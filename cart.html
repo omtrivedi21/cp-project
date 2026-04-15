@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>My Cart | GroSync</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+  <!-- CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/home.css">
+  <link rel="stylesheet" href="css/cart.css">
+  <link rel="stylesheet" href="css/qty-button.css" />
+
+</head>
+
+<body>
+
+  <!-- HEADER -->
+  <header class="top-bar">
+    <div class="logo" onclick="window.location.href='home.html'" style="cursor:pointer">
+      <span class="gro">GroSync</span>
+      <div class="eco-badge">
+        <i class="ri-leaf-line"></i>
+        <span>Eco-Friendly</span>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button class="login-btn" id="headerContinueBtn" onclick="location.href='home.html'">
+        Continue Shopping
+      </button>
+    </div>
+  </header>
+
+  <!-- CART PAGE -->
+  <section class="cart-page">
+    <h2>My Cart</h2>
+
+    <div id="cartItems"></div>
+
+    <div class="cart-summary">
+      <div id="billDetailsContainer">
+        <div>
+          <strong>Total:</strong>
+          ₹<span id="cartTotal">0</span>
+        </div>
+      </div>
+
+      <!-- Group Buy Section -->
+      <div class="group-buy-cart-section"
+        style="margin-top: 20px; padding: 15px; border-top: 1px dashed #ddd; text-align: center;">
+        <div id="groupActiveInfo" style="display: none; margin-bottom: 12px;">
+          <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+            <div style="text-align: left;">
+              <p style="font-size: 13px; color: #666; margin: 0 0 5px;">Group Code: <b id="cartGroupCode"
+                  style="color: #6c5ce7; font-size: 16px;">--</b></p>
+              <p id="groupDiscountStatus" style="font-size: 12px; color: #ff6b6b; font-weight: 600; margin: 0;">Joining
+                neighbors...</p>
+            </div>
+            <button onclick="cancelGroupBuy()"
+              style="background: transparent; border: 1.5px solid #ff4757; color: #ff4757; padding: 5px 10px; border-radius: 6px; font-size: 12px; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 4px;"><i
+                class="ri-close-circle-line"></i> Cancel</button>
+          </div>
+        </div>
+
+        <div id="groupInactiveActions">
+          <button id="startGroupBtn" onclick="startCollaborativeGroup()"
+            style="width: 100%; border: 1.5px solid #3b1a86; background: white; color: #3b1a86; padding: 10px; border-radius: 8px; font-weight: 600; cursor: pointer; margin-bottom: 10px;">
+            <i class="ri-group-line"></i> Start Neighbor Group Buy
+          </button>
+          <div style="display: flex; gap: 8px;">
+            <input type="text" id="joinGroupCode" placeholder="Enter Code"
+              style="flex: 1; padding: 8px; border: 1px solid #ddd; border-radius: 6px; outline: none;">
+            <button onclick="joinGroup()"
+              style="background: #3b1a86; color: white; border: none; padding: 0 15px; border-radius: 6px; font-weight: 600; cursor: pointer;">Join</button>
+          </div>
+        </div>
+      </div>
+      <button id="checkoutBtn" class="primary-btn">Proceed to Checkout</button>
+      <p id="groupBuyNotice"
+        style="display: none; color: #d63031; font-size: 11px; margin-top: 8px; text-align: center; font-weight: 600;">
+        <i class="ri-information-line"></i> Note: Group Buy orders cannot be canceled once placed.
+      </p>
+    </div>
+  </section>
+
+  <div id="groupDashboard" class="group-dashboard" style="display: none;">
+    <div class="dashboard-header">
+      <h4>Group: <span id="dashInviteCode" style="color: #6c5ce7;">---</span></h4>
+      <button onclick="toggleDashboard()" class="close-dash-btn"><i class="ri-close-line"></i></button>
+    </div>
+    <div id="memberList" class="member-list"></div>
+    <div class="dashboard-footer">
+      <div id="groupStatusInfo">Syncing...</div>
+    </div>
+  </div>
+
+
+  <script src="js/constants.js" defer></script>
+  <script src="js/products-section.js" defer></script>
+  <script src="js/cart.js" defer></script>
+
+
+</body>
+
+</html>

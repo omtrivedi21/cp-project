@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkout | GroSync</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/home.css" />
+    <link rel="stylesheet" href="css/checkout.css" />
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="top-bar">
+        <div class="actions" style="margin-right: auto;">
+            <div class="icon-btn" onclick="history.back()">
+                <i class="ri-arrow-left-line"></i>
+            </div>
+        </div>
+        <div class="logo" style="position: absolute; left: 50%; transform: translateX(-50%); font-weight: 800;">
+            Delivery Address
+        </div>
+    </header>
+
+    <section class="checkout-page">
+        <!-- SAVED ADDRESSES SECTION -->
+        <div class="saved-addresses-section" id="savedAddressesSection" style="margin-bottom: 24px;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                <h3 style="font-size: 16px; font-weight: 700;">Your saved addresses</h3>
+                <button onclick="openAddressModal()"
+                    style="background:none; border:none; color:#3b1a86; font-weight:600; cursor:pointer; font-size:14px;">+
+                    Add New</button>
+            </div>
+            <div id="addressList" class="addresses-grid">
+                <!-- Saved addresses rendered here -->
+            </div>
+        </div>
+
+        <!-- ADDRESS MODAL -->
+        <div id="addressModal" class="modal-overlay hidden">
+            <div class="modal" style="max-width: 500px;">
+                <div class="modal-header">
+                    <h3 id="addressModalTitle">Add a new address</h3>
+                    <i class="ri-close-line" onclick="closeAddressModal()"></i>
+                </div>
+                <div class="scrollable-body">
+                    <input type="hidden" id="addrId">
+                    <div class="form-row">
+                        <label>Address Label (e.g., Home, Work)</label>
+                        <input type="text" id="addrType" placeholder="Home" />
+                    </div>
+                    <div class="form-row">
+                        <label>Full name (First and Last name)</label>
+                        <input type="text" id="addrName" />
+                    </div>
+                    <div class="form-row">
+                        <label>Mobile Number</label>
+                        <input type="text" id="addrMobile" placeholder="10-digit number" />
+                    </div>
+                    <div class="form-row">
+                        <label>Pincode</label>
+                        <input type="text" id="addrPincode" placeholder="6-digit PIN" />
+                    </div>
+                    <div class="form-row">
+                        <label>Flat, House no., Building</label>
+                        <input type="text" id="addrHouse" />
+                    </div>
+                    <div class="form-row">
+                        <label>Area, Street, Sector</label>
+                        <input type="text" id="addrArea" />
+                    </div>
+                    <div class="form-row">
+                        <label>Landmark</label>
+                        <input type="text" id="addrLandmark" placeholder="E.g. near hospital" />
+                    </div>
+                    <div style="display:flex; gap:10px; margin-bottom:16px">
+                        <div style="flex:1">
+                            <label
+                                style="display:block; font-size:13px; font-weight:600; margin-bottom:6px">City</label>
+                            <input type="text" id="addrCity"
+                                style="width:100%; padding:10px; border:1px solid #ccc; border-radius:6px; box-sizing:border-box">
+                        </div>
+                        <div style="flex:1">
+                            <label
+                                style="display:block; font-size:13px; font-weight:600; margin-bottom:6px">State</label>
+                            <input type="text" id="addrState"
+                                style="width:100%; padding:10px; border:1px solid #ccc; border-radius:6px; box-sizing:border-box">
+                        </div>
+                    </div>
+                    <div class="form-row checkbox-row"
+                        style="display:flex; align-items:center; gap:8px; margin-bottom: 20px;">
+                        <input type="checkbox" id="addrDefault" style="width:auto">
+                        <label for="addrDefault" style="margin-bottom:0">Make this my default address</label>
+                    </div>
+                    <button class="primary-btn" onclick="saveNewAddress()">
+                        Save Address
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <button class="primary-btn" id="mainProceedBtn" onclick="proceedToPayment()"
+            style="display: none; margin-top: 30px;">
+            Proceed to Payment
+        </button>
+    </section>
+
+    <script src="js/checkout.js"></script>
+
+
+</body>
+
+</html>

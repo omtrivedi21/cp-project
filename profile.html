@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Profile | GroSync</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/home.css" />
+    <link rel="stylesheet" href="css/profile.css" />
+    <link rel="stylesheet" href="css/chatbot.css" />
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="top-bar">
+        <div class="logo" onclick="window.location.href='home.html'" style="cursor:pointer">
+            <span class="gro">GroSync</span>
+            <div class="eco-badge">
+                <i class="ri-leaf-line"></i>
+                <span>Eco-Friendly</span>
+            </div>
+        </div>
+        <div class="actions">
+            <button onclick="window.location.href='home.html'" class="login-btn continue-shopping">Continue
+                Shopping</button>
+        </div>
+    </header>
+
+    <div class="profile-container">
+
+        <!-- LEFT SIDEBAR -->
+        <aside class="profile-sidebar">
+            <div class="user-info-card">
+                <div class="avatar-circle"></div>
+                <div class="info-text">
+                    <h3 id="userName">User</h3>
+                    <p id="userEmail" style="font-size: 12px; color: #666;">user@example.com</p>
+                </div>
+            </div>
+
+            <nav class="profile-nav">
+                <button class="nav-item active" onclick="switchTab('orders')">
+                    <i class="ri-shopping-bag-3-line"></i> Orders
+                </button>
+                <button class="nav-item" onclick="switchTab('addresses')">
+                    <i class="ri-map-pin-line"></i> Addresses
+                </button>
+                <button class="nav-item" onclick="switchTab('settings')">
+                    <i class="ri-settings-4-line"></i> Account Settings
+                </button>
+                <button class="nav-item logout" onclick="logoutUser()">
+                    <i class="ri-logout-box-r-line"></i> Log Out
+                </button>
+                <button class="nav-item delete-account" onclick="deleteAccount()" style="color: red; margin-top: 10px;">
+                    <i class="ri-delete-bin-line"></i> Delete Account
+                </button>
+            </nav>
+        </aside>
+
+        <!-- RIGHT CONTENT -->
+        <main class="profile-content">
+
+            <!-- ORDERS TAB -->
+            <section id="ordersTab" class="tab-content active">
+                <div class="tab-header">
+                    <h2>My Orders</h2>
+                    <button class="refresh-btn" onclick="refreshOrders()">
+                        <i class="ri-refresh-line"></i> Refresh Orders
+                    </button>
+                </div>
+                <div id="ordersList" class="orders-list">
+                    <!-- Dynamic Order Items -->
+                </div>
+            </section>
+
+            <!-- ADDRESSES TAB -->
+            <section id="addressesTab" class="tab-content">
+                <div class="tab-header">
+                    <h2>My Addresses</h2>
+                    <button class="add-new-btn" onclick="openAddressModal()" style="margin-bottom:0">
+                        <i class="ri-add-line"></i> Add New Address
+                    </button>
+                </div>
+                <div id="addressList" class="addresses-grid">
+                    <!-- Dynamic Addresses -->
+                </div>
+            </section>
+
+
+            <!-- SETTINGS TAB -->
+            <section id="settingsTab" class="tab-content">
+                <h2>Account Settings</h2>
+                <div class="settings-card">
+                    <p style="color: #666; font-size: 14px; margin-bottom: 24px;">Manage your personal information and
+                        security settings here.</p>
+
+                    <div class="settings-form">
+                        <div class="form-row">
+                            <label>Full Name</label>
+                            <input type="text" id="set-name" placeholder="Your Name">
+                        </div>
+                        <div class="form-row">
+                            <label>Email Address</label>
+                            <input type="email" id="set-email" placeholder="Your Email">
+                        </div>
+
+                        <hr style="margin: 30px 0; border: none; border-top: 1px solid #eee;">
+
+                        <div class="form-row">
+                            <label>Change Password (leave empty to keep current)</label>
+                            <input type="password" id="set-password" placeholder="New Password">
+                        </div>
+                        <div class="form-row">
+                            <label>Confirm New Password</label>
+                            <input type="password" id="set-confirm" placeholder="Confirm Password">
+                        </div>
+
+                        <button class="primary-btn save-settings-btn" onclick="updateAccountSettings()">
+                            <i class="ri-checkbox-circle-line"></i> Save Changes
+                        </button>
+
+                        <div class="account-activity-section">
+                            <h4 class="activity-title"><i class="ri-history-line"></i> Account Activity</h4>
+                            <div class="activity-grid">
+                                <div class="activity-item">
+                                    <span class="label">Account Created</span>
+                                    <span class="value" id="profile-created-at">...</span>
+                                </div>
+                                <div class="activity-item">
+                                    <span class="label">Last Login</span>
+                                    <span class="value" id="profile-last-login">...</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </main>
+    </div>
+
+    <!-- ORDER DETAIL MODAL -->
+    <div id="orderDetailModal" class="modal-overlay hidden">
+        <div class="modal order-detail-modal">
+            <div class="modal-header">
+                <h3>Order Details</h3>
+                <i class="ri-close-line" onclick="closeOrderModal()"></i>
+            </div>
+            <div id="orderDetailContent" class="scrollable-body">
+                <!-- Dynamic Content -->
+            </div>
+        </div>
+    </div>
+
+    <!-- ADDRESS MODAL -->
+    <div id="addressModal" class="modal-overlay hidden">
+        <div class="modal" style="max-width: 500px;">
+            <div class="modal-header">
+                <h3 id="addressModalTitle">Add a new address</h3>
+                <i class="ri-close-line" onclick="closeAddressModal()"></i>
+            </div>
+            <div class="scrollable-body">
+                <input type="hidden" id="addrId">
+                <div class="form-row">
+                    <label>Address Label (e.g., Home, Work)</label>
+                    <input type="text" id="addrType" placeholder="Home" />
+                </div>
+
+                <div class="form-row">
+                    <label>Full name (First and Last name)</label>
+                    <input type="text" id="addrName" />
+                </div>
+
+                <div class="form-row">
+                    <label>Mobile number</label>
+                    <input type="text" id="addrMobile" placeholder="10-digit mobile number" />
+                </div>
+
+                <div class="form-row">
+                    <label>Pincode</label>
+                    <input type="text" id="addrPincode" placeholder="6 digits [0-9] PIN code" />
+                </div>
+
+                <div class="form-row">
+                    <label>Flat, House no., Building, Apartment</label>
+                    <input type="text" id="addrHouse" />
+                </div>
+
+                <div class="form-row">
+                    <label>Area, Street, Sector, Village</label>
+                    <input type="text" id="addrArea" />
+                </div>
+
+                <div class="form-row">
+                    <label>Landmark</label>
+                    <input type="text" id="addrLandmark" placeholder="E.g. near hospital" />
+                </div>
+
+                <div style="display:flex; gap:10px; margin-bottom:16px">
+                    <div style="flex:1">
+                        <label style="display:block; font-size:13px; font-weight:600; margin-bottom:6px">City</label>
+                        <input type="text" id="addrCity"
+                            style="width:100%; padding:10px; border:1px solid #ccc; border-radius:6px; box-sizing:border-box">
+                    </div>
+                    <div style="flex:1">
+                        <label style="display:block; font-size:13px; font-weight:600; margin-bottom:6px">State</label>
+                        <input type="text" id="addrState"
+                            style="width:100%; padding:10px; border:1px solid #ccc; border-radius:6px; box-sizing:border-box">
+                    </div>
+                </div>
+
+                <div class="form-row checkbox-row" style="display:flex; align-items:center; gap:8px">
+                    <input type="checkbox" id="addrDefault" style="width:auto">
+                    <label for="addrDefault" style="margin-bottom:0">Make this my default address</label>
+                </div>
+
+                <button class="save-btn" onclick="saveAddress()">Save Address</button>
+            </div>
+        </div>
+    </div>
+
+    <div id="editProfileModal" class="modal-overlay hidden">
+        <div class="modal">
+            <div class="modal-header">
+                <h3>Edit Profile</h3>
+                <i class="ri-close-line" onclick="closeEditProfileModal()"></i>
+            </div>
+            <div class="scrollable-body">
+                <div class="form-row">
+                    <label>Full Name</label>
+                    <input type="text" id="editName" placeholder="Enter your name">
+                </div>
+
+                <div class="form-row">
+                    <label>Email Address</label>
+                    <input type="email" id="editEmail" placeholder="Enter email">
+                </div>
+                <div class="form-row">
+                    <label>New Password (Optional)</label>
+                    <input type="password" id="editPassword" placeholder="Enter new password">
+                </div>
+                <button class="save-btn" onclick="saveProfile()">Update Profile</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/home.js" defer></script>
+    <script src="js/constants.js" defer></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="js/profile.js" defer></script>
+    <script src="js/chatbot.js" defer></script>
+
+
+</body>
+
+</html>

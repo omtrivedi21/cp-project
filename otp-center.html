@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OTP Center | GroSync Remote</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #785ac8;
+            --bg: #f8f9fa;
+            --card: #ffffff;
+            --text: #333;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Inter', sans-serif;
+        }
+
+        body {
+            background: var(--bg);
+            color: var(--text);
+            padding: 20px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .header h1 {
+            color: var(--primary);
+            font-size: 24px;
+            font-weight: 800;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 14px;
+            margin-top: 5px;
+        }
+
+        .active-feed {
+            max-width: 500px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .otp-card {
+            background: var(--card);
+            padding: 20px;
+            border-radius: 16px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            border-left: 5px solid var(--primary);
+            animation: slideIn 0.3s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateY(20px);
+                opacity: 0;
+            }
+
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .otp-card .phone {
+            font-weight: 600;
+            color: #555;
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+
+        .otp-card .code {
+            font-size: 32px;
+            font-weight: 800;
+            color: var(--primary);
+            letter-spacing: 2px;
+        }
+
+        .otp-card .time {
+            font-size: 11px;
+            color: #999;
+            margin-top: 10px;
+            text-align: right;
+        }
+
+        .empty {
+            text-align: center;
+            padding: 50px;
+            color: #999;
+        }
+
+        .empty i {
+            font-size: 48px;
+            opacity: 0.3;
+        }
+
+        .status-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            background: #e8f5e9;
+            color: #2e7d32;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="header">
+        <div class="status-badge"><i class="ri-broadcast-line"></i> Live Feed Active</div>
+        <h1>GroSync <span>OTP Center</span></h1>
+        <p>Real-time SMS Simulation for Global Testing</p>
+    </div>
+
+    <div id="feed" class="active-feed">
+        <div class="empty">
+            <i class="ri-message-3-line"></i>
+            <p>Waiting for OTPs...</p>
+        </div>
+    </div>
+
+    <script>
+        let lastCount = 0;
+
+        async function fetchOtps() {
+            try {
+                const res = await fetch('http://localhost:3000/api/otp-feed');
+                const otps = await res.json();
+
+                if (otps.length === 0) return;
+
+                const container = document.getElementById('feed');
+                container.innerHTML = otps.map(item => `
+                    <div class="otp-card">
+                        <div class="phone"><i class="ri-phone-line"></i> ${item.mobile}</div>
+                        <div class="code">${item.otp}</div>
+                        <div class="time">${new Date(item.createdAt).toLocaleTimeString()}</div>
+                    </div>
+                `).join('');
+
+                if (otps.length > lastCount) {
+                    // Simple sound or vibration could go here
+                    if (window.navigator.vibrate) window.navigator.vibrate(200);
+                }
+                lastCount = otps.length;
+
+            } catch (err) {
+                console.error("Feed error:", err);
+            }
+        }
+
+        setInterval(fetchOtps, 2000); // Check every 2 seconds
+        fetchOtps();
+    </script>
+</body>
+
+</html>

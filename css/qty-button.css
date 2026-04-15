@@ -1,0 +1,60 @@
+/* =========================
+   QUANTITY CONTROL
+========================= */
+.qty-control {
+  display: flex;
+  align-items: center;
+  background: #3b1a86;
+  /* Brand Purple */
+  border-radius: 6px;
+  overflow: hidden;
+  height: 32px;
+  min-width: 80px;
+  justify-content: space-between;
+}
+
+.qty-btn-minus,
+.qty-btn-plus {
+  background: transparent;
+  border: none;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 700;
+  width: 28px;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qty-btn-minus:hover,
+.qty-btn-plus:hover {
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.qty-val {
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+/* Ensure Add Button matches height */
+.add-btn {
+  height: 32px;
+  padding: 0 20px;
+  border: 1px solid #3b1a86;
+  /* Brand Purple */
+  color: #3b1a86;
+  /* Brand Purple */
+  background: #fff;
+  font-weight: 700;
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+
+.add-btn:hover {
+  background: #3b1a86;
+  /* Brand Purple */
+  color: #fff;
+}

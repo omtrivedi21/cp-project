@@ -1,0 +1,388 @@
+[
+  {
+    "__parentArray": [
+      {
+        "productId": 13,
+        "name": "Brown Coconut",
+        "price": 48,
+        "image": "assets/images/browncoconut.jpg",
+        "quantity": 1,
+        "_id": "69d9c3aa609b8e25d42c2abc"
+      }
+    ],
+    "__index": 0,
+    "$__parent": {
+      "name": "Keshvi Saija",
+      "phone": "9999999999",
+      "email": "saijakeshvi06@gmail.com",
+      "fullName": "vasava seemben",
+      "mobile": "09664554844",
+      "pincode": "393115",
+      "houseNo": "101",
+      "area": "MOTU FALIYU",
+      "landmark": "",
+      "city": "BHARUCH",
+      "state": "GUJARAT",
+      "country": "India",
+      "cart": [
+        {
+          "productId": 13,
+          "name": "Brown Coconut",
+          "price": 48,
+          "image": "assets/images/browncoconut.jpg",
+          "quantity": 1,
+          "_id": "69d9c3aa609b8e25d42c2abc"
+        }
+      ],
+      "isDone": true,
+      "isLeader": true,
+      "_id": "69d9c382609b8e25d42c2a7a",
+      "joinedAt": "2026-04-11T03:44:02.859Z"
+    },
+    "$__": {
+      "activePaths": {
+        "paths": {
+          "_id": "init",
+          "productId": "init",
+          "name": "init",
+          "price": "init",
+          "image": "init",
+          "quantity": "init"
+        },
+        "states": {
+          "default": {},
+          "init": {
+            "productId": true,
+            "name": true,
+            "price": true,
+            "image": true,
+            "quantity": true,
+            "_id": true
+          }
+        }
+      }
+    },
+    "_doc": {
+      "productId": 13,
+      "name": "Brown Coconut",
+      "price": 48,
+      "image": "assets/images/browncoconut.jpg",
+      "quantity": 1,
+      "_id": "69d9c3aa609b8e25d42c2abc"
+    },
+    "$isNew": false,
+    "orderedBy": "Keshvi Saija"
+  },
+  {
+    "__parentArray": [
+      {
+        "productId": 6,
+        "name": "Banana",
+        "price": 23,
+        "image": "assets/images/banana.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3a"
+      },
+      {
+        "productId": 26,
+        "name": "Black Grapes",
+        "price": 72,
+        "image": "assets/images/blackgrapes.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3b"
+      },
+      {
+        "productId": 27,
+        "name": "Blueberry",
+        "price": 150,
+        "image": "assets/images/blueberries.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3c"
+      }
+    ],
+    "__index": 0,
+    "$__parent": {
+      "name": "Yogesh Prajapati",
+      "phone": "07984011603",
+      "email": "snehavasava@gmail.com",
+      "fullName": "Yogesh Prajapati",
+      "pincode": "396521",
+      "houseNo": "105",
+      "area": "Junagadh",
+      "city": "Junagadh",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "cart": [
+        {
+          "productId": 6,
+          "name": "Banana",
+          "price": 23,
+          "image": "assets/images/banana.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3a"
+        },
+        {
+          "productId": 26,
+          "name": "Black Grapes",
+          "price": 72,
+          "image": "assets/images/blackgrapes.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3b"
+        },
+        {
+          "productId": 27,
+          "name": "Blueberry",
+          "price": 150,
+          "image": "assets/images/blueberries.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3c"
+        }
+      ],
+      "isDone": true,
+      "isLeader": false,
+      "_id": "69d9c3c3609b8e25d42c2dbc",
+      "joinedAt": "2026-04-11T03:45:07.997Z"
+    },
+    "$__": {
+      "activePaths": {
+        "paths": {
+          "_id": "init",
+          "productId": "init",
+          "name": "init",
+          "price": "init",
+          "image": "init",
+          "quantity": "init"
+        },
+        "states": {
+          "default": {},
+          "init": {
+            "productId": true,
+            "name": true,
+            "price": true,
+            "image": true,
+            "quantity": true,
+            "_id": true
+          }
+        }
+      }
+    },
+    "_doc": {
+      "productId": 6,
+      "name": "Banana",
+      "price": 23,
+      "image": "assets/images/banana.jpg",
+      "quantity": 1,
+      "_id": "69d9c3d6609b8e25d42c2e3a"
+    },
+    "$isNew": false,
+    "orderedBy": "Yogesh Prajapati"
+  },
+  {
+    "__parentArray": [
+      {
+        "productId": 6,
+        "name": "Banana",
+        "price": 23,
+        "image": "assets/images/banana.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3a"
+      },
+      {
+        "productId": 26,
+        "name": "Black Grapes",
+        "price": 72,
+        "image": "assets/images/blackgrapes.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3b"
+      },
+      {
+        "productId": 27,
+        "name": "Blueberry",
+        "price": 150,
+        "image": "assets/images/blueberries.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3c"
+      }
+    ],
+    "__index": 1,
+    "$__parent": {
+      "name": "Yogesh Prajapati",
+      "phone": "07984011603",
+      "email": "snehavasava@gmail.com",
+      "fullName": "Yogesh Prajapati",
+      "pincode": "396521",
+      "houseNo": "105",
+      "area": "Junagadh",
+      "city": "Junagadh",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "cart": [
+        {
+          "productId": 6,
+          "name": "Banana",
+          "price": 23,
+          "image": "assets/images/banana.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3a"
+        },
+        {
+          "productId": 26,
+          "name": "Black Grapes",
+          "price": 72,
+          "image": "assets/images/blackgrapes.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3b"
+        },
+        {
+          "productId": 27,
+          "name": "Blueberry",
+          "price": 150,
+          "image": "assets/images/blueberries.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3c"
+        }
+      ],
+      "isDone": true,
+      "isLeader": false,
+      "_id": "69d9c3c3609b8e25d42c2dbc",
+      "joinedAt": "2026-04-11T03:45:07.997Z"
+    },
+    "$__": {
+      "activePaths": {
+        "paths": {
+          "_id": "init",
+          "productId": "init",
+          "name": "init",
+          "price": "init",
+          "image": "init",
+          "quantity": "init"
+        },
+        "states": {
+          "default": {},
+          "init": {
+            "productId": true,
+            "name": true,
+            "price": true,
+            "image": true,
+            "quantity": true,
+            "_id": true
+          }
+        }
+      }
+    },
+    "_doc": {
+      "productId": 26,
+      "name": "Black Grapes",
+      "price": 72,
+      "image": "assets/images/blackgrapes.jpg",
+      "quantity": 1,
+      "_id": "69d9c3d6609b8e25d42c2e3b"
+    },
+    "$isNew": false,
+    "orderedBy": "Yogesh Prajapati"
+  },
+  {
+    "__parentArray": [
+      {
+        "productId": 6,
+        "name": "Banana",
+        "price": 23,
+        "image": "assets/images/banana.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3a"
+      },
+      {
+        "productId": 26,
+        "name": "Black Grapes",
+        "price": 72,
+        "image": "assets/images/blackgrapes.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3b"
+      },
+      {
+        "productId": 27,
+        "name": "Blueberry",
+        "price": 150,
+        "image": "assets/images/blueberries.jpg",
+        "quantity": 1,
+        "_id": "69d9c3d6609b8e25d42c2e3c"
+      }
+    ],
+    "__index": 2,
+    "$__parent": {
+      "name": "Yogesh Prajapati",
+      "phone": "07984011603",
+      "email": "snehavasava@gmail.com",
+      "fullName": "Yogesh Prajapati",
+      "pincode": "396521",
+      "houseNo": "105",
+      "area": "Junagadh",
+      "city": "Junagadh",
+      "state": "Andhra Pradesh",
+      "country": "India",
+      "cart": [
+        {
+          "productId": 6,
+          "name": "Banana",
+          "price": 23,
+          "image": "assets/images/banana.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3a"
+        },
+        {
+          "productId": 26,
+          "name": "Black Grapes",
+          "price": 72,
+          "image": "assets/images/blackgrapes.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3b"
+        },
+        {
+          "productId": 27,
+          "name": "Blueberry",
+          "price": 150,
+          "image": "assets/images/blueberries.jpg",
+          "quantity": 1,
+          "_id": "69d9c3d6609b8e25d42c2e3c"
+        }
+      ],
+      "isDone": true,
+      "isLeader": false,
+      "_id": "69d9c3c3609b8e25d42c2dbc",
+      "joinedAt": "2026-04-11T03:45:07.997Z"
+    },
+    "$__": {
+      "activePaths": {
+        "paths": {
+          "_id": "init",
+          "productId": "init",
+          "name": "init",
+          "price": "init",
+          "image": "init",
+          "quantity": "init"
+        },
+        "states": {
+          "default": {},
+          "init": {
+            "productId": true,
+            "name": true,
+            "price": true,
+            "image": true,
+            "quantity": true,
+            "_id": true
+          }
+        }
+      }
+    },
+    "_doc": {
+      "productId": 27,
+      "name": "Blueberry",
+      "price": 150,
+      "image": "assets/images/blueberries.jpg",
+      "quantity": 1,
+      "_id": "69d9c3d6609b8e25d42c2e3c"
+    },
+    "$isNew": false,
+    "orderedBy": "Yogesh Prajapati"
+  }
+]

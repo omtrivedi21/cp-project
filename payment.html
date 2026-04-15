@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Payment | GroSync</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/home.css" />
+    <link rel="stylesheet" href="css/payment.css" />
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header class="top-bar">
+        <div class="actions" style="margin-right: auto; display: flex; align-items: center; gap: 15px;">
+            <div class="icon-btn" onclick="history.back()">
+                <i class="ri-arrow-left-line"></i>
+            </div>
+            <div class="logo" style="cursor:default">
+                <span class="gro" style="font-size: 20px;">GroSync</span>
+                <div class="eco-badge" style="transform: scale(0.8); transform-origin: left;">
+                    <i class="ri-leaf-line"></i>
+                    <span>Eco-Friendly</span>
+                </div>
+            </div>
+        </div>
+        <div class="logo-text">
+            Select Payment Method
+        </div>
+    </header>
+
+    <section class="payment-layout">
+
+        <!-- LEFT: METHODS -->
+        <div class="payment-methods">
+
+            <!-- ONLINE PAYMENT -->
+            <div class="method-group">
+                <h3 class="group-title">Digital Payment</h3>
+                <div class="method-option expanded" id="method-ONLINE">
+                    <div class="method-header" onclick="selectPaymentMethod('ONLINE')">
+                        <div class="icon-wrap"><i class="ri-shield-check-line"></i></div>
+                        <div class="text-col">
+                            <span>Pay Online</span>
+                            <small>UPI, Cards, Netbanking & Wallets</small>
+                        </div>
+                        <div class="radio-circle selected" id="radio-ONLINE"></div>
+                    </div>
+                    <div class="method-body">
+                        <p class="method-hint">Fast & Secure payment via Razorpay checkout.</p>
+                        <button class="pay-btn" onclick="processPayment('ONLINE')">Pay Now</button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- COD -->
+            <div class="method-group">
+                <h3 class="group-title">Other Options</h3>
+                <div class="method-option" id="method-COD">
+                    <div class="method-header" onclick="selectPaymentMethod('COD')">
+                        <div class="icon-wrap"><i class="ri-money-rupee-circle-line"></i></div>
+                        <div class="text-col">
+                            <span>Cash on Delivery</span>
+                            <small>Pay at your doorstep</small>
+                        </div>
+                        <div class="radio-circle" id="radio-COD"></div>
+                    </div>
+                    <div class="method-body hidden">
+                        <p class="method-hint">Please keep the exact amount ready for the delivery agent.</p>
+                        <button class="pay-btn" onclick="processPayment('COD')">Place Order</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- RIGHT: SUMMARY (Desktop) / BOTTOM (Mobile) -->
+        <div class="payment-summary">
+            <div class="summary-card">
+                <div class="address-preview" id="addressPreview">
+                    <i class="ri-map-pin-line"></i>
+                    <div>
+                        <h4>Delivering to</h4>
+                        <p id="deliveringToAddress">Select address...</p>
+                    </div>
+                </div>
+
+                <div class="eco-benefit-card" style="margin: 15px 0; border-radius: 8px;">
+                    <div class="eco-header">
+                        <i class="ri-leaf-fill"></i>
+                        <span>Eco Order</span>
+                    </div>
+                    <p style="font-size: 11px;">Sustainable choice applied!</p>
+                </div>
+
+                <div class="amount-row">
+                    <span>To Pay</span>
+                    <span class="pay-amount" id="payAmount">₹0</span>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- PROCESSING MODAL -->
+    <div id="processingModal" class="modal-overlay hidden">
+        <div class="proc-card">
+            <div class="spinner"></div>
+            <h3 id="procTitle">Sending Request...</h3>
+            <p id="procMsg">Please check your mobile for the UPI payment notification.</p>
+            <div id="procTimer" class="timer-bar"></div>
+            <p class="small-text">Do not close this window</p>
+        </div>
+    </div>
+
+    <!-- MOBILE STICKY FOOTER -->
+    <div class="mobile-sticky-footer">
+        <div class="footer-price-info">
+            <span>To Pay</span>
+            <h3 id="footerPayAmount">₹0</h3>
+        </div>
+        <button class="sticky-pay-btn" onclick="triggerMobilePay()">Pay Now</button>
+    </div>
+
+    <script src="js/products.js"></script>
+
+    <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
+    <script src="js/payment.js"></script>
+</body>
+
+</html>

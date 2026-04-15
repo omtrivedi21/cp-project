@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>GroSync - Search Results</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Remix Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="css/home.css" />
+  <link rel="stylesheet" href="css/qty-button.css" />
+
+  <!-- ================= JS ================= -->
+  <script src="js/constants.js" defer></script>
+  <script src="js/products-section.js" defer></script>
+  <script src="js/reorder-logic.js" defer></script>
+  <script src="js/home.js" defer></script>
+  <script src="js/search.js" defer></script>
+
+</head>
+
+<body class="search-page">
+
+  <!-- ================= HEADER ================= -->
+  <header class="top-bar">
+    <div class="logo" onclick="window.location.href='home.html'" style="cursor:pointer">
+      <span class="gro">GroSync</span>
+      <div class="eco-badge">
+        <i class="ri-leaf-line"></i>
+        <span>Eco-Friendly</span>
+      </div>
+    </div>
+
+    <div class="actions">
+      <div class="icon-btn" id="cartBtn" onclick="window.location.href='cart.html'">
+        <i class="ri-shopping-cart-2-line"></i>
+        <span class="cart-badge" id="cartBadge">0</span>
+      </div>
+
+      <button id="authBtn" class="login-btn">
+        Login / Signup
+      </button>
+
+      <div class="user-menu-container">
+        <div id="userAvatar" class="user-avatar" onclick="toggleUserDropdown(event)">U</div>
+        <div id="userDropdown" class="user-dropdown">
+          <div class="dropdown-header">
+            <span id="dropdownUserName">User</span>
+          </div>
+          <hr>
+          <a href="profile.html"><i class="ri-user-line"></i> My Profile</a>
+          <a href="profile.html?tab=settings"><i class="ri-settings-4-line"></i> Settings</a>
+          <a href="profile.html?tab=orders"><i class="ri-shopping-bag-3-line"></i> My Orders</a>
+          <hr>
+          <a href="#" onclick="logoutUser()" class="logout-link"><i class="ri-logout-box-r-line"></i> Logout</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ================= SEARCH BAR (Synced with URL) ================= -->
+  <section class="search-section">
+    <div class="search-box">
+      <button id="searchTypeBtn" class="search-type-btn">
+        Products
+      </button>
+      <div id="searchDropdown" class="search-dropdown">
+        <div onclick="setSearchMode('product')">Products</div>
+        <div onclick="setSearchMode('recipe')">Recipes</div>
+      </div>
+      <input id="searchInput" type="text" placeholder="Search products" />
+      <div id="searchSuggestions" class="search-suggestions"></div>
+      <button class="search-icon-btn" id="searchExecBtn">
+        <i class="ri-search-2-line"></i>
+      </button>
+    </div>
+  </section>
+
+  <!-- ================= SEARCH RESULTS ================= -->
+  <div class="container" style="padding: 20px;">
+    <h2 id="searchTitle" style="margin-bottom: 20px; color: #3b1a86;">Search Results</h2>
+    <div id="searchResults" class="search-grid"></div>
+  </div>
+
+  <div id="modalOverlay" class="modal-overlay"></div>
+
+
+
+</body>
+
+</html>

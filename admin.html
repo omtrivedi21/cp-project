@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GroSync Admin | Eco-Friendly Dashboard</title>
+    <link rel="stylesheet" href="css/admin.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <!-- Chart.js for Analytics -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- No login overlay needed here as per user request -->
+
+    <!-- Sidebar -->
+    <aside class="sidebar">
+        <div class="sidebar-header">
+            <div class="logo-icon">
+                <i data-lucide="leaf"></i>
+            </div>
+            <span class="brand-name">GroSync Admin</span>
+        </div>
+        <nav class="nav-menu">
+            <a class="nav-item active" data-view="dashboard">
+                <i data-lucide="layout-dashboard"></i>
+                <span>Dashboard</span>
+            </a>
+            <a class="nav-item" data-view="products">
+                <i data-lucide="shopping-bag"></i>
+                <span>Products</span>
+            </a>
+            <a class="nav-item" data-view="orders">
+                <i data-lucide="shopping-cart"></i>
+                <span>Orders</span>
+            </a>
+            <a class="nav-item" data-view="users">
+                <i data-lucide="users"></i>
+                <span>Users</span>
+            </a>
+            <a class="nav-item" data-view="sustainability">
+                <i data-lucide="sprout"></i>
+                <span>Sustainability</span>
+            </a>
+            <a class="nav-item" data-view="support">
+                <i data-lucide="message-square"></i>
+                <span>Support</span>
+            </a>
+        </nav>
+        <div class="sidebar-footer">
+            <a class="nav-item" id="logout-btn">
+                <i data-lucide="log-out"></i>
+                <span>Logout</span>
+            </a>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <div class="main-wrapper">
+        <header>
+            <div class="page-title">
+                <h1 id="current-view-title">Admin Dashboard</h1>
+            </div>
+            <div class="user-nav">
+                <div class="btn btn-ghost">
+                    <i data-lucide="bell"></i>
+                </div>
+                <div class="profile-dropdown">
+                    <img src="https://ui-avatars.com/api/?name=Admin+User&background=3b1a86&color=fff" alt="Avatar" style="width: 38px; height: 38px; border-radius: 50%;">
+                </div>
+            </div>
+        </header>
+
+        <main class="content-area" id="main-content">
+            <!-- Dynamic Content Injected Here -->
+            <div id="loader" style="display: none; text-align: center; padding: 40px;">
+                <div class="spinner"></div>
+                <p>Loading ecological data...</p>
+            </div>
+            
+            <div id="view-container"></div>
+        </main>
+    </div>
+
+    <!-- Modal for Add/Edit Product -->
+    <div id="product-modal" class="modal-overlay">
+        <div class="modal">
+            <h3 id="modal-title" style="margin-bottom: 20px;">Add New Product</h3>
+            <form id="product-form">
+                <input type="hidden" id="prod-id">
+                <div class="form-group">
+                    <label>Product Name</label>
+                    <input type="text" id="prod-name" class="form-control" required>
+                </div>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+                    <div class="form-group">
+                        <label>Category</label>
+                        <select id="prod-category" class="form-control">
+                            <option value="Vegetables">Vegetables</option>
+                            <option value="Fruits">Fruits</option>
+                            <option value="Dairy">Dairy</option>
+                            <option value="Grocery">Grocery</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label>Price (₹)</label>
+                        <input type="number" id="prod-price" class="form-control" required>
+                    </div>
+                </div>
+                <div style="display: grid; grid-template-columns: 1fr; gap: 16px;">
+                    <div class="form-group">
+                        <label>Stock</label>
+                        <input type="number" id="prod-stock" class="form-control" required>
+                    </div>
+                </div>
+
+                <div style="display: flex; justify-content: flex-end; gap: 12px; margin-top: 24px;">
+                    <button type="button" class="btn btn-ghost" onclick="closeModal()">Cancel</button>
+                    <button type="submit" class="btn btn-primary">Save Product</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/admin-app.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

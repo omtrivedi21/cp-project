@@ -1,0 +1,47 @@
+﻿Recipe Name: Paneer Butter Masala
+Ingredients IDs: [ 147, 132, 1115, 360 ]
+Section Options IDs: [
+  146,  147, 1050, 1053, 1081, 1085, 123,
+  127,  129,  132,  143,  156,  159, 169,
+  513,  624,   31,  856,  864,  867, 912,
+  939, 1059, 1060, 1114, 1115,  358, 359,
+  360,  361,  362,  363,  364,  365, 366,
+  367
+]
+Products found in DB:
+- [31] Tomato (Vegetables)
+- [123] Amul Salted Butter (Dairy Products)
+- [127] Amul Salted Butter Chiplets (Dairy Products)
+- [129] Amul Garlic & Herbs Butter (Dairy Products)
+- [132] Amul Salted Butter (Dairy Products)
+- [143] Amul Unsalted Butter (Dairy Products)
+- [146] Amul Fresh Malai Paneer (Dairy Products)
+- [147] Gowardhan Classic Block Paneer (Dairy Products)
+- [156] Kwality Walls Cornetto Butterscotch Cone (Dairy Products)
+- [159] Havmor Butterscotch Cone (Dairy Products)
+- [169] Havmor Cup Butterscotch (Dairy Products)
+- [358] Fortune Sunflower Oil (Oil, Ghee & Masala)
+- [359] Fortune Sunflower Oil (Oil, Ghee & Masala)
+- [360] Fortune Mustard Oil (Oil, Ghee & Masala)
+- [361] Fortune Rice Bran Oil (Oil, Ghee & Masala)
+- [362] Dhara Refined Sunflower Oil (Oil, Ghee & Masala)
+- [363] Dhara Mustard Oil (Oil, Ghee & Masala)
+- [364] Saffola Gold Oil (Oil, Ghee & Masala)
+- [365] Saffola Active Oil (Oil, Ghee & Masala)
+- [366] Gemini Sunflower Oil (Oil, Ghee & Masala)
+- [367] Gemini Groundnut Oil (Oil, Ghee & Masala)
+- [513] Dove Shea Butter Soap (Bath & Body)
+- [624] Himalaya Cocoa Butter Lotion (Bath & Body)
+- [856] Bingo Mad Angles Tomato Madness (Chips & Namkeen)
+- [864] Balaji Tomato Twist Wafers (Chips & Namkeen)
+- [867] Too Yumm Rings Tomato (Chips & Namkeen)
+- [912] Snac Tac Tomato Wheels (Chips & Namkeen)
+- [939] Garden Tomato Sev (Chips & Namkeen)
+- [1050] Sumeru Paneer Pakoda (Instant Food)
+- [1053] ITC Master Chef Paneer Tikka (Instant Food)
+- [1059] Knorr Tomato Soup (Instant Food)
+- [1060] Maggi Tomato Soup (Instant Food)
+- [1081] MTR Ready to Eat Paneer Butter Masala (Instant Food)
+- [1085] ITC Kitchens Paneer Tikka Masala (Instant Food)
+- [1114] Kissan Fresh Tomato Ketchup (Sauces)
+- [1115] Maggi Rich Tomato Ketchup (Sauces)

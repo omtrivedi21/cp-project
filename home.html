@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <title>GroSync</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Remix Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet" />
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="css/home.css" />
+  <link rel="stylesheet" href="css/qty-button.css" />
+  <link rel="stylesheet" href="css/support-chat.css" />
+
+
+
+  <!-- ================= JS ================= -->
+  <script src="js/constants.js" defer></script>
+  <script src="js/products-section.js" defer></script>
+  <script src="js/reorder-logic.js" defer></script>
+  <script src="js/home.js" defer></script>
+
+</head>
+
+<body>
+
+  <!-- ================= HEADER ================= -->
+  <header class="top-bar">
+    <div class="logo">
+      <span class="gro">GroSync</span>
+      <div class="eco-badge">
+        <i class="ri-leaf-line"></i>
+        <span>Eco-Friendly</span>
+      </div>
+    </div>
+
+    <div class="actions">
+      <!-- Join Group Buy -->
+      <div class="join-group-wrap" style="margin-right: 15px;">
+        <input type="text" id="joinCodeInput" placeholder="Invite Code" class="group-join-input"
+          style="width: 100px; padding: 6px; border-radius: 4px; border: 1px solid #ddd;">
+        <button class="join-btn" onclick="openJoinModal()"
+          style="background: #3b1a86; color: white; border: none; padding: 6px 12px; border-radius: 4px; cursor: pointer; font-size: 13px;">
+          Join
+        </button>
+      </div>
+
+      <div class="icon-btn" id="cartBtn" onclick="window.location.href='cart.html'">
+        <i class="ri-shopping-cart-2-line"></i>
+        <span class="cart-badge" id="cartBadge">0</span>
+      </div>
+
+      <button id="authBtn" class="login-btn">
+        Login / Signup
+      </button>
+
+      <div class="user-menu-container">
+        <div id="userAvatar" class="user-avatar" onclick="toggleUserDropdown(event)">U</div>
+        <div id="userDropdown" class="user-dropdown">
+          <div class="dropdown-header">
+            <span id="dropdownUserName">User</span>
+
+          </div>
+          <hr>
+          <a href="profile.html"><i class="ri-user-line"></i> My Profile</a>
+          <a href="profile.html?tab=settings"><i class="ri-settings-4-line"></i> Settings</a>
+          <a href="profile.html?tab=orders"><i class="ri-shopping-bag-3-line"></i> My Orders</a>
+          <hr>
+          <a href="#" onclick="logoutUser()" class="logout-link"><i class="ri-logout-box-r-line"></i> Logout</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ================= SEARCH ================= -->
+  <section class="search-section">
+    <div class="search-box">
+
+      <button id="searchTypeBtn" class="search-type-btn">
+        Products
+      </button>
+
+      <div id="searchDropdown" class="search-dropdown">
+        <div onclick="setSearchMode('product')">Products</div>
+        <div onclick="setSearchMode('recipe')">Recipes</div>
+      </div>
+
+      <input id="searchInput" type="text" placeholder="Search products" />
+      <div id="searchSuggestions" class="search-suggestions"></div>
+
+      <button class="search-icon-btn" id="searchExecBtn">
+        <i class="ri-search-2-line"></i>
+      </button>
+
+    </div>
+
+  </section>
+
+  <!-- ================= HERO ================= -->
+  <section class="hero-banner">
+    <div class="hero-card">
+      <div class="hero-overlay"></div>
+
+      <div class="hero-content">
+        <h1>
+          Your Groceries,<br />
+          Your Way – Smarter,<br />
+          Greener, Faster
+        </h1>
+        <p>Welcome to the ultimate grocery experience</p>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ================= CATEGORIES ================= -->
+  <section class="categories-section">
+    <h3 class="section-title">Categories</h3>
+    <div class="category-scroll" id="categoryScroll"></div>
+  </section>
+  <div id="searchResultsContainer"></div>
+
+
+  <!-- ================= HOME PRODUCT SECTIONS ================= -->
+
+  <!-- ================= SMART RECOMMENDATIONS ================= -->
+  <section id="reorderSection" class="product-section hidden">
+    <div class="section-header">
+      <h2 style="display: flex; align-items: center; gap: 8px;">
+        <i class="ri-magic-line" style="color: #f39c12;"></i> Running Low? Quick Reorder
+      </h2>
+    </div>
+    <div class="product-row" id="reorderRow"></div>
+  </section>
+
+  <!-- Fruits -->
+  <section class="product-section" data-section="Fruits">
+    <div class="section-header">
+      <h2>Fruits</h2>
+      <span class="see-all" data-category="Fruits">see all</span>
+    </div>
+    <div class="product-row" id="fruitRow"></div>
+  </section>
+
+  <!-- Vegetables -->
+  <section class="product-section" data-section="Vegetables">
+    <div class="section-header">
+      <h2>Vegetables</h2>
+      <span class="see-all" data-category="Vegetables">see all</span>
+    </div>
+    <div class="product-row" id="vegetableRow"></div>
+  </section>
+
+  <!-- Dairy -->
+  <section class="product-section" data-section="Dairy Products">
+    <div class="section-header">
+      <h2>Dairy Products</h2>
+      <span class="see-all" data-category="Dairy Products">see all</span>
+    </div>
+    <div class="product-row" id="dairyRow"></div>
+  </section>
+
+  <!-- Atta Rice Dal -->
+  <section class="product-section" data-section="Atta, Rice & Dal">
+    <div class="section-header">
+      <h2>Atta, Rice & Dal</h2>
+      <span class="see-all" data-category="Atta, Rice & Dal">see all</span>
+    </div>
+    <div class="product-row" id="cookingRow"></div>
+  </section>
+
+  <!-- Oil Ghee Masala -->
+  <section class="product-section" data-section="Oil, Ghee & Masala">
+    <div class="section-header">
+      <h2>Oil, Ghee & Masala</h2>
+      <span class="see-all" data-category="Oil, Ghee & Masala">see all</span>
+    </div>
+    <div class="product-row" id="oilgheemasalaRow"></div>
+  </section>
+
+  <!-- Daily Essentials -->
+  <section class="product-section" data-section="Daily Essentials">
+    <div class="section-header">
+      <h2>Daily Essentials</h2>
+      <span class="see-all" data-category="Daily Essentials">see all</span>
+    </div>
+    <div class="product-row" id="dailyRow"></div>
+  </section>
+
+  <!-- Bath & Body -->
+  <section class="product-section" data-section="Bath & Body">
+    <div class="section-header">
+      <h2>Bath & Body</h2>
+      <span class="see-all" data-category="Bath & Body">see all</span>
+    </div>
+    <div class="product-row" id="bathRow"></div>
+  </section>
+
+  <!-- Feminine Hygiene -->
+  <section class="product-section" data-section="Feminine Hygiene">
+    <div class="section-header">
+      <h2>Feminine Hygiene</h2>
+      <span class="see-all" data-category="Feminine Hygiene">see all</span>
+    </div>
+    <div class="product-row" id="feminineRow"></div>
+  </section>
+
+  <!-- Baby Care -->
+  <section class="product-section" data-section="Baby Care">
+    <div class="section-header">
+      <h2>Baby Care</h2>
+      <span class="see-all" data-category="Baby Care">see all</span>
+    </div>
+    <div class="product-row" id="babyRow"></div>
+  </section>
+
+  <!-- Snacks -->
+  <section class="product-section" data-section="Chips & Namkeen">
+    <div class="section-header">
+      <h2>Chips & Namkeen</h2>
+      <span class="see-all" data-category="Chips & Namkeen">see all</span>
+    </div>
+    <div class="product-row" id="chipsRow"></div>
+  </section>
+
+  <!-- Biscuits -->
+  <section class="product-section" data-section="Biscuits & Bakery">
+    <div class="section-header">
+      <h2>Biscuits & Bakery</h2>
+      <span class="see-all" data-category="Biscuits & Bakery">see all</span>
+    </div>
+    <div class="product-row" id="biscuitssRow"></div>
+  </section>
+
+  <!-- Instant -->
+  <section class="product-section" data-section="Instant Food">
+    <div class="section-header">
+      <h2>Instant Food</h2>
+      <span class="see-all" data-category="Instant Food">see all</span>
+    </div>
+    <div class="product-row" id="instantRow"></div>
+  </section>
+
+  <!-- Sauces -->
+  <section class="product-section" data-section="Sauces">
+    <div class="section-header">
+      <h2>Sauces</h2>
+      <span class="see-all" data-category="Sauces">see all</span>
+    </div>
+    <div class="product-row" id="saucesRow"></div>
+  </section>
+
+  <!-- Dry Fruits -->
+  <section class="product-section" data-section="Dryfruit & Cereals">
+    <div class="section-header">
+      <h2>Dryfruit & Cereals</h2>
+      <span class="see-all" data-category="Dryfruit & Cereals">see all</span>
+    </div>
+    <div class="product-row" id="dryfruitRow"></div>
+  </section>
+
+  <!-- Sweets -->
+  <section class="product-section" data-section="Sweets & Chocolates">
+    <div class="section-header">
+      <h2>Sweets & Chocolates</h2>
+      <span class="see-all" data-category="Sweets & Chocolates">see all</span>
+    </div>
+    <div class="product-row" id="sweetsRow"></div>
+  </section>
+
+  <!-- Drinks -->
+  <section class="product-section" data-section="Drinks & Beverages">
+    <div class="section-header">
+      <h2>Drinks & Beverages</h2>
+      <span class="see-all" data-category="Drinks & Beverages">see all</span>
+    </div>
+    <div class="product-row" id="drinksRow"></div>
+  </section>
+
+  <!-- Stationery -->
+  <section class="product-section" data-section="Stationery">
+    <div class="section-header">
+      <h2>Stationery</h2>
+      <span class="see-all" data-category="Stationery">see all</span>
+    </div>
+    <div class="product-row" id="statRow"></div>
+  </section>
+
+
+  <!-- ================= GROUP BUY MODALS ================= -->
+  <div id="joinModal" class="group-modal">
+    <div class="modal-content">
+      <span class="close-modal" onclick="closeJoinModal()">&times;</span>
+      <h3>Join Group Buy</h3>
+      <p>Enter your details to join the neighbor group!</p>
+
+      <div class="form-group" style="margin-bottom: 12px; text-align: left;">
+        <label style="display: block; margin-bottom: 4px; font-size: 13px;">Your Name</label>
+        <input type="text" id="joinName" placeholder="Neighbor Name"
+          style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+      </div>
+      <div class="form-group" style="margin-bottom: 12px; text-align: left;">
+        <label style="display: block; margin-bottom: 4px; font-size: 13px;">Mobile Phone</label>
+        <input type="text" id="joinPhone" placeholder="10-digit mobile"
+          style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+      </div>
+      <div class="form-group" style="margin-bottom: 12px; text-align: left;">
+        <label style="display: block; margin-bottom: 4px; font-size: 13px;">Flat / House Number</label>
+        <input type="text" id="joinHouse" placeholder="E.g. Flat 302"
+          style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+      </div>
+      <div class="form-group" style="margin-bottom: 12px; text-align: left;">
+        <label style="display: block; margin-bottom: 4px; font-size: 13px;">Area / Street</label>
+        <input type="text" id="joinArea" placeholder="E.g. MG Road"
+          style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+      </div>
+      <div class="form-row-flex" style="display: flex; gap: 10px; margin-bottom: 20px;">
+        <div style="flex: 1;">
+          <label style="display: block; margin-bottom: 4px; font-size: 13px;">Pincode</label>
+          <input type="text" id="joinPincode" placeholder="6 digits"
+            style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+        </div>
+        <div style="flex: 1;">
+          <label style="display: block; margin-bottom: 4px; font-size: 13px;">City</label>
+          <input type="text" id="joinCity" placeholder="City"
+            style="width: 100%; padding: 8px; border: 1px solid #ddd; border-radius: 4px;">
+        </div>
+      </div>
+
+      <button onclick="confirmJoinGroup()"
+        style="width: 100%; background: #3b1a86; color: white; border: none; padding: 12px; border-radius: 8px; font-weight: 600; cursor: pointer;">
+        Join & Start Shopping
+      </button>
+    </div>
+  </div>
+
+  <div id="groupDashboard" class="group-dashboard" style="display: none;">
+    <div class="dashboard-header">
+      <h4>Group: <span id="dashInviteCode" style="color: #6c5ce7;">---</span></h4>
+      <button onclick="toggleDashboard()" class="close-dash-btn"><i class="ri-close-line"></i></button>
+    </div>
+    <div id="memberList" class="member-list"></div>
+    <div class="dashboard-footer">
+      <div id="groupStatusInfo">Joining... (0/5)</div>
+      <div id="groupDiscountHint" style="font-size: 11px; color: #ff6b6b; margin-top: 4px;">Add 5 members for 10% OFF!
+      </div>
+    </div>
+  </div>
+
+  <div id="modalOverlay" class="modal-overlay" onclick="closeJoinModal()"></div>
+
+  <script src="js/support-chat.js" defer></script>
+</body>
+
+</html>

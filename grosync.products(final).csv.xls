@@ -1,0 +1,1609 @@
+_id,id,name,image,qty,category,price,__v
+698c722e70c46913d2ee76d7,1,Apple,assets/images/apple.jpeg,500 g,Fruits,43,0
+698c722e70c46913d2ee76d8,2,Avocado,assets/images/avocardo.jpeg,150–200 g (1 pc),Fruits,107,0
+698c722e70c46913d2ee76d9,3,Cherry,assets/images/cherry.jpg,125 g,Fruits,180,0
+698c722e70c46913d2ee76da,4,Orange,assets/images/orange.jpg,200 g (3 pc),Fruits,86,0
+698c722e70c46913d2ee76db,5,Dragon Fruit,assets/images/dragon fruit.jpg,300-400 g (1 pc),Fruits,82,0
+698c722e70c46913d2ee76dc,6,Banana,assets/images/banana.jpg,3 pc,Fruits,23,0
+698c722e70c46913d2ee76dd,7,Guava,assets/images/guava.jpg,400-500 g (2 pc),Fruits,54,0
+698c722e70c46913d2ee76de,8,chikoo,assets/images/chickoo.jpg,250-300 g,Fruits,32,0
+698c722e70c46913d2ee76df,9,Pomegranate,assets/images/pome.jpg,500-700 g,Fruits,123,0
+698c722e70c46913d2ee76e0,10,Green Grapes,assets/images/greengrapes.jpg,480-500 g,Fruits,122,0
+698c722e70c46913d2ee76e1,11,Strawberry,assets/images/strawberry.jpg,180-200 g (1 pack),Fruits,100,0
+698c722e70c46913d2ee76e2,12,Green Kiwi,assets/images/kiwi.jpg,3 pc,Fruits,79,0
+698c722e70c46913d2ee76e3,13,Brown Coconut,assets/images/browncoconut.jpg,1 pc,Fruits,48,0
+698c722e70c46913d2ee76e4,14,Muskmelon,assets/images/muskmelon.jpg,1 pc,Fruits,45,0
+698c722e70c46913d2ee76e5,15,Pineapple,assets/images/pineapple.jpg,800-1000 g (1 pc),Fruits,85,0
+698c722e70c46913d2ee76e6,16,Watermelon,assets/images/watermelon.jpg,2-3 kg (1 pc),Fruits,89,0
+698c722e70c46913d2ee76e7,17,Pear,assets/images/pear.jpg,200-300 g (2 pc),Fruits,82,0
+698c722e70c46913d2ee76e8,18,Plum,assets/images/plum.jpg,250 g,Fruits,82,0
+698c722e70c46913d2ee76e9,19,Groundnuts,assets/images/groundnuts.jpg,500 g,Fruits,49,0
+698c722e70c46913d2ee76ea,20,Sweet Tamarind,assets/images/sweettarmarind.jpg,225 g,Fruits,107,0
+698c722e70c46913d2ee76eb,21,Sugarcane Stick,assets/images/sugarcanestick.jpg,2 ft (1 pc),Fruits,26,0
+698c722e70c46913d2ee76ec,22,Coconut,assets/images/greencoconut.jpg,1 pc,Fruits,59,0
+698c722e70c46913d2ee76ed,23,Papaya,assets/images/papaya.jpg,1 kg,Fruits,46,0
+698c722e70c46913d2ee76ee,24,Sweet Lime,assets/images/sweetlime.jpg,500-600 g,Fruits,56,0
+698c722e70c46913d2ee76ef,25,Custard Apple,assets/images/curstard apple.jpg,300-500 g (2 pc),Fruits,56,0
+698c722e70c46913d2ee76f0,26,Black Grapes,assets/images/blackgrapes.jpg,200-250 g,Fruits,72,0
+698c722e70c46913d2ee76f1,27,Blueberry,assets/images/blueberries.jpg,200-250 g,Fruits,150,0
+698c722e70c46913d2ee76f2,28,Dates,assets/images/dates.jpg,200-250 g,Fruits,70,0
+698c722e70c46913d2ee76f3,29,Mango,assets/images/mango.jpg,500 g,Fruits,160,0
+698c722e70c46913d2ee76f4,30,Green Apple,assets/images/greenapple.jpg,500 g,Fruits,89,0
+698c722e70c46913d2ee76f5,31,Tomato,assets/images/tomato.jpg,500 g,Vegetables,34,0
+698c722e70c46913d2ee76f6,32,Onion,assets/images/onion.jpg,950-1050 g,Vegetables,30,0
+698c722e70c46913d2ee76f7,33,Potato,assets/images/potato.jpg,1 kg,Vegetables,34,0
+698c722e70c46913d2ee76f8,34,Lemon,assets/images/lemon.jpg,200 g,Vegetables,21,0
+698c722e70c46913d2ee76f9,35,Coriander,assets/images/coriander.jpg,100 g,Vegetables,12,0
+698c722e70c46913d2ee76fa,36,Green Chilli,assets/images/chilly.jpg,100 g,Vegetables,17,0
+698c722e70c46913d2ee76fb,37,Carrot,assets/images/carrot.jpg,500 g,Vegetables,29,0
+698c722e70c46913d2ee76fc,38,Ginger,assets/images/ginger.jpg,200 g,Vegetables,26,0
+698c722e70c46913d2ee76fd,39,Green Capsicum,assets/images/capsicum.jpg,250-300 g,Vegetables,22,0
+698c722e70c46913d2ee76fe,40,Cucumber,assets/images/cucumber.jpg,500-600 g,Vegetables,26,0
+698c722e70c46913d2ee76ff,41,Spinach,assets/images/spinach.jpg,200 g,Vegetables,20,0
+698c722e70c46913d2ee7700,42,Green Peas,assets/images/peas.jpg,250 g,Vegetables,18,0
+698c722e70c46913d2ee7701,43,Brocolli,assets/images/brocolli.jpg,200-300 g,Vegetables,37,0
+698c722e70c46913d2ee7702,44,Garlic,assets/images/garlic.jpg,200 g,Vegetables,43,0
+698c722e70c46913d2ee7703,45,Cauliflower,assets/images/cauliflower.jpg,400 g,Vegetables,30,0
+698c722e70c46913d2ee7704,46,cabbage,assets/images/cabbage.jpg,400-600 g,Vegetables,23,0
+698c722e70c46913d2ee7705,47,Button Mushroom,assets/images/mushroom.jpg,180 g,Vegetables,55,0
+698c722e70c46913d2ee7706,48,Beetroot,assets/images/beetroot.jpg,500-600 g,Vegetables,26,0
+698c722e70c46913d2ee7707,49,Lady Finger,assets/images/ladyfinger.jpg,250 g,Vegetables,29,0
+698c722e70c46913d2ee7708,50,Spring Onion,assets/images/springonion.jpg,150-200 g,Vegetables,16,0
+698c722e70c46913d2ee7709,51,Sweet Corn,assets/images/sweetcorn.jpg,1 pc,Vegetables,21,0
+698c722e70c46913d2ee770a,52,Amla,assets/images/amla.jpg,250 g,Vegetables,28,0
+698c722e70c46913d2ee770b,53,Curry Leaves,assets/images/curryleaves.jpg,50 g,Vegetables,13,0
+698c722e70c46913d2ee770c,54,Mint Leaves,assets/images/mintleaves.jpg,100 g,Vegetables,19,0
+698c722e70c46913d2ee770d,55,Bottle Gourd,assets/images/bottlegourd.jpg,250-350 g,Vegetables,34,0
+698c722e70c46913d2ee770e,56,Fenugreek,assets/images/fenugreek.jpg,250 g,Vegetables,23,0
+698c722e70c46913d2ee770f,57,French Beans,assets/images/frenchbeans.jpg,250 g,Vegetables,33,0
+698c722e70c46913d2ee7710,58,Red Bell Pepper,assets/images/redbellpepper.jpg,125-175 g,Vegetables,38,0
+698c722e70c46913d2ee7711,59,Sweet Potato,assets/images/sweetpotato.jpg,450-600 g,Vegetables,40,0
+698c722e70c46913d2ee7712,60,Yellow Bell Pepper,assets/images/yellowbellpepper.jpg,125-175 g,Vegetables,38,0
+698c722e70c46913d2ee7713,61,Spring Garlic,assets/images/springgarlic.jpg,200 g,Vegetables,34,0
+698c722e70c46913d2ee7714,62,Brinjal,assets/images/brinjal.jpg,500-700 g,Vegetables,30,0
+698c722e70c46913d2ee7715,63,Green Brinjal,assets/images/green brinjal.jpg,500-600 g,Vegetables,30,0
+698c722e70c46913d2ee7716,64,Red Cabbage,assets/images/redcabbage.jpg,300-500 g,Vegetables,30,0
+698c722e70c46913d2ee7717,65,Mustard Leaves,assets/images/mustardleaves.jpg,250 g,Vegetables,23,0
+698c722e70c46913d2ee7718,66,Cluster Beans,assets/images/clusterbeans.jpg,250 g,Vegetables,41,0
+698c722e70c46913d2ee7719,67,Baby Corn - Packet,assets/images/babycorn.jpg,200 g,Vegetables,55,0
+698c722e70c46913d2ee771a,68,Radish,assets/images/radish.jpg,250-300 g,Vegetables,20,0
+698c722e70c46913d2ee771b,69,Broad Beans,assets/images/broadbeans.jpg,250 g,Vegetables,34,0
+698c722e70c46913d2ee771c,70,Bitter Gourd,assets/images/bittergourd.jpg,250-300 g,Vegetables,24,0
+698c722e70c46913d2ee771d,71,Raw Turmeric,assets/images/rawturmeric.jpg,250 g,Vegetables,32,0
+698c722e70c46913d2ee771e,72,Cowpea Beans,assets/images/cowpeabeans.jpg,250 g,Vegetables,29,0
+698c722e70c46913d2ee771f,73,Ivy Gourd,assets/images/ivygourd.jpg,250 g,Vegetables,25,0
+698c722e70c46913d2ee7720,74,Lemongrass,assets/images/lemongrass.jpg,100 g,Vegetables,31,0
+698c722e70c46913d2ee7721,75,Green Pumpkin,assets/images/pumpkin.jpg,1.5-2.5 kg,Vegetables,72,0
+698c722e70c46913d2ee7722,76,Green Zucchini,assets/images/zucchini.jpg,200-250 g,Vegetables,46,0
+698c722e70c46913d2ee7723,77,Raw Banana,assets/images/rawbanana.jpg,3 pc,Vegetables,22,0
+698c722e70c46913d2ee7724,78,Raw Papaya,assets/images/rawpapaya.jpg,400-600 g,Vegetables,22,0
+698c722e70c46913d2ee7725,79,Arvi,assets/images/arvi.jpg,250-300 g,Vegetables,26,0
+698c722e70c46913d2ee7726,80,Groundnuts,assets/images/groundnuts.jpg,500 g,Vegetables,49,0
+698c722e70c46913d2ee7727,81,Sponge Gourd,assets/images/spongegourd.jpg,250 g,Vegetables,33,0
+698c722e70c46913d2ee7728,82,Green Amaranthus,assets/images/greenamaranthus.jpg,250 g,Vegetables,21,0
+698c722e70c46913d2ee7729,83,Arvi Leaves,assets/images/arvileaves.jpg,5 pc,Vegetables,19,0
+698c722e70c46913d2ee772a,84,Dill Leaves,assets/images/dillleaves.jpg,200 g,Vegetables,26,0
+698c722e70c46913d2ee772b,85,Pigeon Pea,assets/images/pigeon pea.jpg,250 g,Vegetables,27,0
+698c722e70c46913d2ee772c,86,Banana Leaf,assets/images/bananaleaves.jpg,5 pc,Vegetables,89,0
+698c722e70c46913d2ee772d,87,Amul Gold Full Cream Milk,assets/images/AmulGoldFullCreamMilk.jpg,500 ml,Dairy Products,34,0
+698c722e70c46913d2ee772e,88,Amul Taaza Toned Milk,assets/images/AmulTaazaTonedMilk(500ml).jpg,500 ml,Dairy Products,28,0
+698c722e70c46913d2ee772f,89,Amul Taaza Toned Milk,assets/images/AmulTaazaTonedMilk(200ml).jpg,200 ml,Dairy Products,16,0
+698c722e70c46913d2ee7730,90,Amul Gold Milk,assets/images/AmulGoldMilk.jpg,1 l,Dairy Products,80,0
+698c722e70c46913d2ee7731,91,Amul Slim 'n' Trim Skimmed Milk,assets/images/AmulSlim'n'TrimSkimmedMilk.jpg,1 l,Dairy Products,82,0
+698c722e70c46913d2ee7732,92,Amul Moti Toned Milk,assets/images/AmulMotiTonedMilk.jpg,450 ml,Dairy Products,32,0
+698c722e70c46913d2ee7733,93,Amul cow Milk,assets/images/AmulcowMilk.jpg,1 l,Dairy Products,76,0
+698c722e70c46913d2ee7734,94,Amul Taaza Homogenised Milk,assets/images/AmulTaazaHomogenisedMilk.jpg,1 l,Dairy Products,75,0
+698c722e70c46913d2ee7735,95,Amul Lactose Free Milk,assets/images/AmulLactoseFreeMilk.jpg,250 ml,Dairy Products,25,0
+698c722e70c46913d2ee7736,96,Amul Buffalo A2 Milk,assets/images/AmulBuffaloA2Milk.jpg,1 l,Dairy Products,88,0
+698c722e70c46913d2ee7737,97,Amul Calci+ Milk,assets/images/AmulCalci+Milk.jpg,250 ml,Dairy Products,25,0
+698c722e70c46913d2ee7738,98,White Eggs,assets/images/WhiteEggs.jpg,10 pc,Dairy Products,107,0
+698c722e70c46913d2ee7739,99,Brown Eggs,assets/images/BrownEggs.jpg,6 pc,Dairy Products,100,0
+698c722e70c46913d2ee773a,100,Amul Masti Curd Pouch,assets/images/AmulMastiCurdPouch.jpg,390 g,Dairy Products,35,0
+698c722e70c46913d2ee773b,101,Amul Masti Curd Cup,assets/images/AmulMastiCurdCup.jpg,200 g,Dairy Products,24,0
+698c722e70c46913d2ee773c,102,Amul Masti Curd Pouch,assets/images/AmulMastiCurdPouch.jpg,1 kg,Dairy Products,77,0
+698c722e70c46913d2ee773d,103,Amul Probiotic High Protein Curd Cup,assets/images/AmulProbioticHighProteinCurdCup.jpg,400 g,Dairy Products,70,0
+698c722e70c46913d2ee773e,104,Epigamia Blueberry Flavoured Greek Yogurt,assets/images/EpigamiaBlueberryFlavouredGreekYogurt.jpg,85 g,Dairy Products,60,0
+698c722e70c46913d2ee773f,105,Epigamia Natural Greek Yogurt,assets/images/EpigamiaNaturalGreekYogurt.jpg,85 g,Dairy Products,60,0
+698c722e70c46913d2ee7740,106,Epigamia Vanilla Bean Flavoured Greek Yogurt,assets/images/EpigamiaVanillaBeanFlavouredGreekYogurt.jpg,85 g,Dairy Products,60,0
+698c722e70c46913d2ee7741,107,Epigamia Wild Raspberry Flavoured Greek Yogurt,assets/images/EpigamiaWildRaspberryFlavouredGreekYogurt.jpg,85 g,Dairy Products,60,0
+698c722e70c46913d2ee7742,108,Epigamia Strawberry Flavoured Greek Yogurt,assets/images/EpigamiaStrawberryFlavouredGreekYogurt.jpg,85 g,Dairy Products,60,0
+698c722e70c46913d2ee7743,109,Epigamia Alphonso Mango Flavoured Greek Yogurt,assets/images/EpigamiaAlphonsoMangoFlavouredGreekYogurt.jpg,85 g,Dairy Products,60,0
+698c722e70c46913d2ee7744,110,Epigamia Everyday Flavoured Yogurt,assets/images/EpigamiaEverydayFlavouredYogurt.jpg,75 g,Dairy Products,25,0
+698c722e70c46913d2ee7745,111,Epigamia Alphonso Mango Flavoured Yogurt,assets/images/EpigamiaAlphonsoMangoFlavouredYogurt.jpg,75 g,Dairy Products,35,0
+698c722e70c46913d2ee7746,112,Epigamia Natural Greek Yogurt,assets/images/EpigamiaNaturalGreekYogurt(400g).jpg,400 g,Dairy Products,250,0
+698c722e70c46913d2ee7747,113,Epigamia Turbo 50g Protein Yogurt,assets/images/EpigamiaTurbo50gProteinYogurt.jpg,430 g,Dairy Products,325,0
+698c722e70c46913d2ee7748,114,Epigamia Turbo Protein Yogurt,assets/images/EpigamiaTurboProteinYogurt.jpg,140 g,Dairy Products,125,0
+698c722e70c46913d2ee7749,115,Amul Elaichi Shrikhand,assets/images/AmulElaichiShrikhand.jpg,100 g,Dairy Products,28,0
+698c722e70c46913d2ee774a,116,Amul Kesar Shrikhand,assets/images/AmulKesarShrikhand.jpg,100 g,Dairy Products,28,0
+698c722e70c46913d2ee774b,117,Amul Rajbhog Shrikhand,assets/images/AmulRajbhogShrikhand.jpg,200 g,Dairy Products,57,0
+698c722e70c46913d2ee774c,118,Amul Elaichi Shrikhand,assets/images/AmulElaichiShrikhand(500g).jpg,500 g,Dairy Products,115,0
+698c722e70c46913d2ee774d,119,Amul Badam Pista Shrikhand,assets/images/AmulBadamPistaShrikhand.jpg,500 g,Dairy Products,130,0
+698c722e70c46913d2ee774e,120,Amul Real Mango Amrakhand,assets/images/AmulRealMangoAmrakhand.jpg,500 g,Dairy Products,115,0
+698c722e70c46913d2ee774f,121,Epigamia Mishti Doi,assets/images/EpigamiaMishtiDoi.jpg,80 g,Dairy Products,35,0
+698c722e70c46913d2ee7750,122,D'lecta Processed Cheese Slices,assets/images/D'lectaProcessedCheeseSlices.jpg,200 g,Dairy Products,104,0
+698c722e70c46913d2ee7751,123,Amul Salted Butter,assets/images/AmulSaltedButter(100g).jpg,100 g,Dairy Products,58,0
+698c722e70c46913d2ee7752,124,Amul Cheese Cubes,assets/images/AmulCheeseCubes.jpg,200 g,Dairy Products,130,0
+698c722e70c46913d2ee7753,125,Amul Cheese Block,assets/images/AmulCheeseBlock.jpg,500 g,Dairy Products,290,0
+698c722e70c46913d2ee7754,126,D'lecta Chilli Cheese Slices,assets/images/D'lectaChilliCheeseSlices.jpg,10 x 20 g,Dairy Products,116,0
+698c722e70c46913d2ee7755,127,Amul Salted Butter Chiplets,assets/images/AmulSaltedButterChiplets.jpg,100 g,Dairy Products,70,0
+698c722e70c46913d2ee7756,128,D'lecta 100% Mozzarella Pizza Cheese Block,assets/images/D'lecta100%MozzarellaPizzaCheeseBlock.jpg,200 g,Dairy Products,117,0
+698c722e70c46913d2ee7757,129,Amul Garlic & Herbs Butter,assets/images/AmulGarlic&HerbsButter.jpg,100 g,Dairy Products,66,0
+698c722e70c46913d2ee7758,130,Britannia Laughing Cow Cheese Slices,assets/images/BritanniaLaughingCowCheeseSlices.jpg,400 g,Dairy Products,298,0
+698c722e70c46913d2ee7759,131,Amul Cheese Slices,assets/images/AmulCheeseSlices.jpg,200 g,Dairy Products,140,0
+698c722e70c46913d2ee775a,132,Amul Salted Butter,assets/images/AmulSaltedButter(200g).jpg,200 g,Dairy Products,118,0
+698c722e70c46913d2ee775b,133,Amul Blend Diced Cheese,assets/images/AmulBlendDicedCheese.jpg,1 kg,Dairy Products,540,0
+698c722e70c46913d2ee775c,134,Amul Spicy Garlic Cheese Spread,assets/images/AmulSpicyGarlicCheeseSpread.jpg,200 g,Dairy Products,109,0
+698c722e70c46913d2ee775d,135,D'lecta Cream Cheese,assets/images/D'lectaCreamCheese.jpg,150 g,Dairy Products,175,0
+698c722e70c46913d2ee775e,136,D'lecta Parmesan Extra Hard Cheese Block,assets/images/D'lectaParmesanExtraHardCheeseBlock.jpg,100 g,Dairy Products,350,0
+698c722e70c46913d2ee775f,137,D'lecta Natural Feta Cheese Block,assets/images/D'lectaNaturalFetaCheeseBlock.jpg,100 g,Dairy Products,107,0
+698c722e70c46913d2ee7760,138,D'lecta Cheese Cubes,assets/images/D'lectaCheeseCubes.jpg,200 g,Dairy Products,124,0
+698c722e70c46913d2ee7761,139,Amul Pizza Mozzarella Diced Cheese,assets/images/AmulPizzaMozzarellaDicedCheese.jpg,1 kg,Dairy Products,530,0
+698c722e70c46913d2ee7762,140,D'lecta 100% Cheddar Cheese Block,assets/images/D'lecta100%CheddarCheeseBlock.jpg,200 g,Dairy Products,185,0
+698c722e70c46913d2ee7763,141,Go Cheese Slices,assets/images/GoCheeseSlices.jpg,200 g,Dairy Products,126,0
+698c722e70c46913d2ee7764,142,Amul A+ Cheese Slices,assets/images/AmulA+CheeseSlices.jpg,200 g,Dairy Products,115,0
+698c722e70c46913d2ee7765,143,Amul Unsalted Butter,assets/images/AmulUnsaltedButter.jpg,100 g,Dairy Products,61,0
+698c722e70c46913d2ee7766,144,Amul Cream Cheese,assets/images/AmulCreamCheese.jpg,180 g,Dairy Products,118,0
+698c722e70c46913d2ee7767,145,Amul Yummy Plain Cheese Spread,assets/images/AmulYummyPlainCheeseSpread.jpg,200 g,Dairy Products,109,0
+698c722e70c46913d2ee7768,146,Amul Fresh Malai Paneer,assets/images/AmulFreshMalaiPaneer.jpg,200 g,Dairy Products,89,0
+698c722e70c46913d2ee7769,147,Gowardhan Classic Block Paneer,assets/images/GowardhanClassicBlockPaneer.jpg,200 g,Dairy Products,85,0
+698c722e70c46913d2ee776a,148,Morinaga Firm Tofu,assets/images/MorinagaFirmTofu.jpg,349 g,Dairy Products,399,0
+698c722e70c46913d2ee776b,149,Morinaga Silken Extra Firm Tofu,assets/images/MorinagaSilkenExtraFirmTofu.jpg,308 g,Dairy Products,399,0
+698c722e70c46913d2ee776c,150,Amul Vanilla Ice Cream Stick,assets/images/AmulVanillaIceCreamStick.jpg,60 ml,Dairy Products,25,0
+698c722e70c46913d2ee776d,151,Amul Chocolate Ice Cream Stick,assets/images/AmulChocolateIceCreamStick.jpg,60 ml,Dairy Products,30,0
+698c722e70c46913d2ee776e,152,Amul Strawberry Ice Cream Stick,assets/images/AmulStrawberryIceCreamStick.jpg,60 ml,Dairy Products,25,0
+698c722e70c46913d2ee776f,153,Amul Mango Dolly,assets/images/AmulMangoDolly.jpg,60 ml,Dairy Products,25,0
+698c722e70c46913d2ee7770,154,Amul Orange Bar,assets/images/AmulOrangeBar.jpg,60 ml,Dairy Products,20,0
+698c722e70c46913d2ee7771,155,Kwality Walls Cornetto Chocolate Cone,assets/images/KwalityWallsCornettoChocolateCone.jpg,120 ml,Dairy Products,45,0
+698c722e70c46913d2ee7772,156,Kwality Walls Cornetto Butterscotch Cone,assets/images/KwalityWallsCornettoButterscotchCone.jpg,120 ml,Dairy Products,45,0
+698c722e70c46913d2ee7773,157,Kwality Walls Cornetto Strawberry Cone,assets/images/KwalityWallsCornettoStrawberryCone.jpg,120 ml,Dairy Products,45,0
+698c722e70c46913d2ee7774,158,Havmor Chocolate Cone,assets/images/HavmorChocolateCone.jpg,120 ml,Dairy Products,50,0
+698c722e70c46913d2ee7775,159,Havmor Butterscotch Cone,assets/images/HavmorButterscotchCone.jpg,120 ml,Dairy Products,50,0
+698c722e70c46913d2ee7776,160,Vadilal Cassata Ice Cream Slice,assets/images/VadilalCassataIceCreamSlice.jpg,100 ml,Dairy Products,40,0
+698c722e70c46913d2ee7777,161,Havmor Cassata Ice Cream Slice,assets/images/HavmorCassataIceCreamSlice.jpg,100 ml,Dairy Products,45,0
+698c722e70c46913d2ee7778,162,Amul Cassata Ice Cream Slice,assets/images/AmulCassataIceCreamSlice.jpg,100 ml,Dairy Products,40,0
+698c722e70c46913d2ee7779,163,Kwality Walls Ice Cream Sandwich Vanilla,assets/images/KwalityWallsIceCreamSandwichVanilla.jpg,100 ml,Dairy Products,35,0
+698c722e70c46913d2ee777a,164,Havmor Ice Cream Sandwich Chocolate,assets/images/HavmorIceCreamSandwichChocolate.jpg,100 ml,Dairy Products,40,0
+698c722e70c46913d2ee777b,165,Vadilal Ice Cream Sandwich Vanilla,assets/images/VadilalIceCreamSandwichVanilla.jpg,100 ml,Dairy Products,35,0
+698c722e70c46913d2ee777c,166,Amul Cup Vanilla Ice Cream,assets/images/AmulCupVanillaIceCream.jpg,125 ml,Dairy Products,30,0
+698c722e70c46913d2ee777d,167,Amul Cup Chocolate Ice Cream,assets/images/AmulCupChocolateIceCream.jpg,125 ml,Dairy Products,35,0
+698c722e70c46913d2ee777e,168,Kwality Walls Cup Strawberry,assets/images/KwalityWallsCupStrawberry.jpg,125 ml,Dairy Products,35,0
+698c722e70c46913d2ee777f,169,Havmor Cup Butterscotch,assets/images/HavmorCupButterscotch.jpg,125 ml,Dairy Products,40,0
+698c722e70c46913d2ee7780,170,Vadilal Cup Mango Ice Cream,assets/images/VadilalCupMangoIceCream.jpg,125 ml,Dairy Products,35,0
+698c722e70c46913d2ee7781,171,Amul Magnum Classic,assets/images/AmulMagnumClassic.jpg,80 ml,Dairy Products,75,0
+698c722e70c46913d2ee7782,172,Amul Magnum Almond,assets/images/AmulMagnumAlmond.jpg,80 ml,Dairy Products,85,0
+698c722e70c46913d2ee7783,173,Kwality Walls Magnum Chocolate Truffle,assets/images/KwalityWallsMagnumChocolateTruffle.jpg,80 ml,Dairy Products,90,0
+698c722e70c46913d2ee7784,174,Havmor Gourmet Belgian Chocolate,assets/images/HavmorGourmetBelgianChocolate.jpg,100 ml,Dairy Products,110,0
+698c722e70c46913d2ee7785,175,Vadilal Gourmet Madagascar Chocolate,assets/images/VadilalGourmetMadagascarChocolate.jpg,100 ml,Dairy Products,120,0
+698c722e70c46913d2ee7786,176,NIC Alphonso Mango Ice Cream,assets/images/NICAlphonsoMangoIceCream.jpg,125 ml,Dairy Products,95,0
+698c722e70c46913d2ee7787,177,Naturals Tender Coconut Ice Cream,assets/images/NaturalsTenderCoconutIceCream.jpg,125 ml,Dairy Products,105,0
+698c722e70c46913d2ee7788,178,Baskin Robbins Mississippi Mud Cup,assets/images/BaskinRobbinsMississippiMudCup.jpg,100 ml,Dairy Products,125,0
+698c722e70c46913d2ee7789,179,Aashirvaad Shudh Chakki Atta,assets/images/AashirvaadShudhChakkiAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",252,0
+698c722e70c46913d2ee778a,180,Aashirvaad Shudh Chakki Atta,assets/images/AashirvaadShudhChakkiAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",485,0
+698c722e70c46913d2ee778b,181,Aashirvaad Select MP Sharbati Atta,assets/images/AashirvaadSelectMPSharbatiAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",329,0
+698c722e70c46913d2ee778c,182,Aashirvaad Select MP Sharbati Atta,assets/images/AashirvaadSelectMPSharbatiAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",635,0
+698c722e70c46913d2ee778d,183,Aashirvaad Multigrain Atta,assets/images/AashirvaadMultigrainAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",335,0
+698c722e70c46913d2ee778e,184,Aashirvaad Multigrain Atta,assets/images/AashirvaadMultigrainAtta(2kg).jpg,2 kg,"Atta, Rice & Dal",165,0
+698c722e70c46913d2ee778f,185,Aashirvaad Whole Wheat Atta,assets/images/AashirvaadWholeWheatAtta.jpg,1 kg,"Atta, Rice & Dal",58,0
+698c722e70c46913d2ee7790,186,Aashirvaad Sugar Release Control Atta,assets/images/AashirvaadSugarReleaseControlAtta.jpg,5 kg,"Atta, Rice & Dal",360,0
+698c722e70c46913d2ee7791,187,Pillsbury Chakki Fresh Atta,assets/images/PillsburyChakkiFreshAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",265,0
+698c722e70c46913d2ee7792,188,Pillsbury Chakki Fresh Atta,assets/images/PillsburyChakkiFreshAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",520,0
+698c722e70c46913d2ee7793,189,Pillsbury Multigrain Atta,assets/images/PillsburyMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",310,0
+698c722e70c46913d2ee7794,190,Pillsbury Atta with Fibre,assets/images/PillsburyAttawithFibre.jpg,5 kg,"Atta, Rice & Dal",295,0
+698c722e70c46913d2ee7795,191,Fortune Chakki Fresh Atta,assets/images/FortuneChakkiFreshAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",259,0
+698c722e70c46913d2ee7796,192,Fortune Chakki Fresh Atta,assets/images/FortuneChakkiFreshAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",510,0
+698c722e70c46913d2ee7797,193,Fortune Multigrain Atta,assets/images/FortuneMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",299,0
+698c722e70c46913d2ee7798,194,Fortune Suji Atta,assets/images/FortuneSujiAtta.jpg,1 kg,"Atta, Rice & Dal",55,0
+698c722e70c46913d2ee7799,195,Patanjali Whole Wheat Atta,assets/images/PatanjaliWholeWheatAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",215,0
+698c722e70c46913d2ee779a,196,Patanjali Whole Wheat Atta,assets/images/PatanjaliWholeWheatAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",420,0
+698c722e70c46913d2ee779b,197,Patanjali Multigrain Atta,assets/images/PatanjaliMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",245,0
+698c722e70c46913d2ee779c,198,Patanjali Atta with Fibre,assets/images/PatanjaliAttawithFibre.jpg,5 kg,"Atta, Rice & Dal",230,0
+698c722e70c46913d2ee779d,199,Whole Farm Chakki Atta,assets/images/WholeFarmChakkiAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",191,0
+698c722e70c46913d2ee779e,200,Whole Farm Chakki Atta,assets/images/WholeFarmChakkiAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",365,0
+698c722e70c46913d2ee779f,201,Whole Farm Multigrain Atta,assets/images/WholeFarmMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",225,0
+698c722e70c46913d2ee77a0,202,Whole Farm Organic Wheat Atta,assets/images/WholeFarmOrganicWheatAtta.jpg,5 kg,"Atta, Rice & Dal",275,0
+698c722e70c46913d2ee77a1,203,Tata Sampann Whole Wheat Atta,,5 kg,"Atta, Rice & Dal",315,0
+698c722e70c46913d2ee77a2,204,Tata Sampann High Fibre Atta,,5 kg,"Atta, Rice & Dal",340,0
+698c722e70c46913d2ee77a3,205,Tata Sampann Multigrain Atta,,5 kg,"Atta, Rice & Dal",325,0
+698c722e70c46913d2ee77a4,206,Organic Tattva Organic Wheat Atta,assets/images/OrganicTattvaOrganicWheatAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",355,0
+698c722e70c46913d2ee77a5,207,Organic Tattva Organic Wheat Atta,assets/images/OrganicTattvaOrganicWheatAtta(1kg).jpg,1 kg,"Atta, Rice & Dal",78,0
+698c722e70c46913d2ee77a6,208,24 Mantra Organic Wheat Atta,assets/images/24MantraOrganicWheatAtta.jpg,5 kg,"Atta, Rice & Dal",365,0
+698c722e70c46913d2ee77a7,209,24 Mantra Organic Multigrain Atta,assets/images/24MantraOrganicMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",385,0
+698c722e70c46913d2ee77a8,210,Natureland Organics Wheat Atta,assets/images/NaturelandOrganicsWheatAtta.jpg,5 kg,"Atta, Rice & Dal",345,0
+698c722e70c46913d2ee77a9,211,Natureland Organics Multigrain Atta,assets/images/NaturelandOrganicsMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",375,0
+698c722e70c46913d2ee77aa,212,Sharbati Lokwan Wheat Atta,assets/images/SharbatiLokwanWheatAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",289,0
+698c722e70c46913d2ee77ab,213,Sharbati Lokwan Wheat Atta,assets/images/SharbatiLokwanWheatAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",560,0
+698c722e70c46913d2ee77ac,214,Good Life Whole Wheat Atta,assets/images/GoodLifeWholeWheatAtta.jpg,5 kg,"Atta, Rice & Dal",239,0
+698c722e70c46913d2ee77ad,215,Good Life Chakki Fresh Atta,assets/images/GoodLifeChakkiFreshAtta.jpg,10 kg,"Atta, Rice & Dal",460,0
+698c722e70c46913d2ee77ae,216,BB Royal Chakki Atta,assets/images/BBRoyalChakkiAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",255,0
+698c722e70c46913d2ee77af,217,BB Royal Chakki Atta,assets/images/BBRoyalChakkiAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",495,0
+698c722e70c46913d2ee77b0,218,Safal Whole Wheat Atta,assets/images/SafalWholeWheatAtta.jpg,5 kg,"Atta, Rice & Dal",245,0
+698c722e70c46913d2ee77b1,219,Safal Multigrain Atta,,5 kg,"Atta, Rice & Dal",275,0
+698c722e70c46913d2ee77b2,220,Annapurna Chakki Atta,assets/images/AnnapurnaChakkiAtta.jpg,5 kg,"Atta, Rice & Dal",260,0
+698c722e70c46913d2ee77b3,221,Annapurna Farm Fresh Atta,assets/images/AnnapurnaFarmFreshAtta.jpg,10 kg,"Atta, Rice & Dal",505,0
+698c722e70c46913d2ee77b4,222,Ashirwad Organic Wheat Atta,assets/images/AshirwadOrganicWheatAtta.jpg,5 kg,"Atta, Rice & Dal",340,0
+698c722e70c46913d2ee77b5,223,Ashirwad Multigrain Atta,assets/images/AshirwadMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",355,0
+698c722e70c46913d2ee77b6,224,Local Chakki Fresh Atta,assets/images/LocalChakkiFreshAtta(5kg).jpg,5 kg,"Atta, Rice & Dal",210,0
+698c722e70c46913d2ee77b7,225,Local Chakki Fresh Atta,assets/images/LocalChakkiFreshAtta(10kg).jpg,10 kg,"Atta, Rice & Dal",405,0
+698c722e70c46913d2ee77b8,226,Urban Platter Stone Ground Wheat Atta,assets/images/UrbanPlatterStoneGroundWheatAtta.jpg,5 kg,"Atta, Rice & Dal",395,0
+698c722e70c46913d2ee77b9,227,Urban Platter Multigrain Atta,assets/images/UrbanPlatterMultigrainAtta.jpg,5 kg,"Atta, Rice & Dal",415,0
+698c722e70c46913d2ee77ba,228,Conscious Food Organic Wheat Atta,assets/images/ConsciousFoodOrganicWheatAtta.jpg,5 kg,"Atta, Rice & Dal",425,0
+698c722e70c46913d2ee77bb,229,India Gate Classic Basmati Rice,assets/images/IndiaGateClassicBasmatiRice(1kg).jpg,1 kg,"Atta, Rice & Dal",110,0
+698c722e70c46913d2ee77bc,230,India Gate Classic Basmati Rice,assets/images/IndiaGateClassicBasmatiRice(5kg).jpg,5 kg,"Atta, Rice & Dal",525,0
+698c722e70c46913d2ee77bd,231,India Gate Feast Rozzana Rice,assets/images/IndiaGateFeastRozzanaRice.jpg,5 kg,"Atta, Rice & Dal",295,0
+698c722e70c46913d2ee77be,232,India Gate Super Basmati Rice,assets/images/IndiaGateSuperBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",135,0
+698c722e70c46913d2ee77bf,233,India Gate Dubar Basmati Rice,assets/images/IndiaGateDubarBasmatiRice.jpg,5 kg,"Atta, Rice & Dal",465,0
+698c722e70c46913d2ee77c0,234,Daawat Rozana Basmati Rice,assets/images/DaawatRozanaBasmatiRice.jpg,5 kg,"Atta, Rice & Dal",289,0
+698c722e70c46913d2ee77c1,235,Daawat Super Basmati Rice,assets/images/DaawatSuperBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",125,0
+698c722e70c46913d2ee77c2,236,Daawat Traditional Basmati Rice,assets/images/DaawatTraditionalBasmatiRice.jpg,5 kg,"Atta, Rice & Dal",545,0
+698c722e70c46913d2ee77c3,237,Daawat Brown Basmati Rice,assets/images/DaawatBrownBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",155,0
+698c722e70c46913d2ee77c4,238,Fortune Rozana Rice,assets/images/FortuneRozanaRice.jpg,5 kg,"Atta, Rice & Dal",265,0
+698c722e70c46913d2ee77c5,239,Fortune Biryani Classic Rice,assets/images/FortuneBiryaniClassicRice.jpg,5 kg,"Atta, Rice & Dal",315,0
+698c722e70c46913d2ee77c6,240,Fortune Sona Masoori Rice,assets/images/FortuneSonaMasooriRice.jpg,5 kg,"Atta, Rice & Dal",299,0
+698c722e70c46913d2ee77c7,241,Fortune Brown Rice,,1 kg,"Atta, Rice & Dal",85,0
+698c722e70c46913d2ee77c8,242,Kohinoor Charminar Basmati Rice,assets/images/KohinoorCharminarBasmatiRice.jpg,5 kg,"Atta, Rice & Dal",299,0
+698c722e70c46913d2ee77c9,243,Kohinoor Platinum Basmati Rice,assets/images/KohinoorPlatinumBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",150,0
+698c722e70c46913d2ee77ca,244,Kohinoor Dubar Basmati Rice,assets/images/KohinoorDubarBasmatiRice.jpg,5 kg,"Atta, Rice & Dal",485,0
+698c722e70c46913d2ee77cb,245,Tilda Classic Basmati Rice,assets/images/TildaClassicBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",145,0
+698c722e70c46913d2ee77cc,246,Tilda Grand Extra Long Basmati Rice,assets/images/TildaGrandExtraLongBasmatiRice.jpg,5 kg,"Atta, Rice & Dal",675,0
+698c722e70c46913d2ee77cd,247,Tilda Brown Basmati Rice,assets/images/TildaBrownBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",160,0
+698c722e70c46913d2ee77ce,248,Patanjali Sona Masoori Rice,assets/images/PatanjaliSonaMasooriRice.jpg,5 kg,"Atta, Rice & Dal",285,0
+698c722e70c46913d2ee77cf,249,Patanjali Brown Rice,assets/images/PatanjaliBrownRice.jpg,1 kg,"Atta, Rice & Dal",75,0
+698c722e70c46913d2ee77d0,250,BB Royal Sona Masoori Rice,assets/images/BBRoyalSonaMasooriRice.jpg,5 kg,"Atta, Rice & Dal",279,0
+698c722e70c46913d2ee77d1,251,BB Royal Idli Rice,assets/images/BBRoyalIdliRice.jpg,5 kg,"Atta, Rice & Dal",265,0
+698c722e70c46913d2ee77d2,252,Good Life Sona Masoori Rice,assets/images/GoodLifeSonaMasooriRice.jpg,5 kg,"Atta, Rice & Dal",270,0
+698c722e70c46913d2ee77d3,253,Good Life Steam Rice,assets/images/GoodLifeSteamRice.jpg,5 kg,"Atta, Rice & Dal",255,0
+698c722e70c46913d2ee77d4,254,Organic Tattva Organic Basmati Rice,assets/images/OrganicTattvaOrganicBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",165,0
+698c722e70c46913d2ee77d5,255,Organic Tattva Organic Brown Rice,assets/images/OrganicTattvaOrganicBrownRice.jpg,1 kg,"Atta, Rice & Dal",110,0
+698c722e70c46913d2ee77d6,256,24 Mantra Organic Sona Masoori Rice,assets/images/24MantraOrganicSonaMasooriRice.jpg,5 kg,"Atta, Rice & Dal",345,0
+698c722e70c46913d2ee77d7,257,24 Mantra Organic Brown Rice,assets/images/24MantraOrganicBrownRice.jpg,1 kg,"Atta, Rice & Dal",105,0
+698c722e70c46913d2ee77d8,258,Natureland Organics Basmati Rice,assets/images/NaturelandOrganicsBasmatiRice.jpg,1 kg,"Atta, Rice & Dal",170,0
+698c722e70c46913d2ee77d9,259,Natureland Organics Idli Rice,assets/images/NaturelandOrganicsIdliRice.jpg,5 kg,"Atta, Rice & Dal",315,0
+698c722e70c46913d2ee77da,260,Sharbati Steam Rice,assets/images/SharbatiSteamRice(5kg).jpg,5 kg,"Atta, Rice & Dal",265,0
+698c722e70c46913d2ee77db,261,Sharbati Steam Rice,assets/images/SharbatiSteamRice(10kg).jpg,10 kg,"Atta, Rice & Dal",520,0
+698c722e70c46913d2ee77dc,262,Local Kolam Rice,assets/images/LocalKolamRice(5kg).jpg,5 kg,"Atta, Rice & Dal",240,0
+698c722e70c46913d2ee77dd,263,Local Kolam Rice,assets/images/LocalKolamRice(10kg).jpg,10 kg,"Atta, Rice & Dal",465,0
+698c722e70c46913d2ee77de,264,Surti Kolam Rice,assets/images/SurtiKolamRice.jpg,5 kg,"Atta, Rice & Dal",255,0
+698c722e70c46913d2ee77df,265,Ponni Boiled Rice,assets/images/PonniBoiledRice.jpg,5 kg,"Atta, Rice & Dal",295,0
+698c722e70c46913d2ee77e0,266,Ponni Raw Rice,assets/images/PonniRawRice.jpg,5 kg,"Atta, Rice & Dal",305,0
+698c722e70c46913d2ee77e2,268,Jeera Samba Rice,assets/images/JeeraSambaRice.jpg,1 kg,"Atta, Rice & Dal",98,0
+698c722e70c46913d2ee77e3,269,Red Rice Kerala,assets/images/RedRiceKerala.jpg,1 kg,"Atta, Rice & Dal",120,0
+698c722e70c46913d2ee77e4,270,Black Rice,assets/images/BlackRice.jpg,500 g,"Atta, Rice & Dal",160,0
+698c722e70c46913d2ee77e5,271,Organic Gobindobhog Rice,assets/images/OrganicGobindobhogRice.jpg,1 kg,"Atta, Rice & Dal",175,0
+698c722e70c46913d2ee77e6,272,Katarni Rice,assets/images/KatarniRice.jpg,1 kg,"Atta, Rice & Dal",140,0
+698c722e70c46913d2ee77e7,273,Mogra Basmati Rice,assets/images/MograBasmatiRice.jpg,5 kg,"Atta, Rice & Dal",399,0
+698c722e70c46913d2ee77e8,274,Broken Rice,assets/images/BrokenRice.jpg,5 kg,"Atta, Rice & Dal",210,0
+698c722e70c46913d2ee77e9,275,Steam Rice,assets/images/SteamRice.jpg,5 kg,"Atta, Rice & Dal",235,0
+698c722e70c46913d2ee77ea,276,Brown Sona Masoori Rice,assets/images/BrownSonaMasooriRice.jpg,5 kg,"Atta, Rice & Dal",325,0
+698c722e70c46913d2ee77eb,277,Organic Red Rice,assets/images/OrganicRedRice.jpg,1 kg,"Atta, Rice & Dal",130,0
+698c722e70c46913d2ee77ec,278,Organic Black Rice,assets/images/OrganicBlackRice.jpg,500 g,"Atta, Rice & Dal",170,0
+698c722e70c46913d2ee77ed,279,Tata Sampann Toor Dal,assets/images/TataSampannToorDal(1kg).jpg,1 kg,"Atta, Rice & Dal",175,0
+698c722e70c46913d2ee77ee,280,Tata Sampann Toor Dal,assets/images/TataSampannToorDal(500g).jpg,500 g,"Atta, Rice & Dal",90,0
+698c722e70c46913d2ee77ef,281,Tata Sampann Moong Dal,assets/images/TataSampannMoongDal(1kg).jpg,1 kg,"Atta, Rice & Dal",165,0
+698c722e70c46913d2ee77f0,282,Tata Sampann Moong Dal,assets/images/TataSampannMoongDal(500g).jpg,500 g,"Atta, Rice & Dal",85,0
+698c722e70c46913d2ee77f1,283,Tata Sampann Masoor Dal,assets/images/TataSampannMasoorDal(1kg).jpg,1 kg,"Atta, Rice & Dal",145,0
+698c722e70c46913d2ee77f2,284,Tata Sampann Masoor Dal,assets/images/TataSampannMasoorDal(500g).jpg,500 g,"Atta, Rice & Dal",75,0
+698c722e70c46913d2ee77f3,285,Tata Sampann Chana Dal,assets/images/TataSampannChanaDal(1kg).jpg,1 kg,"Atta, Rice & Dal",118,0
+698c722e70c46913d2ee77f4,286,Tata Sampann Chana Dal,assets/images/TataSampannChanaDal(500g).jpg,500 g,"Atta, Rice & Dal",62,0
+698c722e70c46913d2ee77f5,287,Tata Sampann Urad Dal,assets/images/TataSampannUradDal(1kg).jpg,1 kg,"Atta, Rice & Dal",155,0
+698c722e70c46913d2ee77f6,288,Tata Sampann Urad Dal,assets/images/TataSampannUradDal(500g).jpg,500 g,"Atta, Rice & Dal",80,0
+698c722e70c46913d2ee77f7,289,Whole Farm Toor Dal,assets/images/WholeFarmToorDal.jpg,1 kg,"Atta, Rice & Dal",128,0
+698c722e70c46913d2ee77f8,290,Whole Farm Masoor Dal,assets/images/WholeFarmMasoorDal.jpg,1 kg,"Atta, Rice & Dal",105,0
+698c722e70c46913d2ee77f9,291,Whole Farm Moong Dal,assets/images/WholeFarmMoongDal.jpg,1 kg,"Atta, Rice & Dal",146,0
+698c722e70c46913d2ee77fa,292,Whole Farm Chana Dal,assets/images/WholeFarmChanaDal.jpg,1 kg,"Atta, Rice & Dal",112,0
+698c722e70c46913d2ee77fb,293,Whole Farm Urad Dal,assets/images/WholeFarmUradDal.jpg,1 kg,"Atta, Rice & Dal",140,0
+698c722e70c46913d2ee77fc,294,Patanjali Toor Dal,assets/images/PatanjaliToorDal.jpg,1 kg,"Atta, Rice & Dal",135,0
+698c722e70c46913d2ee77fd,295,Patanjali Moong Dal,assets/images/PatanjaliMoongDal.jpg,1 kg,"Atta, Rice & Dal",150,0
+698c722e70c46913d2ee77fe,296,Patanjali Masoor Dal,assets/images/PatanjaliMasoorDal.jpg,1 kg,"Atta, Rice & Dal",130,0
+698c722e70c46913d2ee77ff,297,Patanjali Chana Dal,assets/images/PatanjaliChanaDal.jpg,1 kg,"Atta, Rice & Dal",115,0
+698c722e70c46913d2ee7800,298,Patanjali Urad Dal,assets/images/PatanjaliUradDal.jpg,1 kg,"Atta, Rice & Dal",145,0
+698c722e70c46913d2ee7801,299,Fortune Toor Dal,assets/images/FortuneToorDal.jpg,1 kg,"Atta, Rice & Dal",165,0
+698c722e70c46913d2ee7802,300,Fortune Masoor Dal,assets/images/FortuneMasoorDal.jpg,1 kg,"Atta, Rice & Dal",142,0
+698c722e70c46913d2ee7803,301,Fortune Moong Dal,assets/images/dal.jpg,1 kg,"Atta, Rice & Dal",158,0
+698c722e70c46913d2ee7804,302,Fortune Chana Dal,assets/images/FortuneChanaDal.jpg,1 kg,"Atta, Rice & Dal",120,0
+698c722e70c46913d2ee7805,303,Organic Tattva Organic Toor Dal,assets/images/OrganicTattvaOrganicToorDal.jpg,500 g,"Atta, Rice & Dal",95,0
+698c722e70c46913d2ee7806,304,Organic Tattva Organic Moong Dal,assets/images/OrganicTattvaOrganicMoongDal.jpg,500 g,"Atta, Rice & Dal",92,0
+698c722e70c46913d2ee7807,305,Organic Tattva Organic Masoor Dal,assets/images/OrganicTattvaOrganicMasoorDal.jpg,500 g,"Atta, Rice & Dal",88,0
+698c722e70c46913d2ee7808,306,Organic Tattva Organic Chana Dal,assets/images/OrganicTattvaOrganicChanaDal.jpg,500 g,"Atta, Rice & Dal",85,0
+698c722e70c46913d2ee7809,307,Organic Tattva Organic Urad Dal,assets/images/OrganicTattvaOrganicUradDal.jpg,500 g,"Atta, Rice & Dal",98,0
+698c722e70c46913d2ee780a,308,24 Mantra Organic Toor Dal,assets/images/24MantraOrganicToorDal.jpg,1 kg,"Atta, Rice & Dal",185,0
+698c722e70c46913d2ee780b,309,24 Mantra Organic Moong Dal,assets/images/24MantraOrganicMoongDal.jpg,1 kg,"Atta, Rice & Dal",175,0
+698c722e70c46913d2ee780c,310,24 Mantra Organic Masoor Dal,assets/images/24MantraOrganicMasoorDal.jpg,1 kg,"Atta, Rice & Dal",165,0
+698c722e70c46913d2ee780d,311,BB Royal Toor Dal,assets/images/BBRoyalToorDal.jpg,1 kg,"Atta, Rice & Dal",155,0
+698c722e70c46913d2ee780e,312,BB Royal Moong Dal,assets/images/BBRoyalMoongDal.jpg,1 kg,"Atta, Rice & Dal",150,0
+698c722e70c46913d2ee780f,313,BB Royal Masoor Dal,assets/images/BBRoyalMasoorDal.jpg,1 kg,"Atta, Rice & Dal",140,0
+698c722e70c46913d2ee7810,314,BB Royal Chana Dal,assets/images/BBRoyalChanaDal.jpg,1 kg,"Atta, Rice & Dal",120,0
+698c722e70c46913d2ee7811,315,Good Life Toor Dal,assets/images/GoodLifeToorDal.jpg,1 kg,"Atta, Rice & Dal",145,0
+698c722e70c46913d2ee7812,316,Good Life Moong Dal,assets/images/GoodLifeMoongDal.jpg,1 kg,"Atta, Rice & Dal",148,0
+698c722e70c46913d2ee7813,317,Good Life Masoor Dal,assets/images/GoodLifeMasoorDal.jpg,1 kg,"Atta, Rice & Dal",138,0
+698c722e70c46913d2ee7814,318,Local Desi Toor Dal,assets/images/LocalDesiToorDal.jpg,1 kg,"Atta, Rice & Dal",135,0
+698c722e70c46913d2ee7815,319,Local Desi Moong Dal,assets/images/LocalDesiMoongDal.jpg,1 kg,"Atta, Rice & Dal",140,0
+698c722e70c46913d2ee7816,320,Local Desi Masoor Dal,assets/images/LocalDesiMasoorDal.jpg,1 kg,"Atta, Rice & Dal",128,0
+698c722e70c46913d2ee7817,321,Safal Toor Dal,assets/images/SafalToorDal.jpg,1 kg,"Atta, Rice & Dal",150,0
+698c722e70c46913d2ee7818,322,Safal Moong Dal,assets/images/SafalMoongDal.jpg,1 kg,"Atta, Rice & Dal",152,0
+698c722e70c46913d2ee7819,323,Safal Masoor Dal,assets/images/SafalMasoorDal.jpg,1 kg,"Atta, Rice & Dal",142,0
+698c722e70c46913d2ee781a,324,Ragi Flour,assets/images/RagiFlour(500g).jpg,500 g,"Atta, Rice & Dal",45,0
+698c722e70c46913d2ee781b,325,Ragi Flour,assets/images/RagiFlour(1kg).jpg,1 kg,"Atta, Rice & Dal",85,0
+698c722e70c46913d2ee781c,326,Jowar Flour,assets/images/JowarFlour(500g).jpg,500 g,"Atta, Rice & Dal",40,0
+698c722e70c46913d2ee781d,327,Jowar Flour,assets/images/JowarFlour(1kg).jpg,1 kg,"Atta, Rice & Dal",75,0
+698c722e70c46913d2ee781e,328,Bajra Flour,assets/images/BajraFlour(500g).jpg,500 g,"Atta, Rice & Dal",38,0
+698c722e70c46913d2ee781f,329,Bajra Flour,assets/images/BajraFlour(1kg).jpg,1 kg,"Atta, Rice & Dal",72,0
+698c722e70c46913d2ee7820,330,Makki Atta (Maize Flour),assets/images/MakkiAtta(Maize Flour)(500g).jpg,500 g,"Atta, Rice & Dal",35,0
+698c722e70c46913d2ee7821,331,Makki Atta (Maize Flour),assets/images/MakkiAtta(Maize Flour)(1kg).jpg,1 kg,"Atta, Rice & Dal",65,0
+698c722e70c46913d2ee7822,332,Rice Flour,assets/images/RiceFlour(500g).jpg,500 g,"Atta, Rice & Dal",32,0
+698c722e70c46913d2ee7823,333,Rice Flour,assets/images/RiceFlour(1kg).jpg,1 kg,"Atta, Rice & Dal",60,0
+698c722e70c46913d2ee7824,334,Besan,assets/images/Besan(500g).jpg,500 g,"Atta, Rice & Dal",55,0
+698c722e70c46913d2ee7825,335,Besan,assets/images/Besan(1kg).jpg,1 kg,"Atta, Rice & Dal",105,0
+698c722e70c46913d2ee7826,336,Sooji (Rava),assets/images/Sooji(Rava)(500g).jpg,500 g,"Atta, Rice & Dal",28,0
+698c722e70c46913d2ee7827,337,Sooji (Rava),assets/images/Sooji(Rava)(1kg).jpg,1 kg,"Atta, Rice & Dal",52,0
+698c722e70c46913d2ee7828,338,Maida,assets/images/Maida(500kg).jpg,500 g,"Atta, Rice & Dal",30,0
+698c722e70c46913d2ee7829,339,Maida,assets/images/Maida(1kg).jpg,1 kg,"Atta, Rice & Dal",58,0
+698c722e70c46913d2ee782a,340,Multigrain Flour,assets/images/MultigrainFlour(1kg).jpg,1 kg,"Atta, Rice & Dal",95,0
+698c722e70c46913d2ee782b,341,Multigrain Flour,assets/images/MultigrainFlour(5kg).jpg,5 kg,"Atta, Rice & Dal",450,0
+698c722e70c46913d2ee782c,342,Corn Flour,assets/images/CornFlour.jpg,500 g,"Atta, Rice & Dal",45,0
+698c722e70c46913d2ee782d,343,Barley Flour,assets/images/BarleyFlour.jpg,500 g,"Atta, Rice & Dal",42,0
+698c722e70c46913d2ee782e,344,Oats Flour,assets/images/OatsFlour.jpg,500 g,"Atta, Rice & Dal",75,0
+698c722e70c46913d2ee782f,345,Soyabean Flour,assets/images/SoyabeanFlour.jpg,500 g,"Atta, Rice & Dal",70,0
+698c722e70c46913d2ee7830,346,Rajgira Flour,assets/images/RajgiraFlour.jpg,500 g,"Atta, Rice & Dal",68,0
+698c722e70c46913d2ee7831,347,Singhara Flour,assets/images/SingharaFlour.jpg,500 g,"Atta, Rice & Dal",85,0
+698c722e70c46913d2ee7832,348,Kuttu Flour,assets/images/KuttuFlour.jpg,500 g,"Atta, Rice & Dal",78,0
+698c722e70c46913d2ee7833,349,Organic Ragi Flour,assets/images/OrganicRagiFlour.jpg,500 g,"Atta, Rice & Dal",65,0
+698c722e70c46913d2ee7834,350,Organic Jowar Flour,assets/images/OrganicJowarFlour.jpg,500 g,"Atta, Rice & Dal",60,0
+698c722e70c46913d2ee7835,351,Organic Bajra Flour,assets/images/OrganicBajraFlour.jpg,500 g,"Atta, Rice & Dal",58,0
+698c722e70c46913d2ee7836,352,Idli Rice Flour,assets/images/IdliRiceFlour.jpg,500 g,"Atta, Rice & Dal",40,0
+698c722e70c46913d2ee7837,353,Dosa Rice Flour,assets/images/DosaRiceFlour.jpg,500 g,"Atta, Rice & Dal",42,0
+698c722e70c46913d2ee7838,354,Chakki Fresh Atta (Loose),assets/images/ChakkiFreshAtta(Loose)(1kg).jpg,1 kg,"Atta, Rice & Dal",42,0
+698c722e70c46913d2ee7839,355,Chakki Fresh Atta (Loose),assets/images/ChakkiFreshAtta(Loose)(5kg).jpg,5 kg,"Atta, Rice & Dal",205,0
+698c722e70c46913d2ee783a,356,Stone Ground Wheat Flour,assets/images/StoneGroundWheatFlour.jpg,5 kg,"Atta, Rice & Dal",275,0
+698c722e70c46913d2ee783b,357,Stone Ground Multigrain Flour,assets/images/StoneGroundMultigrainFlour.jpg,5 kg,"Atta, Rice & Dal",315,0
+698c722e70c46913d2ee783c,358,Fortune Sunflower Oil,assets/images/FortuneSunflowerOil(1L).jpg,1 L,"Oil, Ghee & Masala",155,0
+698c722e70c46913d2ee783d,359,Fortune Sunflower Oil,assets/images/FortuneSunflowerOil(5L).jpg,5 L,"Oil, Ghee & Masala",745,0
+698c722e70c46913d2ee783e,360,Fortune Mustard Oil,assets/images/FortuneMustardOil.jpg,1 L,"Oil, Ghee & Masala",165,0
+698c722e70c46913d2ee783f,361,Fortune Rice Bran Oil,assets/images/FortuneRiceBranOil.jpg,1 L,"Oil, Ghee & Masala",180,0
+698c722e70c46913d2ee7840,362,Dhara Refined Sunflower Oil,assets/images/DharaRefinedSunflowerOil.jpg,1 L,"Oil, Ghee & Masala",150,0
+698c722e70c46913d2ee7841,363,Dhara Mustard Oil,assets/images/DharaMustardOil.jpg,1 L,"Oil, Ghee & Masala",160,0
+698c722e70c46913d2ee7842,364,Saffola Gold Oil,assets/images/SaffolaGoldOil.jpg,1 L,"Oil, Ghee & Masala",190,0
+698c722e70c46913d2ee7843,365,Saffola Active Oil,assets/images/SaffolaActiveOil.jpg,1 L,"Oil, Ghee & Masala",185,0
+698c722e70c46913d2ee7844,366,Gemini Sunflower Oil,assets/images/GeminiSunflowerOil.jpg,1 L,"Oil, Ghee & Masala",148,0
+698c722e70c46913d2ee7845,367,Gemini Groundnut Oil,assets/images/GeminiGroundnutOil.jpg,1 L,"Oil, Ghee & Masala",195,0
+698c722e70c46913d2ee7846,368,Engine Rice Bran Oil,assets/images/EngineRiceBranOil.jpg,1 L,"Oil, Ghee & Masala",170,0
+698c722e70c46913d2ee7847,369,Engine Mustard Oil,assets/images/EngineMustardOil.jpg,1 L,"Oil, Ghee & Masala",165,0
+698c722e70c46913d2ee7848,370,Patanjali Mustard Oil,assets/images/PatanjaliMustardOil.jpg,1 L,"Oil, Ghee & Masala",158,0
+698c722e70c46913d2ee7849,371,Patanjali Groundnut Oil,assets/images/PatanjaliGroundnutOil.jpg,1 L,"Oil, Ghee & Masala",185,0
+698c722e70c46913d2ee784a,372,Emami Healthy & Tasty Oil,assets/images/EmamiHealthy&TastyOil.jpg,1 L,"Oil, Ghee & Masala",175,0
+698c722e70c46913d2ee784b,373,Nature Fresh Soyabean Oil,assets/images/NatureFreshSoyabeanOil.jpg,1 L,"Oil, Ghee & Masala",155,0
+698c722e70c46913d2ee784c,374,Cold Pressed Groundnut Oil,assets/images/ColdPressedGroundnutOil.jpg,1 L,"Oil, Ghee & Masala",260,0
+698c722e70c46913d2ee784d,375,Cold Pressed Coconut Oil,assets/images/ColdPressedCoconutOil.jpg,1 L,"Oil, Ghee & Masala",290,0
+698c722e70c46913d2ee784e,376,Amul Cow Ghee,assets/images/AmulCowGhee(1L).jpg,1 L,"Oil, Ghee & Masala",560,0
+698c722e70c46913d2ee784f,377,Amul Cow Ghee,assets/images/AmulCowGhee(500ml).jpg,500 ml,"Oil, Ghee & Masala",285,0
+698c722e70c46913d2ee7850,378,Patanjali Cow Ghee,assets/images/PatanjaliCowGhee.jpg,1 L,"Oil, Ghee & Masala",540,0
+698c722e70c46913d2ee7851,379,Patanjali Desi Ghee,assets/images/PatanjaliDesiGhee.jpg,500 ml,"Oil, Ghee & Masala",275,0
+698c722e70c46913d2ee7852,380,Gowardhan Pure Cow Ghee,assets/images/GowardhanPureCowGhee.jpg,1 L,"Oil, Ghee & Masala",575,0
+698c722e70c46913d2ee7853,381,Gowardhan Cow Ghee,assets/images/GowardhanCowGhee.jpg,500 ml,"Oil, Ghee & Masala",295,0
+698c722e70c46913d2ee7854,382,Ananda Cow Ghee,assets/images/AnandaCowGhee.jpg,1 L,"Oil, Ghee & Masala",565,0
+698c722e70c46913d2ee7855,383,Aashirvaad Svasti Pure Cow Ghee,assets/images/AashirvaadSvastiPureCowGhee.jpg,1 L,"Oil, Ghee & Masala",585,0
+698c722e70c46913d2ee7856,384,Everest Red Chilli Powder,assets/images/EverestRedChilliPowder.jpg,100 g,"Oil, Ghee & Masala",65,0
+698c722e70c46913d2ee7857,385,Everest Turmeric Powder,assets/images/EverestTurmericPowder.jpg,100 g,"Oil, Ghee & Masala",45,0
+698c722e70c46913d2ee7858,386,Everest Coriander Powder,assets/images/EverestCorianderPowder.jpg,100 g,"Oil, Ghee & Masala",48,0
+698c722e70c46913d2ee7859,387,Everest Garam Masala,assets/images/EverestGaramMasala.jpg,50 g,"Oil, Ghee & Masala",60,0
+698c722e70c46913d2ee785a,388,MDH Chana Masala,assets/images/MDHChanaMasala.jpg,100 g,"Oil, Ghee & Masala",72,0
+698c722e70c46913d2ee785b,389,MDH Kitchen King,assets/images/MDHKitchenKing.jpg,100 g,"Oil, Ghee & Masala",78,0
+698c722e70c46913d2ee785c,390,MDH Pav Bhaji Masala,assets/images/MDHPavBhajiMasala.jpg,100 g,"Oil, Ghee & Masala",75,0
+698c722e70c46913d2ee785d,391,Catch Black Pepper Powder,assets/images/CatchBlackPepperPowder.jpg,50 g,"Oil, Ghee & Masala",95,0
+698c722e70c46913d2ee785e,392,Catch Cumin Powder,assets/images/CatchCuminPowder.jpg,100 g,"Oil, Ghee & Masala",70,0
+698c722e70c46913d2ee785f,393,Tata Sampann Turmeric Powder,assets/images/TataSampannTurmericPowder.jpg,100 g,"Oil, Ghee & Masala",48,0
+698c722e70c46913d2ee7860,394,Tata Sampann Chilli Powder,assets/images/TataSampannChilliPowder.jpg,100 g,"Oil, Ghee & Masala",68,0
+698c722e70c46913d2ee7861,395,Tata Sampann Garam Masala,assets/images/TataSampannGaramMasala.jpg,50 g,"Oil, Ghee & Masala",65,0
+698c722e70c46913d2ee7862,396,Badshah Pav Bhaji Masala,assets/images/BadshahPavBhajiMasala.jpg,100 g,"Oil, Ghee & Masala",78,0
+698c722e70c46913d2ee7863,397,Badshah Chaat Masala,assets/images/BadshahChaatMasala.jpg,100 g,"Oil, Ghee & Masala",72,0
+698c722e70c46913d2ee7864,398,Eastern Chicken Masala,assets/images/EasternChickenMasala.jpg,100 g,"Oil, Ghee & Masala",85,0
+698c722e70c46913d2ee7865,399,Eastern Meat Masala,assets/images/EasternMeatMasala.jpg,100 g,"Oil, Ghee & Masala",88,0
+698c722e70c46913d2ee7866,400,Keya Italian Seasoning,assets/images/KeyaItalianSeasoning.jpg,30 g,"Oil, Ghee & Masala",95,0
+698c722e70c46913d2ee7867,401,Keya Chilli Flakes,assets/images/KeyaChilliFlakes.jpg,40 g,"Oil, Ghee & Masala",90,0
+698c722e70c46913d2ee7868,402,Orika Oregano Seasoning,assets/images/OrikaOreganoSeasoning.jpg,25 g,"Oil, Ghee & Masala",85,0
+698c722e70c46913d2ee7869,403,Orika Garlic Powder,assets/images/OrikaGarlicPowder.jpg,50 g,"Oil, Ghee & Masala",95,0
+698c722e70c46913d2ee786a,404,Whole Cumin Seeds,assets/images/WholeCuminSeeds.jpg,100 g,"Oil, Ghee & Masala",60,0
+698c722e70c46913d2ee786b,405,Whole Coriander Seeds,assets/images/WholeCorianderSeeds.jpg,100 g,"Oil, Ghee & Masala",45,0
+698c722e70c46913d2ee786c,406,Whole Mustard Seeds,assets/images/WholeMustardSeeds.jpg,100 g,"Oil, Ghee & Masala",42,0
+698c722e70c46913d2ee786d,407,Cloves Whole,assets/images/ClovesWhole.jpg,50 g,"Oil, Ghee & Masala",110,0
+698c722e70c46913d2ee786e,408,Green Cardamom,assets/images/GreenCardamom.jpg,25 g,"Oil, Ghee & Masala",135,0
+698c722e70c46913d2ee786f,409,Black Pepper Whole,assets/images/BlackPepperWhole.jpg,50 g,"Oil, Ghee & Masala",145,0
+698c722e70c46913d2ee7870,410,Bay Leaf (Tej Patta),assets/images/BayLeaf(Tej Patta).jpg,25 g,"Oil, Ghee & Masala",35,0
+698c722e70c46913d2ee7871,411,Cinnamon Sticks,assets/images/CinnamonSticks.jpg,50 g,"Oil, Ghee & Masala",95,0
+698c722e70c46913d2ee7872,412,Dry Ginger Powder,assets/images/DryGingerPowder.jpg,100 g,"Oil, Ghee & Masala",85,0
+698c722e70c46913d2ee7873,413,Kasuri Methi,assets/images/KasuriMethi.jpg,25 g,"Oil, Ghee & Masala",30,0
+698c722e70c46913d2ee7874,414,Hing Powder,assets/images/HingPowder.jpg,10 g,"Oil, Ghee & Masala",55,0
+698c722e70c46913d2ee7875,415,Tata Salt,assets/images/TataSalt.jpg,1 kg,"Oil, Ghee & Masala",28,0
+698c722e70c46913d2ee7876,416,Tata Rock Salt,assets/images/TataRockSalt.jpg,1 kg,"Oil, Ghee & Masala",35,0
+698c722e70c46913d2ee7877,417,Tata Lite Salt,assets/images/TataLiteSalt.jpg,1 kg,"Oil, Ghee & Masala",38,0
+698c722e70c46913d2ee7878,418,Aashirvaad Iodized Salt,assets/images/AashirvaadIodizedSalt.jpg,1 kg,"Oil, Ghee & Masala",30,0
+698c722e70c46913d2ee7879,419,Captain Cook Salt,assets/images/CaptainCookSalt.jpg,1 kg,"Oil, Ghee & Masala",27,0
+698c722e70c46913d2ee787a,420,Madhur Pure Sugar,assets/images/MadhurPureSugar.jpg,1 kg,"Oil, Ghee & Masala",48,0
+698c722e70c46913d2ee787b,421,Trust Sugar,assets/images/TrustSugar.jpg,1 kg,"Oil, Ghee & Masala",46,0
+698c722e70c46913d2ee787c,422,Dhampure Sulphurless Sugar,assets/images/DhampureSulphurlessSugar.jpg,1 kg,"Oil, Ghee & Masala",52,0
+698c722e70c46913d2ee787d,423,Brown Sugar,assets/images/BrownSugar.jpg,1 kg,"Oil, Ghee & Masala",65,0
+698c722e70c46913d2ee787e,424,Rock Sugar (Mishri),assets/images/RockSugar(Mishri).jpg,500 g,"Oil, Ghee & Masala",70,0
+698c722e70c46913d2ee787f,425,Organic Jaggery Powder,assets/images/OrganicJaggeryPowder.jpg,1 kg,"Oil, Ghee & Masala",85,0
+698c722e70c46913d2ee7880,426,Solid Jaggery (Gur),assets/images/SolidJaggery(Gur).jpg,1 kg,"Oil, Ghee & Masala",70,0
+698c722e70c46913d2ee7881,427,Liquid Jaggery,assets/images/LiquidJaggery.jpg,500 ml,"Oil, Ghee & Masala",95,0
+698c722e70c46913d2ee7882,428,Palm Jaggery,assets/images/PalmJaggery.jpg,500 g,"Oil, Ghee & Masala",110,0
+698c722e70c46913d2ee7883,429,Country Sugar,assets/images/CountrySugar.jpg,1 kg,"Oil, Ghee & Masala",58,0
+698c722e70c46913d2ee7884,430,Organic Cane Sugar,assets/images/OrganicCaneSugar.jpg,1 kg,"Oil, Ghee & Masala",72,0
+698c722e70c46913d2ee7885,431,Sendha Namak,assets/images/SendhaNamak.jpg,1 kg,"Oil, Ghee & Masala",40,0
+698c722e70c46913d2ee7886,432,Low Sodium Salt,assets/images/LowSodiumSalt.jpg,1 kg,"Oil, Ghee & Masala",45,0
+698c722e70c46913d2ee7887,433,Colgate Strong Teeth Toothpaste,assets/images/ColgateStrongTeethToothpaste.jpg,200 g,Daily Essentials,105,0
+698c722e70c46913d2ee7888,434,Pepsodent Germicheck Toothpaste,assets/images/PepsodentGermicheckToothpaste.jpg,150 g,Daily Essentials,115,0
+698c722e70c46913d2ee7889,435,Closeup Red Hot Toothpaste,assets/images/CloseupRedHotToothpaste.jpg,150 g,Daily Essentials,120,0
+698c722e70c46913d2ee788a,436,Sensodyne Fresh Mint Toothpaste,assets/images/SensodyneFreshMintToothpaste.jpg,100 g,Daily Essentials,135,0
+698c722e70c46913d2ee788b,437,Dabur Red Toothpaste,assets/images/DaburRedToothpaste.jpg,200 g,Daily Essentials,110,0
+698c722e70c46913d2ee788c,438,Dettol Liquid Handwash Original,assets/images/handwash.jpg,200 ml,Daily Essentials,95,0
+698c722e70c46913d2ee788d,439,Savlon Handwash Liquid,assets/images/handwash.jpg,200 ml,Daily Essentials,90,0
+698c722e70c46913d2ee788e,440,Lifebuoy Total Handwash,assets/images/handwash.jpg,200 ml,Daily Essentials,85,0
+698c722e70c46913d2ee788f,441,Palmolive Handwash,assets/images/handwash.jpg,250 ml,Daily Essentials,99,0
+698c722e70c46913d2ee7890,442,Himalaya Germ Protection Handwash,assets/images/handwash.jpg,200 ml,Daily Essentials,92,0
+698c722e70c46913d2ee7891,443,Dettol Antibacterial Wet Wipes,assets/images/wipes.jpg,40 wipes,Daily Essentials,95,0
+698c722e70c46913d2ee7892,444,Savlon Surface Disinfectant Wipes,assets/images/wipes.jpg,30 wipes,Daily Essentials,110,0
+698c722e70c46913d2ee7893,445,Mee Mee Multipurpose Wipes,assets/images/wipes.jpg,72 wipes,Daily Essentials,185,0
+698c722e70c46913d2ee7894,446,Presto Cleaning Wipes,assets/images/wipes.jpg,60 wipes,Daily Essentials,160,0
+698c722e70c46913d2ee7895,447,Johnson's Baby Wet Wipes,assets/images/wipes.jpg,72 wipes,Daily Essentials,210,0
+698c722e70c46913d2ee7896,448,Surf Excel Easy Wash Liquid,assets/images/detergent_liquid.jpg,1 L,Daily Essentials,195,0
+698c722e70c46913d2ee7897,449,Ariel Liquid Detergent,assets/images/detergent_liquid.jpg,1 L,Daily Essentials,210,0
+698c722e70c46913d2ee7898,450,Tide Liquid Detergent,assets/images/detergent_liquid.jpg,1 L,Daily Essentials,185,0
+698c722e70c46913d2ee7899,451,Rin Liquid Detergent,assets/images/detergent_liquid.jpg,1 L,Daily Essentials,175,0
+698c722e70c46913d2ee789a,452,Henko Liquid Detergent,assets/images/detergent_liquid.jpg,1 L,Daily Essentials,180,0
+698c722e70c46913d2ee789b,453,Surf Excel Detergent Powder,assets/images/detergent.jpg,1 kg,Daily Essentials,145,0
+698c722e70c46913d2ee789c,454,Ariel Matic Detergent Powder,assets/images/detergent.jpg,1 kg,Daily Essentials,165,0
+698c722e70c46913d2ee789d,455,Tide Plus Detergent Powder,assets/images/detergent.jpg,1 kg,Daily Essentials,135,0
+698c722e70c46913d2ee789e,456,Rin Detergent Bar,assets/images/detergent.jpg,250 g,Daily Essentials,28,0
+698c722e70c46913d2ee789f,457,Ghadi Detergent Powder,assets/images/detergent.jpg,1 kg,Daily Essentials,125,0
+698c722e70c46913d2ee78a0,458,Vim Dishwash Gel,assets/images/dishwash.jpg,500 ml,Daily Essentials,110,0
+698c722e70c46913d2ee78a1,459,Vim Dishwash Bar,assets/images/dishwash.jpg,300 g,Daily Essentials,40,0
+698c722e70c46913d2ee78a2,460,Pril Dishwash Liquid,assets/images/dishwash.jpg,425 ml,Daily Essentials,120,0
+698c722e70c46913d2ee78a3,461,Giffy Dishwash Bar,assets/images/dishwash.jpg,250 g,Daily Essentials,35,0
+698c722e70c46913d2ee78a4,462,Exo Dishwash Bar,assets/images/dishwash.jpg,300 g,Daily Essentials,38,0
+698c722e70c46913d2ee78a5,463,Scotch-Brite Scrub Pad,assets/images/cleaning_tools.jpg,3 pcs,Daily Essentials,45,0
+698c722e70c46913d2ee78a6,464,Scotch-Brite Steel Scrubber,assets/images/cleaning_tools.jpg,1 pc,Daily Essentials,25,0
+698c722e70c46913d2ee78a7,465,Presto Scrub Sponge,assets/images/cleaning_tools.jpg,2 pcs,Daily Essentials,40,0
+698c722e70c46913d2ee78a8,466,Vim Scrub Pad,assets/images/cleaning_tools.jpg,3 pcs,Daily Essentials,42,0
+698c722e70c46913d2ee78a9,467,Dish Cleaning Brush,assets/images/cleaning_tools.jpg,1 pc,Daily Essentials,35,0
+698c722e70c46913d2ee78aa,468,Harpic Toilet Cleaner Original,assets/images/toilet.jpg,500 ml,Daily Essentials,99,0
+698c722e70c46913d2ee78ab,469,Lizol Floor Cleaner Citrus,assets/images/floor.jpg,1 L,Daily Essentials,165,0
+698c722e70c46913d2ee78ac,470,Domex Toilet Cleaner,assets/images/toilet.jpg,500 ml,Daily Essentials,95,0
+698c722e70c46913d2ee78ad,471,Phenyl Floor Cleaner,assets/images/floor.jpg,1 L,Daily Essentials,110,0
+698c722e70c46913d2ee78ae,472,Colin Disinfectant Floor Cleaner,assets/images/floor.jpg,500 ml,Daily Essentials,125,0
+698c722e70c46913d2ee78af,473,Puf Garbage Bags Medium,assets/images/garbage.jpg,30 pcs,Daily Essentials,110,0
+698c722e70c46913d2ee78b0,474,Easy Pull Garbage Bags Large,assets/images/garbage.jpg,20 pcs,Daily Essentials,125,0
+698c722e70c46913d2ee78b1,475,Scotch-Brite Broom,assets/images/cleaning_tools.jpg,1 pc,Daily Essentials,145,0
+698c722e70c46913d2ee78b2,476,Floor Cleaning Mop,assets/images/cleaning_tools.jpg,1 pc,Daily Essentials,399,0
+698c722e70c46913d2ee78b3,477,Cleaning Dust Pan Set,assets/images/cleaning_tools.jpg,1 set,Daily Essentials,155,0
+698c722e70c46913d2ee78b4,478,Kiwi Shoe Polish Black,assets/images/shoecare.jpg,40 g,Daily Essentials,85,0
+698c722e70c46913d2ee78b5,479,Cherry Blossom Shoe Polish Brown,assets/images/shoecare.jpg,40 g,Daily Essentials,80,0
+698c722e70c46913d2ee78b6,480,Colin Glass Cleaner,assets/images/glass.jpg,500 ml,Daily Essentials,120,0
+698c722e70c46913d2ee78b7,481,Colin Glass Spray,assets/images/glass.jpg,250 ml,Daily Essentials,75,0
+698c722e70c46913d2ee78b8,482,Pitambari Metal Cleaner,assets/images/metal.jpg,200 g,Daily Essentials,85,0
+698c722e70c46913d2ee78b9,483,Brasso Metal Polish,assets/images/metal.jpg,200 ml,Daily Essentials,140,0
+698c722e70c46913d2ee78ba,484,3M Car Wash Shampoo,assets/images/carcare.jpg,500 ml,Daily Essentials,245,0
+698c722e70c46913d2ee78bb,485,Formula 1 Car Wax,assets/images/carcare.jpg,230 g,Daily Essentials,395,0
+698c722e70c46913d2ee78bc,486,Good Knight Fabric Roll On,assets/images/repellent.jpg,8 ml,Daily Essentials,85,0
+698c722e70c46913d2ee78bd,487,All Out Liquid Vaporizer,assets/images/repellent.jpg,45 ml,Daily Essentials,95,0
+698c722e70c46913d2ee78be,488,Mortein Coil,assets/images/repellent.jpg,10 coils,Daily Essentials,40,0
+698c722e70c46913d2ee78bf,489,Dettol Disinfectant Spray,assets/images/disinfectant.jpg,170 g,Daily Essentials,165,0
+698c722e70c46913d2ee78c0,490,Savlon Disinfectant Liquid,assets/images/disinfectant.jpg,500 ml,Daily Essentials,175,0
+698c722e70c46913d2ee78c1,491,Lizol Disinfectant Spray,assets/images/disinfectant.jpg,300 ml,Daily Essentials,195,0
+698c722e70c46913d2ee78c2,492,Godrej Aer Room Freshener,assets/images/disinfectant.jpg,240 ml,Daily Essentials,199,0
+698c722e70c46913d2ee78c3,493,Johnson's Cotton Buds,assets/images/earbuds.jpg,100 pcs,Daily Essentials,65,0
+698c722e70c46913d2ee78c4,494,Mee Mee Cotton Buds,assets/images/earbuds.jpg,100 pcs,Daily Essentials,60,0
+698c722e70c46913d2ee78c5,495,Bella Cotton Buds,assets/images/earbuds.jpg,100 pcs,Daily Essentials,70,0
+698c722e70c46913d2ee78c6,496,Presto Cotton Buds,assets/images/earbuds.jpg,200 pcs,Daily Essentials,110,0
+698c722e70c46913d2ee78c7,497,Pee Safe Cotton Buds,assets/images/earbuds.jpg,100 pcs,Daily Essentials,75,0
+698c722e70c46913d2ee78c8,498,ENO Fruit Salt Regular,assets/images/digestive.jpg,100 g,Daily Essentials,65,0
+698c722e70c46913d2ee78c9,499,ENO Lemon Flavour,assets/images/digestive.jpg,100 g,Daily Essentials,65,0
+698c722e70c46913d2ee78ca,500,Dabur Hajmola Tablets,assets/images/digestive.jpg,120 tabs,Daily Essentials,85,0
+698c722e70c46913d2ee78cb,501,Dabur Pudin Hara Pearls,assets/images/digestive.jpg,10 caps,Daily Essentials,45,0
+698c722e70c46913d2ee78cc,502,Zandu Pancharishta,assets/images/digestive.jpg,200 ml,Daily Essentials,115,0
+698c722e70c46913d2ee78cd,503,Dettol Instant Hand Sanitizer,assets/images/sanitizer.jpg,200 ml,Daily Essentials,95,0
+698c722e70c46913d2ee78ce,504,Savlon Hand Sanitizer Gel,assets/images/sanitizer.jpg,200 ml,Daily Essentials,90,0
+698c722e70c46913d2ee78cf,505,3 Ply Disposable Face Mask,assets/images/mask.jpg,50 pcs,Daily Essentials,175,0
+698c722e70c46913d2ee78d0,506,Vicks Inhaler,assets/images/inhaler.jpg,1 pc,Daily Essentials,65,0
+698c722e70c46913d2ee78d1,507,Vicks Vaporub,assets/images/inhaler.jpg,50 g,Daily Essentials,165,0
+698c722e70c46913d2ee78d2,508,Lux Soft Touch Soap,assets/images/soap.jpg,100 g,Bath & Body,40,0
+698c722e70c46913d2ee78d3,509,Lux Velvet Glow Soap,assets/images/soap.jpg,100 g,Bath & Body,40,0
+698c722e70c46913d2ee78d4,510,Pears Pure & Gentle Soap,assets/images/soap.jpg,125 g,Bath & Body,65,0
+698c722e70c46913d2ee78d5,511,Pears Soft & Fresh Soap,assets/images/soap.jpg,125 g,Bath & Body,65,0
+698c722e70c46913d2ee78d6,512,Dove Cream Beauty Soap,assets/images/soap.jpg,100 g,Bath & Body,60,0
+698c722e70c46913d2ee78d7,513,Dove Shea Butter Soap,assets/images/soap.jpg,100 g,Bath & Body,65,0
+698c722e70c46913d2ee78d8,514,Lifebuoy Total Soap,assets/images/soap.jpg,100 g,Bath & Body,38,0
+698c722e70c46913d2ee78d9,515,Lifebuoy Lemon Fresh Soap,assets/images/soap.jpg,100 g,Bath & Body,38,0
+698c722e70c46913d2ee78da,516,Dettol Original Soap,assets/images/soap.jpg,100 g,Bath & Body,55,0
+698c722e70c46913d2ee78db,517,Dettol Cool Soap,assets/images/soap.jpg,100 g,Bath & Body,55,0
+698c722e70c46913d2ee78dc,518,Cinthol Lime Soap,assets/images/soap.jpg,100 g,Bath & Body,45,0
+698c722e70c46913d2ee78dd,519,Cinthol Cool Soap,assets/images/soap.jpg,100 g,Bath & Body,45,0
+698c722e70c46913d2ee78de,520,Medimix Ayurvedic Soap,assets/images/soap.jpg,125 g,Bath & Body,55,0
+698c722e70c46913d2ee78df,521,Medimix Sandal Soap,assets/images/soap.jpg,125 g,Bath & Body,55,0
+698c722e70c46913d2ee78e0,522,Himalaya Neem Soap,assets/images/soap.jpg,125 g,Bath & Body,50,0
+698c722e70c46913d2ee78e1,523,Himalaya Aloe Soap,assets/images/soap.jpg,125 g,Bath & Body,50,0
+698c722e70c46913d2ee78e2,524,Patanjali Neem Kanti Soap,assets/images/soap.jpg,150 g,Bath & Body,40,0
+698c722e70c46913d2ee78e3,525,Patanjali Haldi Chandan Soap,assets/images/soap.jpg,150 g,Bath & Body,40,0
+698c722e70c46913d2ee78e4,526,Vivel Aloe Vera Soap,assets/images/soap.jpg,100 g,Bath & Body,45,0
+698c722e70c46913d2ee78e5,527,Fiama Gel Bar Soap,assets/images/soap.jpg,100 g,Bath & Body,55,0
+698c722e70c46913d2ee78e6,528,Nivea Lemon Shower Gel,assets/images/shower.jpg,250 ml,Bath & Body,210,0
+698c722e70c46913d2ee78e7,529,Nivea Creme Soft Shower Gel,assets/images/shower.jpg,250 ml,Bath & Body,220,0
+698c722e70c46913d2ee78e8,530,Dove Deeply Nourishing Body Wash,assets/images/shower.jpg,250 ml,Bath & Body,230,0
+698c722e70c46913d2ee78e9,531,Dove Exfoliating Body Wash,assets/images/shower.jpg,250 ml,Bath & Body,240,0
+698c722e70c46913d2ee78ea,532,Fiama Peach Shower Gel,assets/images/shower.jpg,250 ml,Bath & Body,215,0
+698c722e70c46913d2ee78eb,533,Fiama Blackcurrant Shower Gel,assets/images/shower.jpg,250 ml,Bath & Body,215,0
+698c722e70c46913d2ee78ec,534,Palmolive Aroma Therapy Gel,assets/images/shower.jpg,250 ml,Bath & Body,195,0
+698c722e70c46913d2ee78ed,535,Palmolive Luminous Oils Gel,assets/images/shower.jpg,250 ml,Bath & Body,205,0
+698c722e70c46913d2ee78ee,536,Himalaya Neem Body Wash,assets/images/shower.jpg,250 ml,Bath & Body,190,0
+698c722e70c46913d2ee78ef,537,Himalaya Refreshing Body Wash,assets/images/shower.jpg,250 ml,Bath & Body,185,0
+698c722e70c46913d2ee78f0,538,MCaffeine Coffee Body Scrub,assets/images/shower.jpg,100 g,Bath & Body,299,0
+698c722e70c46913d2ee78f1,539,Plum Green Tea Scrub,assets/images/shower.jpg,100 g,Bath & Body,275,0
+698c722e70c46913d2ee78f2,540,WOW Coffee Scrub,assets/images/shower.jpg,100 g,Bath & Body,260,0
+698c722e70c46913d2ee78f3,541,Biotique Papaya Scrub,assets/images/shower.jpg,100 g,Bath & Body,199,0
+698c722e70c46913d2ee78f4,542,Everyuth Walnut Scrub,assets/images/shower.jpg,100 g,Bath & Body,185,0
+698c722e70c46913d2ee78f5,543,Nivea Apricot Scrub,assets/images/shower.jpg,100 g,Bath & Body,210,0
+698c722e70c46913d2ee78f6,544,Mamaearth Ubtan Scrub,assets/images/shower.jpg,100 g,Bath & Body,249,0
+698c722e70c46913d2ee78f7,545,Mamaearth Charcoal Scrub,assets/images/shower.jpg,100 g,Bath & Body,249,0
+698c722e70c46913d2ee78f8,546,The Man Company Scrub,assets/images/shower.jpg,100 g,Bath & Body,275,0
+698c722e70c46913d2ee78f9,547,Beardo Activated Charcoal Scrub,assets/images/shower.jpg,100 g,Bath & Body,299,0
+698c722e70c46913d2ee78fa,548,Lux Body Wash,assets/images/shower.jpg,250 ml,Bath & Body,190,0
+698c722e70c46913d2ee78fb,549,Yardley English Lavender Gel,assets/images/shower.jpg,250 ml,Bath & Body,230,0
+698c722e70c46913d2ee78fc,550,St Ives Apricot Scrub,assets/images/shower.jpg,170 g,Bath & Body,450,0
+698c722e70c46913d2ee78fd,551,Bath & Body Works Gel,assets/images/shower.jpg,236 ml,Bath & Body,650,0
+698c722e70c46913d2ee78fe,552,Nivea Men Shower Gel,assets/images/shower.jpg,250 ml,Bath & Body,220,0
+698c722e70c46913d2ee78ff,553,Dettol Cool Body Wash,assets/images/shower.jpg,250 ml,Bath & Body,210,0
+698c722e70c46913d2ee7900,554,Dettol Skincare Body Wash,assets/images/shower.jpg,250 ml,Bath & Body,215,0
+698c722e70c46913d2ee7901,555,Himalaya Baby Wash,assets/images/shower.jpg,200 ml,Bath & Body,175,0
+698c722e70c46913d2ee7902,556,Sebamed Liquid Face & Body Wash,assets/images/shower.jpg,200 ml,Bath & Body,480,0
+698c722e70c46913d2ee7903,557,Plum Vanilla Body Wash,assets/images/shower.jpg,240 ml,Bath & Body,275,0
+698c722e70c46913d2ee7904,558,Clinic Plus Strong & Long Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,155,0
+698c722e70c46913d2ee7905,559,Clinic Plus Anti Dandruff Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,165,0
+698c722e70c46913d2ee7906,560,Dove Daily Shine Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,195,0
+698c722e70c46913d2ee7907,561,Dove Intense Repair Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,210,0
+698c722e70c46913d2ee7908,562,Pantene Hair Fall Control Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,205,0
+698c722e70c46913d2ee7909,563,Pantene Lively Clean Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,195,0
+698c722e70c46913d2ee790a,564,Head & Shoulders Cool Menthol,assets/images/shampoo.jpg,340 ml,Bath & Body,220,0
+698c722e70c46913d2ee790b,565,Head & Shoulders Smooth & Silky,assets/images/shampoo.jpg,340 ml,Bath & Body,215,0
+698c722e70c46913d2ee790c,566,Tresemme Keratin Smooth Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,235,0
+698c722e70c46913d2ee790d,567,Tresemme Hair Fall Defense,assets/images/shampoo.jpg,340 ml,Bath & Body,230,0
+698c722e70c46913d2ee790e,568,WOW Onion Black Seed Shampoo,assets/images/shampoo.jpg,300 ml,Bath & Body,285,0
+698c722e70c46913d2ee790f,569,WOW Apple Cider Vinegar Shampoo,assets/images/shampoo.jpg,300 ml,Bath & Body,295,0
+698c722e70c46913d2ee7910,570,Mamaearth Onion Shampoo,assets/images/shampoo.jpg,250 ml,Bath & Body,299,0
+698c722e70c46913d2ee7911,571,Mamaearth Tea Tree Shampoo,assets/images/shampoo.jpg,250 ml,Bath & Body,299,0
+698c722e70c46913d2ee7912,572,Himalaya Anti Hair Fall Shampoo,assets/images/shampoo.jpg,400 ml,Bath & Body,225,0
+698c722e70c46913d2ee7913,573,Himalaya Gentle Daily Shampoo,assets/images/shampoo.jpg,400 ml,Bath & Body,215,0
+698c722e70c46913d2ee7914,574,Biotique Green Apple Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,210,0
+698c722e70c46913d2ee7915,575,Biotique Walnut Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,220,0
+698c722e70c46913d2ee7916,576,L'Oreal Total Repair 5 Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,255,0
+698c722e70c46913d2ee7917,577,L'Oreal Hyaluron Moisture Shampoo,assets/images/shampoo.jpg,340 ml,Bath & Body,275,0
+698c722e70c46913d2ee7918,578,Dove Intense Repair Conditioner,assets/images/conditioner.jpg,175 ml,Bath & Body,210,0
+698c722e70c46913d2ee7919,579,Dove Daily Shine Conditioner,assets/images/conditioner.jpg,175 ml,Bath & Body,205,0
+698c722e70c46913d2ee791a,580,Pantene Hair Fall Control Conditioner,assets/images/conditioner.jpg,175 ml,Bath & Body,215,0
+698c722e70c46913d2ee791b,581,Pantene Lively Clean Conditioner,assets/images/conditioner.jpg,175 ml,Bath & Body,205,0
+698c722e70c46913d2ee791c,582,Tresemme Keratin Smooth Conditioner,assets/images/conditioner.jpg,190 ml,Bath & Body,235,0
+698c722e70c46913d2ee791d,583,Tresemme Smooth & Shine Conditioner,assets/images/conditioner.jpg,190 ml,Bath & Body,230,0
+698c722e70c46913d2ee791e,584,WOW Onion Conditioner,assets/images/conditioner.jpg,200 ml,Bath & Body,275,0
+698c722e70c46913d2ee791f,585,Mamaearth Onion Conditioner,assets/images/conditioner.jpg,250 ml,Bath & Body,299,0
+698c722e70c46913d2ee7920,586,Mamaearth Tea Tree Conditioner,assets/images/conditioner.jpg,250 ml,Bath & Body,299,0
+698c722e70c46913d2ee7921,587,Himalaya Anti Hair Fall Conditioner,assets/images/conditioner.jpg,200 ml,Bath & Body,215,0
+698c722e70c46913d2ee7922,588,Biotique Bio Musk Root Conditioner,assets/images/conditioner.jpg,180 ml,Bath & Body,210,0
+698c722e70c46913d2ee7923,589,Biotique Soy Protein Conditioner,assets/images/conditioner.jpg,180 ml,Bath & Body,205,0
+698c722e70c46913d2ee7924,590,L'Oreal Total Repair 5 Conditioner,assets/images/conditioner.jpg,192 ml,Bath & Body,255,0
+698c722e70c46913d2ee7925,591,L'Oreal Hyaluron Conditioner,assets/images/conditioner.jpg,192 ml,Bath & Body,265,0
+698c722e70c46913d2ee7926,592,Matrix Smoothproof Conditioner,assets/images/conditioner.jpg,196 ml,Bath & Body,295,0
+698c722e70c46913d2ee7927,593,Matrix Opti Care Conditioner,assets/images/conditioner.jpg,196 ml,Bath & Body,295,0
+698c722e70c46913d2ee7928,594,OGX Coconut Milk Conditioner,assets/images/conditioner.jpg,385 ml,Bath & Body,725,0
+698c722e70c46913d2ee7929,595,OGX Argan Oil Conditioner,assets/images/conditioner.jpg,385 ml,Bath & Body,745,0
+698c722e70c46913d2ee792a,596,Streax Walnut Conditioner,assets/images/conditioner.jpg,240 ml,Bath & Body,215,0
+698c722e70c46913d2ee792b,597,Livon Damage Repair Conditioner,assets/images/conditioner.jpg,200 ml,Bath & Body,195,0
+698c722e70c46913d2ee792c,598,Cetaphil Gentle Cleanser,assets/images/facewash.jpg,125 ml,Bath & Body,325,0
+698c722e70c46913d2ee792d,599,Cetaphil Oily Skin Cleanser,assets/images/facewash.jpg,125 ml,Bath & Body,345,0
+698c722e70c46913d2ee792e,600,Simple Refreshing Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,275,0
+698c722e70c46913d2ee792f,601,Simple Moisturising Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,285,0
+698c722e70c46913d2ee7930,602,Himalaya Neem Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,165,0
+698c722e70c46913d2ee7931,603,Himalaya Aloe Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,160,0
+698c722e70c46913d2ee7932,604,Clean & Clear Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,145,0
+698c722e70c46913d2ee7933,605,Nivea Men Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,185,0
+698c722e70c46913d2ee7934,606,Pond's Pure White Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,195,0
+698c722e70c46913d2ee7935,607,Pond's Bright Beauty Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,205,0
+698c722e70c46913d2ee7936,608,Mamaearth Ubtan Face Wash,assets/images/facewash.jpg,100 ml,Bath & Body,249,0
+698c722e70c46913d2ee7937,609,Mamaearth Tea Tree Face Wash,assets/images/facewash.jpg,100 ml,Bath & Body,249,0
+698c722e70c46913d2ee7938,610,Plum Green Tea Face Wash,assets/images/facewash.jpg,120 ml,Bath & Body,275,0
+698c722e70c46913d2ee7939,611,Plum Vitamin C Face Wash,assets/images/facewash.jpg,120 ml,Bath & Body,285,0
+698c722e70c46913d2ee793a,612,WOW Charcoal Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,235,0
+698c722e70c46913d2ee793b,613,WOW Apple Cider Vinegar Face Wash,assets/images/facewash.jpg,150 ml,Bath & Body,245,0
+698c722e70c46913d2ee793c,614,The Man Company Face Wash,assets/images/facewash.jpg,100 ml,Bath & Body,249,0
+698c722e70c46913d2ee793d,615,Beardo Activated Charcoal Face Wash,assets/images/facewash.jpg,100 ml,Bath & Body,255,0
+698c722e70c46913d2ee793e,616,Re'equil Gentle Cleanser,assets/images/facewash.jpg,200 ml,Bath & Body,395,0
+698c722e70c46913d2ee793f,617,Minimalist Salicylic Cleanser,assets/images/facewash.jpg,100 ml,Bath & Body,299,0
+698c722e70c46913d2ee7940,618,Vaseline Deep Moisture Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,275,0
+698c722e70c46913d2ee7941,619,Vaseline Cocoa Glow Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,285,0
+698c722e70c46913d2ee7942,620,Nivea Nourishing Body Milk,assets/images/bodylotion.jpg,400 ml,Bath & Body,295,0
+698c722e70c46913d2ee7943,621,Nivea Aloe Hydration Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,305,0
+698c722e70c46913d2ee7944,622,Parachute Advansed Body Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,235,0
+698c722e70c46913d2ee7945,623,Joy Honey & Almond Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,225,0
+698c722e70c46913d2ee7946,624,Himalaya Cocoa Butter Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,265,0
+698c722e70c46913d2ee7947,625,Himalaya Aloe Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,255,0
+698c722e70c46913d2ee7948,626,Vaseline Intensive Care Lotion,assets/images/bodylotion.jpg,600 ml,Bath & Body,395,0
+698c722e70c46913d2ee7949,627,Plum Vanilla Body Lotion,assets/images/bodylotion.jpg,300 ml,Bath & Body,425,0
+698c722e70c46913d2ee794a,628,Mamaearth Vitamin C Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,349,0
+698c722e70c46913d2ee794b,629,MCaffeine Body Lotion,assets/images/bodylotion.jpg,250 ml,Bath & Body,395,0
+698c722e70c46913d2ee794c,630,Johnson's Baby Lotion,assets/images/bodylotion.jpg,500 ml,Bath & Body,295,0
+698c722e70c46913d2ee794d,631,Johnson's Baby Oil,assets/images/bodylotion.jpg,300 ml,Bath & Body,235,0
+698c722e70c46913d2ee794e,632,Bajaj Almond Drops Oil,assets/images/bodylotion.jpg,300 ml,Bath & Body,285,0
+698c722e70c46913d2ee794f,633,Parachute Coconut Oil,assets/images/bodylotion.jpg,600 ml,Bath & Body,245,0
+698c722e70c46913d2ee7950,634,Dabur Amla Hair Oil,assets/images/bodylotion.jpg,500 ml,Bath & Body,265,0
+698c722e70c46913d2ee7951,635,Khadi Natural Body Lotion,assets/images/bodylotion.jpg,210 ml,Bath & Body,325,0
+698c722e70c46913d2ee7952,636,Biotique Almond Oil,assets/images/bodylotion.jpg,200 ml,Bath & Body,345,0
+698c722e70c46913d2ee7953,637,Forest Essentials Body Oil,assets/images/bodylotion.jpg,200 ml,Bath & Body,1450,0
+698c722e70c46913d2ee7954,638,WOW Body Lotion,assets/images/bodylotion.jpg,300 ml,Bath & Body,395,0
+698c722e70c46913d2ee7955,639,St Ives Body Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,495,0
+698c722e70c46913d2ee7956,640,Vaseline Sun Protect Lotion,assets/images/bodylotion.jpg,400 ml,Bath & Body,315,0
+698c722e70c46913d2ee7957,641,Himalaya Winter Defence Lotion,assets/images/bodylotion.jpg,200 ml,Bath & Body,195,0
+698c722e70c46913d2ee7958,642,Aveeno Daily Moisturising Lotion,assets/images/bodylotion.jpg,354 ml,Bath & Body,650,0
+698c722e70c46913d2ee7959,643,Livon Hair Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,245,0
+698c722e70c46913d2ee795a,644,Streax Hair Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,235,0
+698c722e70c46913d2ee795b,645,L'Oreal Extraordinary Oil Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,425,0
+698c722e70c46913d2ee795c,646,Matrix Biolage Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,395,0
+698c722e70c46913d2ee795d,647,WOW Hair Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,285,0
+698c722e70c46913d2ee795e,648,Mamaearth Onion Hair Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,349,0
+698c722e70c46913d2ee795f,649,BBlunt Intense Moisture Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,425,0
+698c722e70c46913d2ee7960,650,TRESemme Keratin Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,395,0
+698c722e70c46913d2ee7961,651,Streax Walnut Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,255,0
+698c722e70c46913d2ee7962,652,Khadi Natural Hair Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,295,0
+698c722e70c46913d2ee7963,653,Beardo Hair Serum,assets/images/hairserum.jpg,50 ml,Bath & Body,295,0
+698c722e70c46913d2ee7964,654,The Man Company Hair Serum,assets/images/hairserum.jpg,50 ml,Bath & Body,325,0
+698c722e70c46913d2ee7965,655,Livon Damage Protection Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,265,0
+698c722e70c46913d2ee7966,656,Streax Vitariche Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,285,0
+698c722e70c46913d2ee7967,657,Mamaearth Aloe Vera Serum,assets/images/hairserum.jpg,100 ml,Bath & Body,329,0
+698c722e70c46913d2ee7968,658,Nivea Cherry Shine Lip Balm,assets/images/lipcare.jpg,4.8 g,Bath & Body,195,0
+698c722e70c46913d2ee7969,659,Nivea Original Lip Balm,assets/images/lipcare.jpg,4.8 g,Bath & Body,185,0
+698c722e70c46913d2ee796a,660,Vaseline Lip Therapy,assets/images/lipcare.jpg,17 g,Bath & Body,165,0
+698c722e70c46913d2ee796b,661,Himalaya Lip Balm,assets/images/lipcare.jpg,10 g,Bath & Body,125,0
+698c722e70c46913d2ee796c,662,Laneige Lip Sleeping Mask,assets/images/lipcare.jpg,20 g,Bath & Body,1250,0
+698c722e70c46913d2ee796d,663,Maybelline Baby Lips,assets/images/lipcare.jpg,4 g,Bath & Body,175,0
+698c722e70c46913d2ee796e,664,Biotique Lip Balm,assets/images/lipcare.jpg,12 g,Bath & Body,145,0
+698c722e70c46913d2ee796f,665,Plum Candy Melts Lip Balm,assets/images/lipcare.jpg,12 g,Bath & Body,295,0
+698c722e70c46913d2ee7970,666,Mamaearth Rose Lip Balm,assets/images/lipcare.jpg,5 g,Bath & Body,299,0
+698c722e70c46913d2ee7971,667,The Body Shop Lip Butter,assets/images/lipcare.jpg,10 ml,Bath & Body,595,0
+698c722e70c46913d2ee7972,668,Forest Essentials Lip Balm,assets/images/lipcare.jpg,5 g,Bath & Body,495,0
+698c722e70c46913d2ee7973,669,Sebamed Lip Defense,assets/images/lipcare.jpg,4.8 g,Bath & Body,325,0
+698c722e70c46913d2ee7974,670,Chaptex Lip Balm,assets/images/lipcare.jpg,10 g,Bath & Body,135,0
+698c722e70c46913d2ee7975,671,Palmer's Cocoa Butter Lip Balm,assets/images/lipcare.jpg,4 g,Bath & Body,215,0
+698c722e70c46913d2ee7976,672,Re'equil Lip Balm,assets/images/lipcare.jpg,10 g,Bath & Body,295,0
+698c722e70c46913d2ee7977,673,Neutrogena Ultra Sheer SPF 50,assets/images/sunscreen.jpg,88 ml,Bath & Body,495,0
+698c722e70c46913d2ee7978,674,La Shield SPF 40 Gel,assets/images/sunscreen.jpg,50 g,Bath & Body,325,0
+698c722e70c46913d2ee7979,675,Minimalist SPF 50 PA++++,assets/images/sunscreen.jpg,50 g,Bath & Body,399,0
+698c722e70c46913d2ee797a,676,Aqualogica Hydrate Sunscreen,assets/images/sunscreen.jpg,50 g,Bath & Body,395,0
+698c722e70c46913d2ee797b,677,Dr Sheth's Ceramide Sunscreen,assets/images/sunscreen.jpg,50 g,Bath & Body,449,0
+698c722e70c46913d2ee797c,678,Lotus Safe Sun SPF 50,assets/images/sunscreen.jpg,100 g,Bath & Body,425,0
+698c722e70c46913d2ee797d,679,Biotique Morning Nectar SPF 30,assets/images/sunscreen.jpg,120 ml,Bath & Body,315,0
+698c722e70c46913d2ee797e,680,Lakme Sun Expert SPF 50,assets/images/sunscreen.jpg,100 ml,Bath & Body,495,0
+698c722e70c46913d2ee797f,681,Mamaearth Ultra Light Sunscreen,assets/images/sunscreen.jpg,50 g,Bath & Body,399,0
+698c722e70c46913d2ee7980,682,WOW Matte Finish Sunscreen,assets/images/sunscreen.jpg,50 ml,Bath & Body,365,0
+698c722e70c46913d2ee7981,683,Mamaearth Bye Bye Dark Circles Cream,assets/images/eyecream.jpg,20 g,Bath & Body,399,0
+698c722e70c46913d2ee7982,684,Plum Under Eye Cream,assets/images/eyecream.jpg,15 ml,Bath & Body,475,0
+698c722e70c46913d2ee7983,685,WOW Under Eye Cream,assets/images/eyecream.jpg,20 ml,Bath & Body,395,0
+698c722e70c46913d2ee7984,686,Biotique Under Eye Gel,assets/images/eyecream.jpg,15 g,Bath & Body,235,0
+698c722e70c46913d2ee7985,687,Kama Ayurveda Eye Cream,assets/images/eyecream.jpg,20 g,Bath & Body,1295,0
+698c722e70c46913d2ee7986,688,Forest Essentials Eye Cream,assets/images/eyecream.jpg,15 g,Bath & Body,1850,0
+698c722e70c46913d2ee7987,689,Minimalist Caffeine Eye Cream,assets/images/eyecream.jpg,20 ml,Bath & Body,499,0
+698c722e70c46913d2ee7988,690,The Derma Co Eye Cream,assets/images/eyecream.jpg,20 ml,Bath & Body,449,0
+698c722e70c46913d2ee7989,691,Dot & Key Eye Cream,assets/images/eyecream.jpg,20 ml,Bath & Body,395,0
+698c722e70c46913d2ee798a,692,MCaffeine Under Eye Cream,assets/images/eyecream.jpg,20 ml,Bath & Body,425,0
+698c722e70c46913d2ee798b,693,Bombay Shaving Company Bath Loofa,assets/images/loofa.jpg,1 pc,Bath & Body,120,0
+698c722e70c46913d2ee798c,694,GUBB Body Bath Loofa,assets/images/loofa.jpg,1 pc,Bath & Body,110,0
+698c722e70c46913d2ee798d,695,Miniso Bath Sponge Loofa,assets/images/loofa.jpg,1 pc,Bath & Body,99,0
+698c722e70c46913d2ee798e,696,Scotch-Brite Bath Loofa,assets/images/loofa.jpg,1 pc,Bath & Body,105,0
+698c722e70c46913d2ee798f,697,Bare Necessities Natural Loofa,assets/images/loofa.jpg,1 pc,Bath & Body,135,0
+698c722e70c46913d2ee7990,698,Vega Styling Hair Comb,assets/images/comb.jpg,1 pc,Bath & Body,80,0
+698c722e70c46913d2ee7991,699,Philips Hair Styling Comb,assets/images/comb.jpg,1 pc,Bath & Body,95,0
+698c722e70c46913d2ee7992,700,Park Avenue Grooming Comb,assets/images/comb.jpg,1 pc,Bath & Body,70,0
+698c722e70c46913d2ee7993,701,Roots Professional Hair Comb,assets/images/comb.jpg,1 pc,Bath & Body,85,0
+698c722e70c46913d2ee7994,702,GUBB Detangling Hair Comb,assets/images/comb.jpg,1 pc,Bath & Body,90,0
+698c722e70c46913d2ee7995,703,Veet Hair Removal Cream Normal Skin,assets/images/hairremoval.jpg,100 g,Feminine Hygiene,210,0
+698c722e70c46913d2ee7996,704,Veet Hair Removal Cream Sensitive Skin,assets/images/hairremoval.jpg,100 g,Feminine Hygiene,220,0
+698c722e70c46913d2ee7997,705,Veet Hair Removal Spray,assets/images/hairremoval.jpg,150 ml,Feminine Hygiene,295,0
+698c722e70c46913d2ee7998,706,Nair Hair Removal Cream,assets/images/hairremoval.jpg,100 g,Feminine Hygiene,230,0
+698c722e70c46913d2ee7999,707,Everteen Hair Removal Cream,assets/images/hairremoval.jpg,50 g,Feminine Hygiene,145,0
+698c722e70c46913d2ee799a,708,Fem Turmeric Hair Removal Cream,assets/images/hairremoval.jpg,100 g,Feminine Hygiene,190,0
+698c722e70c46913d2ee799b,709,Veet Wax Strips Normal Skin,assets/images/hairremoval.jpg,20 strips,Feminine Hygiene,235,0
+698c722e70c46913d2ee799c,710,Veet Wax Strips Sensitive Skin,assets/images/hairremoval.jpg,20 strips,Feminine Hygiene,245,0
+698c722e70c46913d2ee799d,711,Sirona Face Wax Strips,assets/images/hairremoval.jpg,20 strips,Feminine Hygiene,199,0
+698c722e70c46913d2ee799e,712,Sanfe Bikini Wax Strips,assets/images/hairremoval.jpg,20 strips,Feminine Hygiene,299,0
+698c722e70c46913d2ee799f,713,Whisper Ultra Clean XL Pads,assets/images/sanitary.jpg,15 pads,Feminine Hygiene,145,0
+698c722e70c46913d2ee79a0,714,Whisper Choice Regular Pads,assets/images/sanitary.jpg,20 pads,Feminine Hygiene,135,0
+698c722e70c46913d2ee79a1,715,Stayfree Secure XL Pads,assets/images/sanitary.jpg,18 pads,Feminine Hygiene,150,0
+698c722e70c46913d2ee79a2,716,Stayfree Dry Max Regular,assets/images/sanitary.jpg,20 pads,Feminine Hygiene,140,0
+698c722e70c46913d2ee79a3,717,Sofy Anti Bacteria XL Pads,assets/images/sanitary.jpg,16 pads,Feminine Hygiene,155,0
+698c722e70c46913d2ee79a4,718,Sofy Bodyfit Regular Pads,assets/images/sanitary.jpg,20 pads,Feminine Hygiene,145,0
+698c722e70c46913d2ee79a5,719,Bella Maxi Pads,assets/images/sanitary.jpg,15 pads,Feminine Hygiene,165,0
+698c722e70c46913d2ee79a6,720,Nua Ultra Thin Pads,assets/images/sanitary.jpg,10 pads,Feminine Hygiene,199,0
+698c722e70c46913d2ee79a7,721,Carmesi Premium Pads,assets/images/sanitary.jpg,10 pads,Feminine Hygiene,199,0
+698c722e70c46913d2ee79a8,722,Azah Organic Pads,assets/images/sanitary.jpg,10 pads,Feminine Hygiene,215,0
+698c722e70c46913d2ee79a9,723,Pee Safe Organic Pads,assets/images/sanitary.jpg,10 pads,Feminine Hygiene,225,0
+698c722e70c46913d2ee79aa,724,Sirona Herbal Pads,assets/images/sanitary.jpg,15 pads,Feminine Hygiene,175,0
+698c722e70c46913d2ee79ab,725,Everteen Cotton Soft Pads,assets/images/sanitary.jpg,20 pads,Feminine Hygiene,155,0
+698c722e70c46913d2ee79ac,726,Stayfree Nights XL Pads,assets/images/sanitary.jpg,10 pads,Feminine Hygiene,120,0
+698c722e70c46913d2ee79ad,727,Whisper Bindazzz Nights,assets/images/sanitary.jpg,10 pads,Feminine Hygiene,125,0
+698c722e70c46913d2ee79ae,728,Kotex Ultra Thin Pads,assets/images/sanitary.jpg,14 pads,Feminine Hygiene,160,0
+698c722e70c46913d2ee79af,729,Paree Super XL Pads,assets/images/sanitary.jpg,20 pads,Feminine Hygiene,145,0
+698c722e70c46913d2ee79b0,730,Niine Ultra Soft Pads,assets/images/sanitary.jpg,20 pads,Feminine Hygiene,135,0
+698c722e70c46913d2ee79b1,731,Carefree Sanitary Pads,assets/images/sanitary.jpg,18 pads,Feminine Hygiene,130,0
+698c722e70c46913d2ee79b2,732,Fem Ultra Care Pads,assets/images/sanitary.jpg,15 pads,Feminine Hygiene,140,0
+698c722e70c46913d2ee79b3,733,Sirona Tampons Regular,assets/images/sanitary.jpg,10 pcs,Feminine Hygiene,299,0
+698c722e70c46913d2ee79b4,734,Sirona Tampons Super,assets/images/sanitary.jpg,10 pcs,Feminine Hygiene,325,0
+698c722e70c46913d2ee79b5,735,Pee Safe Tampons Regular,assets/images/sanitary.jpg,10 pcs,Feminine Hygiene,310,0
+698c722e70c46913d2ee79b6,736,Pee Safe Tampons Super,assets/images/sanitary.jpg,10 pcs,Feminine Hygiene,335,0
+698c722e70c46913d2ee79b7,737,Carmesi Tampons Regular,assets/images/sanitary.jpg,10 pcs,Feminine Hygiene,299,0
+698c722e70c46913d2ee79b8,738,Carmesi Tampons Super,assets/images/sanitary.jpg,10 pcs,Feminine Hygiene,325,0
+698c722e70c46913d2ee79b9,739,OB Tampons Normal,assets/images/sanitary.jpg,16 pcs,Feminine Hygiene,245,0
+698c722e70c46913d2ee79ba,740,OB Tampons Super,assets/images/sanitary.jpg,16 pcs,Feminine Hygiene,265,0
+698c722e70c46913d2ee79bb,741,Kotex Tampons Regular,assets/images/sanitary.jpg,16 pcs,Feminine Hygiene,255,0
+698c722e70c46913d2ee79bc,742,Bella Tampons Regular,assets/images/sanitary.jpg,16 pcs,Feminine Hygiene,260,0
+698c722e70c46913d2ee79bd,743,Sirona Menstrual Cup Small,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,299,0
+698c722e70c46913d2ee79be,744,Sirona Menstrual Cup Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,325,0
+698c722e70c46913d2ee79bf,745,Pee Safe Menstrual Cup Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,349,0
+698c722e70c46913d2ee79c0,746,Carmesi Menstrual Cup Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,349,0
+698c722e70c46913d2ee79c1,747,Boondh Menstrual Cup Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,299,0
+698c722e70c46913d2ee79c2,748,Sirona Period Panty Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,599,0
+698c722e70c46913d2ee79c3,749,Nua Period Panty Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,649,0
+698c722e70c46913d2ee79c4,750,Pee Safe Period Panty Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,699,0
+698c722e70c46913d2ee79c5,751,Carmesi Period Panty Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,649,0
+698c722e70c46913d2ee79c6,752,Azah Period Panty Medium,assets/images/sanitary.jpg,1 pc,Feminine Hygiene,625,0
+698c722e70c46913d2ee79c7,753,Sirona Menstrual Cramp Relief Roll On,assets/images/momcare.jpg,10 ml,Feminine Hygiene,199,0
+698c722e70c46913d2ee79c8,754,Pee Safe Cramp Relief Roll On,assets/images/momcare.jpg,10 ml,Feminine Hygiene,225,0
+698c722e70c46913d2ee79c9,755,Moody Heat Patch for Period Pain,assets/images/momcare.jpg,3 patches,Feminine Hygiene,199,0
+698c722e70c46913d2ee79ca,756,Sirona Period Pain Relief Patch,assets/images/momcare.jpg,3 patches,Feminine Hygiene,215,0
+698c722e70c46913d2ee79cb,757,Femisafe Cramp Relief Roll On,assets/images/momcare.jpg,10 ml,Feminine Hygiene,185,0
+698c722e70c46913d2ee79cc,758,Johnson's Baby Nursing Pads,assets/images/momcare.jpg,30 pads,Feminine Hygiene,325,0
+698c722e70c46913d2ee79cd,759,Pigeon Disposable Breast Pads,assets/images/momcare.jpg,30 pads,Feminine Hygiene,345,0
+698c722e70c46913d2ee79ce,760,Sebamed Baby Diaper Rash Cream,assets/images/momcare.jpg,50 g,Feminine Hygiene,495,0
+698c722e70c46913d2ee79cf,761,Mamaearth Nipple Butter Cream,assets/images/momcare.jpg,50 g,Feminine Hygiene,399,0
+698c722e70c46913d2ee79d0,762,Himalaya Stretch Mark Cream,assets/images/momcare.jpg,200 ml,Feminine Hygiene,325,0
+698c722e70c46913d2ee79d1,763,Pampers Baby Dry Pants Small,assets/images/baby_diaper.jpg,30 pcs,Baby Care,399,0
+698c722e70c46913d2ee79d2,764,Pampers Baby Dry Pants Medium,assets/images/baby_diaper.jpg,30 pcs,Baby Care,449,0
+698c722e70c46913d2ee79d3,765,Pampers Baby Dry Pants Large,assets/images/baby_diaper.jpg,28 pcs,Baby Care,475,0
+698c722e70c46913d2ee79d4,766,Huggies Wonder Pants Small,assets/images/baby_diaper.jpg,34 pcs,Baby Care,420,0
+698c722e70c46913d2ee79d5,767,Huggies Wonder Pants Medium,assets/images/baby_diaper.jpg,32 pcs,Baby Care,465,0
+698c722e70c46913d2ee79d6,768,Huggies Wonder Pants Large,assets/images/baby_diaper.jpg,30 pcs,Baby Care,495,0
+698c722e70c46913d2ee79d7,769,MamyPoko Pants Extra Absorb Small,assets/images/baby_diaper.jpg,28 pcs,Baby Care,410,0
+698c722e70c46913d2ee79d8,770,MamyPoko Pants Extra Absorb Medium,assets/images/baby_diaper.jpg,26 pcs,Baby Care,450,0
+698c722e70c46913d2ee79d9,771,Little Angels Baby Diapers Small,assets/images/baby_diaper.jpg,30 pcs,Baby Care,385,0
+698c722e70c46913d2ee79da,772,Friends Premium Baby Diapers Medium,assets/images/baby_diaper.jpg,32 pcs,Baby Care,430,0
+698c722e70c46913d2ee79db,773,Johnson's Baby Wipes,assets/images/baby_wipes.jpg,72 wipes,Baby Care,210,0
+698c722e70c46913d2ee79dc,774,Himalaya Gentle Baby Wipes,assets/images/baby_wipes.jpg,72 wipes,Baby Care,195,0
+698c722e70c46913d2ee79dd,775,Pampers Baby Wipes,assets/images/baby_wipes.jpg,64 wipes,Baby Care,220,0
+698c722e70c46913d2ee79de,776,Mee Mee Baby Wipes,assets/images/baby_wipes.jpg,72 wipes,Baby Care,185,0
+698c722e70c46913d2ee79df,777,Mother Sparsh Water Wipes,assets/images/baby_wipes.jpg,72 wipes,Baby Care,249,0
+698c722e70c46913d2ee79e0,778,Chicco Baby Wipes,assets/images/baby_wipes.jpg,72 wipes,Baby Care,235,0
+698c722e70c46913d2ee79e1,779,Cerelac Wheat Apple Baby Food,assets/images/baby_food.jpg,300 g,Baby Care,285,0
+698c722e70c46913d2ee79e2,780,Cerelac Rice Baby Food,assets/images/baby_food.jpg,300 g,Baby Care,270,0
+698c722e70c46913d2ee79e3,781,Nestum Rice Baby Cereal,assets/images/baby_food.jpg,300 g,Baby Care,265,0
+698c722e70c46913d2ee79e4,782,Nestum Multigrain Baby Cereal,assets/images/baby_food.jpg,300 g,Baby Care,295,0
+698c722e70c46913d2ee79e5,783,Slurrp Farm Multigrain Cereal,assets/images/baby_food.jpg,250 g,Baby Care,349,0
+698c722e70c46913d2ee79e6,784,Slurrp Farm Ragi Apple Cereal,assets/images/baby_food.jpg,250 g,Baby Care,339,0
+698c722e70c46913d2ee79e7,785,Early Foods Millet Cereal,assets/images/baby_food.jpg,200 g,Baby Care,325,0
+698c722e70c46913d2ee79e8,786,Timios Banana Baby Food,assets/images/baby_food.jpg,200 g,Baby Care,199,0
+698c722e70c46913d2ee79e9,787,Johnson's Baby Shampoo,assets/images/baby_shampoo.jpg,200 ml,Baby Care,190,0
+698c722e70c46913d2ee79ea,788,Himalaya Gentle Baby Shampoo,assets/images/baby_shampoo.jpg,200 ml,Baby Care,175,0
+698c722e70c46913d2ee79eb,789,Chicco Baby Moments Shampoo,assets/images/baby_shampoo.jpg,200 ml,Baby Care,235,0
+698c722e70c46913d2ee79ec,790,Mamaearth Baby Shampoo,assets/images/baby_shampoo.jpg,200 ml,Baby Care,249,0
+698c722e70c46913d2ee79ed,791,Sebamed Baby Shampoo,assets/images/baby_shampoo.jpg,150 ml,Baby Care,495,0
+698c722e70c46913d2ee79ee,792,Johnson's Baby Soap,assets/images/baby_soap.jpg,100 g,Baby Care,65,0
+698c722e70c46913d2ee79ef,793,Himalaya Gentle Baby Soap,assets/images/baby_soap.jpg,125 g,Baby Care,55,0
+698c722e70c46913d2ee79f0,794,Sebamed Baby Cleansing Bar,assets/images/baby_soap.jpg,100 g,Baby Care,295,0
+698c722e70c46913d2ee79f1,795,Mamaearth Baby Soap,assets/images/baby_soap.jpg,75 g,Baby Care,125,0
+698c722e70c46913d2ee79f2,796,Chicco Baby Soap,assets/images/baby_soap.jpg,100 g,Baby Care,135,0
+698c722e70c46913d2ee79f3,797,Johnson's Baby Oil,assets/images/baby_oil.jpg,300 ml,Baby Care,235,0
+698c722e70c46913d2ee79f4,798,Dabur Lal Tail Baby Oil,assets/images/baby_oil.jpg,200 ml,Baby Care,185,0
+698c722e70c46913d2ee79f5,799,Himalaya Baby Massage Oil,assets/images/baby_oil.jpg,200 ml,Baby Care,195,0
+698c722e70c46913d2ee79f6,800,Johnson's Baby Powder,assets/images/baby_powder.jpg,200 g,Baby Care,155,0
+698c722e70c46913d2ee79f7,801,Chicco Baby Powder,assets/images/baby_powder.jpg,150 g,Baby Care,175,0
+698c722e70c46913d2ee79f8,802,Mee Mee Baby Powder,assets/images/baby_powder.jpg,200 g,Baby Care,145,0
+698c722e70c46913d2ee79f9,803,Philips Avent Baby Feeding Bottle,assets/images/baby_bottle.jpg,125 ml,Baby Care,395,0
+698c722e70c46913d2ee79fa,804,Mee Mee Feeding Bottle,assets/images/baby_bottle.jpg,150 ml,Baby Care,225,0
+698c722e70c46913d2ee79fb,805,Chicco Feeding Bottle,assets/images/baby_bottle.jpg,150 ml,Baby Care,345,0
+698c722e70c46913d2ee79fc,806,Chicco Baby Toothbrush,assets/images/baby_oral.jpg,1 pc,Baby Care,125,0
+698c722e70c46913d2ee79fd,807,Mamaearth Baby Toothpaste,assets/images/baby_oral.jpg,50 g,Baby Care,199,0
+698c722e70c46913d2ee79fe,808,Himalaya Baby Rash Cream,assets/images/baby_health.jpg,50 g,Baby Care,125,0
+698c722e70c46913d2ee79ff,809,Sebamed Baby Diaper Rash Cream,assets/images/baby_health.jpg,50 g,Baby Care,495,0
+698c722e70c46913d2ee7a00,810,Johnson's Baby Cream,assets/images/baby_health.jpg,100 g,Baby Care,165,0
+698c722e70c46913d2ee7a01,811,Mother Sparsh Baby Balm,assets/images/baby_health.jpg,25 g,Baby Care,199,0
+698c722e70c46913d2ee7a02,812,Pigeon Baby Nail Clipper,assets/images/baby_health.jpg,1 pc,Baby Care,175,0
+698c722e70c46913d2ee7a03,813,Lay's Classic Salted,assets/images/lays_classic_salted.jpg,52 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a04,814,Lay's Magic Masala,assets/images/lays_magic_masala.jpg,52 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a05,815,Lay's Cream & Onion,assets/images/lays_cream_onion.jpg,52 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a06,816,Lay's Chile Limon,assets/images/lays_chile_limon.jpg,52 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a07,817,Kurkure Masala Munch,assets/images/kurkure_masala_munch.jpg,75 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a08,818,Kurkure Chilli Chatka,assets/images/kurkure_chilli_chatka.jpg,75 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a09,819,Kurkure Green Chutney,assets/images/kurkure_green_chutney.jpg,75 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a0a,820,Kurkure Puffcorn Cheese,assets/images/kurkure_puffcorn_cheese.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a0b,821,Bingo Mad Angles Achaari Masti,assets/images/bingo_mad_angles_achaari.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a0c,822,Bingo Mad Angles Peri Peri,assets/images/bingo_mad_angles_peri.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a0d,823,Bingo Original Style Chips,assets/images/bingo_original_chips.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a0e,824,Doritos Nacho Cheese,assets/images/doritos_nacho_cheese.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a0f,825,Doritos Sweet Chilli,assets/images/doritos_sweet_chilli.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a10,826,Haldiram's Aloo Bhujia,assets/images/haldirams_aloo_bhujia.jpg,150 g,Chips & Namkeen,45,0
+698c722e70c46913d2ee7a11,827,Haldiram's Bhujia Sev,assets/images/haldirams_bhujia_sev.jpg,150 g,Chips & Namkeen,45,0
+698c722e70c46913d2ee7a12,828,Haldiram's Khatta Meetha,assets/images/haldirams_khatta_meetha.jpg,150 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a13,829,Haldiram's Punjabi Tadka,assets/images/haldirams_punjabi_tadka.jpg,150 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a14,830,Haldiram's Navratan Mixture,assets/images/haldirams_navratan.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a15,831,Bikaji Bikaneri Bhujia,assets/images/bikaji_bikaneri_bhujia.jpg,200 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a16,832,Bikaji Bhujia,assets/images/bikaji_bhujia.jpg,200 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a17,833,Bikaji Moong Dal,assets/images/bikaji_moong_dal.jpg,200 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a18,834,Bikaji Chana Dal,assets/images/bikaji_chana_dal.jpg,200 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a19,835,Too Yumm Multigrain Chips,assets/images/too_yumm_multigrain.jpg,50 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a1a,836,Too Yumm Veggie Stix,assets/images/too_yumm_veggie_stix.jpg,45 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a1b,837,Pringles Original,assets/images/pringles_original.jpg,107 g,Chips & Namkeen,110,0
+698c722e70c46913d2ee7a1c,838,Pringles Sour Cream & Onion,assets/images/pringles_sour_cream.jpg,107 g,Chips & Namkeen,110,0
+698c722e70c46913d2ee7a1d,839,Balaji Simply Salted Wafers,assets/images/balaji_salted_wafers.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a1e,840,Balaji Masala Wafers,assets/images/balaji_masala_wafers.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a1f,841,Tata Sampann Chana Dal Namkeen,assets/images/tata_chana_dal_namkeen.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a20,842,Tata Sampann Moong Dal Namkeen,assets/images/tata_moong_dal_namkeen.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a21,843,Bingo Tedhe Medhe Masala,assets/images/bingo_tedhe_medhe.jpg,90 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a22,844,Bingo Tedhe Medhe Chatpata,assets/images/bingo_tedhe_medhe_chatpata.jpg,90 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a23,845,MTR Mixture,assets/images/mtr_mixture.jpg,180 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a24,846,MTR Spicy Sev,assets/images/mtr_spicy_sev.jpg,180 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a25,847,RiteBite Max Protein Chips,assets/images/ritebite_protein_chips.jpg,45 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a26,848,Yoga Bar Baked Chips,assets/images/yogabar_baked_chips.jpg,45 g,Chips & Namkeen,45,0
+698c722e70c46913d2ee7a27,849,Cornitos Nacho Crisps,assets/images/cornitos_nacho.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a28,850,Cornitos Peri Peri,assets/images/cornitos_peri_peri.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a29,851,Lay's West Indies Hot n Sweet Chilli,assets/images/lays_hot_sweet_chilli.jpg,52 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a2a,852,Lay's India's Magic Masala XL,assets/images/lays_magic_masala_xl.jpg,82 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a2b,853,Kurkure Solid Masti Twisteez,assets/images/kurkure_solid_masti.jpg,75 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a2c,854,Kurkure Puffcorn Spicy Cheese,assets/images/kurkure_puffcorn_spicy.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a2d,855,Bingo Mad Angles Cheese Nachos,assets/images/bingo_mad_angles_cheese.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a2e,856,Bingo Mad Angles Tomato Madness,assets/images/bingo_mad_angles_tomato.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a2f,857,Pringles Original Small Can,assets/images/pringles_original_small.jpg,42 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a30,858,Pringles Cheesy Cheese,assets/images/pringles_cheesy_cheese.jpg,107 g,Chips & Namkeen,110,0
+698c722e70c46913d2ee7a31,859,Haldiram's Moong Dal,assets/images/haldirams_moong_dal.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a32,860,Haldiram's Chana Chor Garam,assets/images/haldirams_chana_chor.jpg,150 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a33,861,Haldiram's All In One Mixture,assets/images/haldirams_all_in_one.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a34,862,Bikaji Navratan Mix,assets/images/bikaji_navratan.jpg,200 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a35,863,Bikaji Aloo Bhujia,assets/images/bikaji_aloo_bhujia.jpg,200 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a36,864,Balaji Tomato Twist Wafers,assets/images/balaji_tomato_twist.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a37,865,Balaji Cream Onion Wafers,assets/images/balaji_cream_onion.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a38,866,Too Yumm Karare Munchy Masala,assets/images/too_yumm_karare_masala.jpg,55 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a39,867,Too Yumm Rings Tomato,assets/images/too_yumm_rings_tomato.jpg,50 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a3a,868,Cornitos Sweet Chilli Nachos,assets/images/cornitos_sweet_chilli.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a3b,869,Cornitos Cheese & Herbs,assets/images/cornitos_cheese_herbs.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a3c,870,Tata Sampann Nut Cracker Masala Peanuts,assets/images/tata_masala_peanuts.jpg,200 g,Chips & Namkeen,75,0
+698c722e70c46913d2ee7a3d,871,Tata Sampann Classic Salted Peanuts,assets/images/tata_salted_peanuts.jpg,200 g,Chips & Namkeen,70,0
+698c722e70c46913d2ee7a3e,872,MTR Chakli,assets/images/mtr_chakli.jpg,180 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a3f,873,MTR Murukku,assets/images/mtr_murukku.jpg,180 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a40,874,Garden Bombay Mixture,assets/images/garden_bombay_mixture.jpg,200 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a41,875,Garden Nylon Sev,assets/images/garden_nylon_sev.jpg,200 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a42,876,RiteBite Max Protein Nachos,assets/images/ritebite_nachos.jpg,45 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a43,877,Yoga Bar Protein Chips Sour Cream,assets/images/yogabar_protein_chips.jpg,45 g,Chips & Namkeen,45,0
+698c722e70c46913d2ee7a44,878,Snac Tac Cheese Balls,assets/images/snactac_cheese_balls.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a45,879,Snac Tac Masala Rings,assets/images/snactac_masala_rings.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a46,880,Haldiram's Masala Peanuts,assets/images/haldirams_masala_peanuts.jpg,200 g,Chips & Namkeen,70,0
+698c722e70c46913d2ee7a47,881,Haldiram's Salted Peanuts,assets/images/haldirams_salted_peanuts.jpg,200 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a48,882,Bingo Tedhe Medhe Limelight,assets/images/bingo_tedhe_medhe_limelight.jpg,90 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a49,883,Balaji Sev Mamra,assets/images/balaji_sev_mamra.jpg,200 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a4a,884,Balaji Ratlami Sev,assets/images/balaji_ratlami_sev.jpg,200 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a4b,885,Pringles Texas BBQ,assets/images/pringles_texas_bbq.jpg,107 g,Chips & Namkeen,110,0
+698c722e70c46913d2ee7a4c,886,Lay's Maxx Macho Chilli,assets/images/lays_maxx_macho_chilli.jpg,50 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a4d,887,Lay's Maxx Sizzling BBQ,assets/images/lays_maxx_bbq.jpg,50 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a4e,888,Kurkure Playz Puffcorn Yummy Cheese,assets/images/kurkure_playz_cheese.jpg,55 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a4f,889,Kurkure Playz Puffcorn Chilli,assets/images/kurkure_playz_chilli.jpg,55 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a50,890,Bingo Hashtags Spicy Masala,assets/images/bingo_hashtags_spicy.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a51,891,Bingo Hashtags Cream & Onion,assets/images/bingo_hashtags_cream_onion.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a52,892,Haldiram's Diet Mixture,assets/images/haldirams_diet_mixture.jpg,150 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a53,893,Haldiram's Nagpur Mixture,assets/images/haldirams_nagpur_mixture.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a54,894,Haldiram's Kashmiri Mixture,assets/images/haldirams_kashmiri_mixture.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a55,895,Bikaji Papad Snack,assets/images/bikaji_papad_snack.jpg,200 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a56,896,Bikaji Masala Peanuts,assets/images/bikaji_masala_peanuts.jpg,200 g,Chips & Namkeen,70,0
+698c722e70c46913d2ee7a57,897,Balaji Chaat Chaska Wafers,assets/images/balaji_chaat_chaska.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a58,898,Balaji Simply Salted Crinkles,assets/images/balaji_crinkles_salted.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a59,899,Too Yumm Foxnuts Chat Masala,assets/images/too_yumm_foxnuts_chat.jpg,30 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a5a,900,Too Yumm Foxnuts Peri Peri,assets/images/too_yumm_foxnuts_peri.jpg,30 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a5b,901,Cornitos Nacho Crisps Cheese Salsa,assets/images/cornitos_cheese_salsa.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a5c,902,Cornitos BBQ Nachos,assets/images/cornitos_bbq.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a5d,903,Tata Sampann Roasted Chana Dal,assets/images/tata_roasted_chana.jpg,200 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a5e,904,Tata Sampann Masala Chana Jor,assets/images/tata_chana_jor.jpg,200 g,Chips & Namkeen,70,0
+698c722e70c46913d2ee7a5f,905,MTR Ribbon Pakoda,assets/images/mtr_ribbon_pakoda.jpg,180 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a60,906,MTR Thenkuzhal Murukku,assets/images/mtr_thenkuzhal.jpg,180 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a61,907,Garden Farali Chevdo,assets/images/garden_farali_chevdo.jpg,200 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a62,908,Garden Spicy Sev,assets/images/garden_spicy_sev.jpg,200 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a63,909,RiteBite Protein Puffs Chilli,assets/images/ritebite_protein_puffs.jpg,50 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a64,910,Yoga Bar Multigrain Chips Masala,assets/images/yogabar_multigrain_masala.jpg,45 g,Chips & Namkeen,45,0
+698c722e70c46913d2ee7a65,911,Snac Tac Cheese Rings,assets/images/snactac_cheese_rings.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a66,912,Snac Tac Tomato Wheels,assets/images/snactac_tomato_wheels.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a67,913,Haldiram's Cornflakes Mixture,assets/images/haldirams_cornflakes_mixture.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a68,914,Bingo Tedhe Medhe Spicy Lemon,assets/images/bingo_tedhe_medhe_lemon.jpg,90 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a69,915,Balaji Butter Masti Wafers,assets/images/balaji_butter_masti.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a6a,916,Pringles Hot & Spicy,assets/images/pringles_hot_spicy.jpg,107 g,Chips & Namkeen,110,0
+698c722e70c46913d2ee7a6b,917,Too Yumm Potato Stix Classic Salted,assets/images/too_yumm_potato_stix.jpg,45 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a6c,918,Lay's Maxx Peppery Cheese,assets/images/lays_maxx_peppery_cheese.jpg,50 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a6d,919,Lay's Wavy Original,assets/images/lays_wavy_original.jpg,52 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a6e,920,Kurkure Masala Munch XL,assets/images/kurkure_masala_munch_xl.jpg,150 g,Chips & Namkeen,35,0
+698c722e70c46913d2ee7a6f,921,Kurkure Puffcorn Butter Masala,assets/images/kurkure_puffcorn_butter.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a70,922,Bingo Mad Angles Cheese Jalapeno,assets/images/bingo_mad_angles_jalapeno.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a71,923,Bingo Original Salted Chips XL,assets/images/bingo_original_xl.jpg,90 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a72,924,Haldiram's Mini Samosa,assets/images/haldirams_mini_samosa.jpg,150 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a73,925,Haldiram's Boondi,assets/images/haldirams_boondi.jpg,150 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a74,926,Haldiram's Raita Boondi,assets/images/haldirams_raita_boondi.jpg,150 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a75,927,Bikaji Mini Bhakarwadi,assets/images/bikaji_bhakarwadi.jpg,200 g,Chips & Namkeen,75,0
+698c722e70c46913d2ee7a76,928,Bikaji Khatta Meetha,assets/images/bikaji_khatta_meetha.jpg,200 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a77,929,Balaji Peri Peri Wafers,assets/images/balaji_peri_peri.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a78,930,Balaji Cheese Balls,assets/images/balaji_cheese_balls.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a79,931,Too Yumm Foxnuts Cheese,assets/images/too_yumm_foxnuts_cheese.jpg,30 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a7a,932,Too Yumm Quinoa Chips Masala,assets/images/too_yumm_quinoa_masala.jpg,45 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a7b,933,Cornitos Mango Salsa Nachos,assets/images/cornitos_mango_salsa.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a7c,934,Cornitos Crunched Tikka Masala,assets/images/cornitos_tikka_masala.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a7d,935,Tata Sampann Roasted Peanuts Classic,assets/images/tata_roasted_peanuts.jpg,200 g,Chips & Namkeen,70,0
+698c722e70c46913d2ee7a7e,936,Tata Sampann Spicy Trail Mix,assets/images/tata_trail_mix.jpg,150 g,Chips & Namkeen,85,0
+698c722e70c46913d2ee7a7f,937,MTR Chivda,assets/images/mtr_chivda.jpg,180 g,Chips & Namkeen,65,0
+698c722e70c46913d2ee7a80,938,MTR Masala Sev,assets/images/mtr_masala_sev.jpg,180 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a81,939,Garden Tomato Sev,assets/images/garden_tomato_sev.jpg,200 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a82,940,Garden Ratlami Sev,assets/images/garden_ratlami_sev.jpg,200 g,Chips & Namkeen,60,0
+698c722e70c46913d2ee7a83,941,RiteBite Max Protein Chips BBQ,assets/images/ritebite_bbq_chips.jpg,45 g,Chips & Namkeen,50,0
+698c722e70c46913d2ee7a84,942,Yoga Bar Foxnuts Peri Peri,assets/images/yogabar_foxnuts_peri.jpg,30 g,Chips & Namkeen,45,0
+698c722e70c46913d2ee7a85,943,Snac Tac Masala Wheels,assets/images/snactac_masala_wheels.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a86,944,Snac Tac Cheese Puffs,assets/images/snactac_cheese_puffs.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a87,945,Haldiram's Sabudana Mixture,assets/images/haldirams_sabudana.jpg,150 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a88,946,Bingo Tedhe Medhe Butter Twist,assets/images/bingo_tedhe_medhe_butter.jpg,90 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a89,947,Balaji Chataka Pataka Wafers,assets/images/balaji_chataka_pataka.jpg,60 g,Chips & Namkeen,20,0
+698c722e70c46913d2ee7a8a,948,Pringles Cheese & Onion,assets/images/pringles_cheese_onion.jpg,107 g,Chips & Namkeen,110,0
+698c722e70c46913d2ee7a8b,949,Too Yumm Potato Stix Peri Peri,assets/images/too_yumm_potato_stix_peri.jpg,45 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a8c,950,Haldiram's Dry Fruit Mixture,assets/images/haldirams_dry_fruit_mixture.jpg,150 g,Chips & Namkeen,95,0
+698c722e70c46913d2ee7a8d,951,Bikaji Dry Kachori,assets/images/bikaji_dry_kachori.jpg,200 g,Chips & Namkeen,70,0
+698c722e70c46913d2ee7a8e,952,Garden Methi Sev,assets/images/garden_methi_sev.jpg,200 g,Chips & Namkeen,55,0
+698c722e70c46913d2ee7a8f,953,Cornitos Roasted Papdi Chaat,assets/images/cornitos_papdi_chaat.jpg,60 g,Chips & Namkeen,30,0
+698c722e70c46913d2ee7a90,954,Too Yumm Baked Potato Chips Salted,assets/images/too_yumm_baked_salted.jpg,45 g,Chips & Namkeen,25,0
+698c722e70c46913d2ee7a91,955,Britannia Good Day Butter Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7a92,956,Britannia Good Day Cashew Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7a93,957,Britannia Good Day Chocolate Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7a94,958,Britannia Marie Gold Biscuits,assets/images/bakery.jpg,250 g,Biscuits & Bakery,38,0
+698c722e70c46913d2ee7a95,959,Britannia Little Hearts Biscuits,assets/images/bakery.jpg,75 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7a96,960,Britannia Bourbon Cream Biscuits,assets/images/bakery.jpg,150 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7a97,961,Britannia Treat Strawberry Cream,assets/images/bakery.jpg,150 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7a98,962,Britannia Treat Chocolate Cream,assets/images/bakery.jpg,150 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7a99,963,Britannia Treat Croissant Chocolate,assets/images/bakery.jpg,45 g,Biscuits & Bakery,20,0
+698c722e70c46913d2ee7a9a,964,Britannia Little Roll Strawberry,assets/images/bakery.jpg,30 g,Biscuits & Bakery,10,0
+698c722e70c46913d2ee7a9b,965,Britannia Little Roll Chocolate,assets/images/bakery.jpg,30 g,Biscuits & Bakery,10,0
+698c722e70c46913d2ee7a9c,966,Britannia Swiss Roll Chocolate,assets/images/bakery.jpg,40 g,Biscuits & Bakery,15,0
+698c722e70c46913d2ee7a9d,967,Britannia Swiss Roll Strawberry,assets/images/bakery.jpg,40 g,Biscuits & Bakery,15,0
+698c722e70c46913d2ee7a9e,968,Britannia Fruit Cake,assets/images/bakery.jpg,60 g,Biscuits & Bakery,20,0
+698c722e70c46913d2ee7a9f,969,Britannia Chocolate Cake,assets/images/bakery.jpg,60 g,Biscuits & Bakery,20,0
+698c722e70c46913d2ee7aa0,970,Parle-G Original Biscuits,assets/images/bakery.jpg,250 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7aa1,971,Parle-G Gold Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7aa2,972,Parle Hide & Seek Fab,assets/images/bakery.jpg,112 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7aa3,973,Parle Hide & Seek Chocolate,assets/images/bakery.jpg,150 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7aa4,974,Parle Hide & Seek Creme,assets/images/bakery.jpg,150 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7aa5,975,Parle Monaco Salted Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7aa6,976,Parle Krackjack Sweet & Salty,assets/images/bakery.jpg,200 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7aa7,977,Sunfeast Marie Light Biscuits,assets/images/bakery.jpg,250 g,Biscuits & Bakery,38,0
+698c722e70c46913d2ee7aa8,978,Sunfeast Dark Fantasy Choco Fills,assets/images/bakery.jpg,75 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7aa9,979,Sunfeast Dark Fantasy Vanilla Fills,assets/images/bakery.jpg,75 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7aaa,980,Sunfeast Bounce Cake Chocolate,assets/images/bakery.jpg,50 g,Biscuits & Bakery,20,0
+698c722e70c46913d2ee7aab,981,Sunfeast Bounce Cake Strawberry,assets/images/bakery.jpg,50 g,Biscuits & Bakery,20,0
+698c722e70c46913d2ee7aac,982,Sunfeast Mom's Magic Butter Cookies,assets/images/bakery.jpg,200 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7aad,983,Sunfeast Mom's Magic Cashew Cookies,assets/images/bakery.jpg,200 g,Biscuits & Bakery,55,0
+698c722e70c46913d2ee7aae,984,Oreo Original Cream Biscuits,assets/images/bakery.jpg,120 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7aaf,985,Oreo Chocolate Creme Biscuits,assets/images/bakery.jpg,120 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7ab0,986,Oreo Vanilla Creme Biscuits,assets/images/bakery.jpg,120 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7ab1,987,Oreo Strawberry Creme Biscuits,assets/images/bakery.jpg,120 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7ab2,988,McVitie's Digestive Biscuits,assets/images/bakery.jpg,250 g,Biscuits & Bakery,85,0
+698c722e70c46913d2ee7ab3,989,McVitie's Hobnobs Oats Biscuits,assets/images/bakery.jpg,150 g,Biscuits & Bakery,95,0
+698c722e70c46913d2ee7ab4,990,Unibic Fruit & Nut Cookies,assets/images/bakery.jpg,75 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7ab5,991,Unibic Chocolate Chip Cookies,assets/images/bakery.jpg,75 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7ab6,992,Unibic Cashew Cookies,assets/images/bakery.jpg,75 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7ab7,993,Unibic Butter Cookies,assets/images/bakery.jpg,75 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7ab8,994,Anmol Cream Cracker Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7ab9,995,Anmol Nice Time Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7aba,996,Anmol Chocolate Cream Biscuits,assets/images/bakery.jpg,150 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7abb,997,Britannia NutriChoice Digestive,assets/images/bakery.jpg,200 g,Biscuits & Bakery,55,0
+698c722e70c46913d2ee7abc,998,Britannia NutriChoice Hi-Fibre,assets/images/bakery.jpg,200 g,Biscuits & Bakery,60,0
+698c722e70c46913d2ee7abd,999,Britannia NutriChoice Sugar Free,assets/images/bakery.jpg,200 g,Biscuits & Bakery,65,0
+698c722e70c46913d2ee7abe,1000,Sunfeast Farmlite Oats Biscuits,assets/images/bakery.jpg,150 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7abf,1001,Sunfeast Farmlite Digestive,assets/images/bakery.jpg,150 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7ac0,1002,Elite Bourbon Cream Biscuits,assets/images/bakery.jpg,150 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7ac1,1003,Elite Milk Cream Biscuits,assets/images/bakery.jpg,150 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7ac2,1004,Britannia Milk Bikis Cream Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7ac3,1005,Britannia Milk Bikis Chocolate,assets/images/bakery.jpg,200 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7ac4,1006,Good Day Choco Chip Cookies,assets/images/bakery.jpg,150 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7ac5,1007,Hide & Seek Black Bourbon,assets/images/bakery.jpg,100 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7ac6,1008,Parle Milk Shakti Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7ac7,1009,Parle Digestive Marie,assets/images/bakery.jpg,250 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7ac8,1010,Sunfeast Nice Time Biscuits,assets/images/bakery.jpg,200 g,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7ac9,1011,Unibic Multigrain Cookies,assets/images/bakery.jpg,75 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7aca,1012,Unibic Oats Cookies,assets/images/bakery.jpg,75 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7acb,1013,Britannia Rusk Toast,assets/images/bakery.jpg,200 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7acc,1014,Elite Rusk Toast,assets/images/bakery.jpg,200 g,Biscuits & Bakery,40,0
+698c722e70c46913d2ee7acd,1015,Harvest Gold Cream Roll Chocolate,assets/images/bakery.jpg,50 g,Biscuits & Bakery,20,0
+698c722e70c46913d2ee7ace,1016,Harvest Gold Cream Roll Strawberry,assets/images/bakery.jpg,50 g,Biscuits & Bakery,20,0
+698c722e70c46913d2ee7acf,1017,Maggi 2 Minute Masala Noodles,assets/images/instant_food.jpg,70 g,Instant Food,14,0
+698c722e70c46913d2ee7ad0,1018,Maggi Special Masala Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7ad1,1019,Maggi Veg Atta Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7ad2,1020,Yippee Magic Masala Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7ad3,1021,Yippee Mood Masala Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7ad4,1022,Top Ramen Curry Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7ad5,1023,Top Ramen Masala Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7ad6,1024,Knorr Soupy Noodles Veg,assets/images/instant_food.jpg,65 g,Instant Food,15,0
+698c722e70c46913d2ee7ad7,1025,Ching's Secret Veg Hakka Noodles,assets/images/instant_food.jpg,60 g,Instant Food,15,0
+698c722e70c46913d2ee7ad8,1026,Ching's Hot Garlic Noodles,assets/images/instant_food.jpg,60 g,Instant Food,15,0
+698c722e70c46913d2ee7ad9,1027,Wai Wai Veg Masala Noodles,assets/images/instant_food.jpg,75 g,Instant Food,15,0
+698c722e70c46913d2ee7ada,1028,Indomie Veg Noodles,assets/images/instant_food.jpg,70 g,Instant Food,18,0
+698c722e70c46913d2ee7adb,1029,Maggi Fusian Schezwan Noodles,assets/images/instant_food.jpg,77 g,Instant Food,20,0
+698c722e70c46913d2ee7adc,1030,Maggi Cuppa Masala Noodles,assets/images/instant_food.jpg,70 g,Instant Food,25,0
+698c722e70c46913d2ee7add,1031,Top Ramen Cup Noodles Veg,assets/images/instant_food.jpg,70 g,Instant Food,25,0
+698c722e70c46913d2ee7ade,1032,Yippee Power Up Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7adf,1033,Maggi Nutri-licious Noodles,assets/images/instant_food.jpg,70 g,Instant Food,15,0
+698c722e70c46913d2ee7ae0,1034,Ching's Singapore Curry Noodles,assets/images/instant_food.jpg,60 g,Instant Food,15,0
+698c722e70c46913d2ee7ae1,1035,Knorr Cup-a-Soup Noodles Veg,assets/images/instant_food.jpg,70 g,Instant Food,25,0
+698c722e70c46913d2ee7ae2,1036,Nissin Cup Noodles Veg,assets/images/instant_food.jpg,70 g,Instant Food,30,0
+698c722e70c46913d2ee7ae3,1037,McCain Veggie Nuggets,assets/images/instant_food.jpg,250 g,Instant Food,120,0
+698c722e70c46913d2ee7ae4,1038,McCain French Fries,assets/images/instant_food.jpg,420 g,Instant Food,145,0
+698c722e70c46913d2ee7ae5,1039,McCain Aloo Tikki,assets/images/instant_food.jpg,400 g,Instant Food,135,0
+698c722e70c46913d2ee7ae6,1040,McCain Smiles,assets/images/instant_food.jpg,450 g,Instant Food,155,0
+698c722e70c46913d2ee7ae7,1041,ITC Master Chef Veg Momos,assets/images/instant_food.jpg,200 g,Instant Food,120,0
+698c722e70c46913d2ee7ae8,1042,ITC Master Chef Veg Cutlet,assets/images/instant_food.jpg,200 g,Instant Food,110,0
+698c722e70c46913d2ee7ae9,1043,Safal Frozen Green Peas,assets/images/instant_food.jpg,500 g,Instant Food,95,0
+698c722e70c46913d2ee7aea,1044,Safal Frozen Sweet Corn,assets/images/instant_food.jpg,500 g,Instant Food,95,0
+698c722e70c46913d2ee7aeb,1045,Yummiez Veg Burger Patty,assets/images/instant_food.jpg,200 g,Instant Food,135,0
+698c722e70c46913d2ee7aec,1046,Yummiez Cheese Corn Nuggets,assets/images/instant_food.jpg,200 g,Instant Food,145,0
+698c722e70c46913d2ee7aed,1047,Prasuma Veg Momos,assets/images/instant_food.jpg,200 g,Instant Food,155,0
+698c722e70c46913d2ee7aee,1048,Godrej Yummiez Veg Fingers,assets/images/instant_food.jpg,250 g,Instant Food,165,0
+698c722e70c46913d2ee7aef,1049,Sumeru Veg Spring Rolls,assets/images/instant_food.jpg,200 g,Instant Food,150,0
+698c722e70c46913d2ee7af0,1050,Sumeru Paneer Pakoda,assets/images/instant_food.jpg,200 g,Instant Food,160,0
+698c722e70c46913d2ee7af1,1051,Al Kabeer Veg Seekh Kebab,assets/images/instant_food.jpg,200 g,Instant Food,175,0
+698c722e70c46913d2ee7af2,1052,McCain Chilli Garlic Potato Bites,assets/images/instant_food.jpg,250 g,Instant Food,155,0
+698c722e70c46913d2ee7af3,1053,ITC Master Chef Paneer Tikka,assets/images/instant_food.jpg,200 g,Instant Food,185,0
+698c722e70c46913d2ee7af4,1054,Safal Frozen Mix Veg,assets/images/instant_food.jpg,500 g,Instant Food,110,0
+698c722e70c46913d2ee7af5,1055,Prasuma Veggie Bites,assets/images/instant_food.jpg,200 g,Instant Food,145,0
+698c722e70c46913d2ee7af6,1056,Yummiez Veg Cheese Shots,assets/images/instant_food.jpg,200 g,Instant Food,155,0
+698c722e70c46913d2ee7af7,1057,Knorr Sweet Corn Veg Soup,assets/images/instant_food.jpg,43 g,Instant Food,55,0
+698c722e70c46913d2ee7af8,1058,Knorr Hot & Sour Veg Soup,assets/images/instant_food.jpg,43 g,Instant Food,55,0
+698c722e70c46913d2ee7af9,1059,Knorr Tomato Soup,assets/images/instant_food.jpg,43 g,Instant Food,50,0
+698c722e70c46913d2ee7afa,1060,Maggi Tomato Soup,assets/images/instant_food.jpg,55 g,Instant Food,60,0
+698c722e70c46913d2ee7afb,1061,Ching's Veg Manchow Soup,assets/images/instant_food.jpg,55 g,Instant Food,55,0
+698c722e70c46913d2ee7afc,1062,Ching's Hot & Sour Soup,assets/images/instant_food.jpg,55 g,Instant Food,55,0
+698c722e70c46913d2ee7afd,1063,Del Monte Penne Pasta,assets/images/instant_food.jpg,500 g,Instant Food,125,0
+698c722e70c46913d2ee7afe,1064,Del Monte Fusilli Pasta,assets/images/instant_food.jpg,500 g,Instant Food,125,0
+698c722e70c46913d2ee7aff,1065,Maggi Pazzta Cheese Macaroni,assets/images/instant_food.jpg,65 g,Instant Food,25,0
+698c722e70c46913d2ee7b00,1066,Maggi Pazzta Masala Penne,assets/images/instant_food.jpg,65 g,Instant Food,25,0
+698c722e70c46913d2ee7b01,1067,Ching's Veg Hakka Pasta,assets/images/instant_food.jpg,150 g,Instant Food,55,0
+698c722e70c46913d2ee7b02,1068,Barilla Spaghetti Pasta,assets/images/instant_food.jpg,500 g,Instant Food,185,0
+698c722e70c46913d2ee7b03,1069,Barilla Penne Pasta,assets/images/instant_food.jpg,500 g,Instant Food,185,0
+698c722e70c46913d2ee7b04,1070,Knorr Pasta White Sauce Mix,assets/images/instant_food.jpg,40 g,Instant Food,55,0
+698c722e70c46913d2ee7b05,1071,Knorr Pasta Red Sauce Mix,assets/images/instant_food.jpg,40 g,Instant Food,55,0
+698c722e70c46913d2ee7b06,1072,Veeba Pasta Sauce Arrabbiata,assets/images/instant_food.jpg,250 g,Instant Food,165,0
+698c722e70c46913d2ee7b07,1073,Veeba Cheese Pasta Sauce,assets/images/instant_food.jpg,250 g,Instant Food,175,0
+698c722e70c46913d2ee7b08,1074,Disano Macaroni Pasta,assets/images/instant_food.jpg,500 g,Instant Food,155,0
+698c722e70c46913d2ee7b09,1075,Disano Spaghetti Pasta,assets/images/instant_food.jpg,500 g,Instant Food,155,0
+698c722e70c46913d2ee7b0a,1076,Borges Fusilli Pasta,assets/images/instant_food.jpg,500 g,Instant Food,195,0
+698c722e70c46913d2ee7b0b,1077,ID Fresh Idli Batter,assets/images/instant_food.jpg,1 kg,Instant Food,90,0
+698c722e70c46913d2ee7b0c,1078,ID Fresh Dosa Batter,assets/images/instant_food.jpg,1 kg,Instant Food,95,0
+698c722e70c46913d2ee7b0d,1079,MTR Ready to Eat Idli,assets/images/instant_food.jpg,200 g,Instant Food,60,0
+698c722e70c46913d2ee7b0e,1080,MTR Ready to Eat Dosa,assets/images/instant_food.jpg,200 g,Instant Food,65,0
+698c722e70c46913d2ee7b0f,1081,MTR Ready to Eat Paneer Butter Masala,assets/images/instant_food.jpg,300 g,Instant Food,145,0
+698c722e70c46913d2ee7b10,1082,Haldiram's Ready to Eat Rajma Chawal,assets/images/instant_food.jpg,300 g,Instant Food,135,0
+698c722e70c46913d2ee7b11,1083,Haldiram's Ready to Eat Chole Chawal,assets/images/instant_food.jpg,300 g,Instant Food,135,0
+698c722e70c46913d2ee7b12,1084,ITC Kitchens Dal Makhani,assets/images/instant_food.jpg,300 g,Instant Food,155,0
+698c722e70c46913d2ee7b13,1085,ITC Kitchens Paneer Tikka Masala,assets/images/instant_food.jpg,300 g,Instant Food,165,0
+698c722e70c46913d2ee7b14,1086,Ashirvaad Ready Meal Veg Pulao,assets/images/instant_food.jpg,300 g,Instant Food,145,0
+698c722e70c46913d2ee7b15,1087,Gits Gulab Jamun Mix,assets/images/instant_food.jpg,200 g,Instant Food,95,0
+698c722e70c46913d2ee7b16,1088,Gits Rasgulla Mix,assets/images/instant_food.jpg,200 g,Instant Food,95,0
+698c722e70c46913d2ee7b17,1089,Weikfield Chocolate Cake Mix,assets/images/instant_food.jpg,200 g,Instant Food,110,0
+698c722e70c46913d2ee7b18,1090,Weikfield Vanilla Cake Mix,assets/images/instant_food.jpg,200 g,Instant Food,105,0
+698c722e70c46913d2ee7b19,1091,Betty Crocker Chocolate Cake Mix,assets/images/instant_food.jpg,400 g,Instant Food,195,0
+698c722e70c46913d2ee7b1a,1092,Betty Crocker Vanilla Cake Mix,assets/images/instant_food.jpg,400 g,Instant Food,185,0
+698c722e70c46913d2ee7b1b,1093,Pillsbury Chocolate Cake Mix,assets/images/instant_food.jpg,300 g,Instant Food,145,0
+698c722e70c46913d2ee7b1c,1094,Pillsbury Vanilla Cake Mix,assets/images/instant_food.jpg,300 g,Instant Food,135,0
+698c722e70c46913d2ee7b1d,1095,Britannia Little Hearts Cake,assets/images/instant_food.jpg,60 g,Instant Food,20,0
+698c722e70c46913d2ee7b1e,1096,Britannia Brownie Fudge Cake,assets/images/instant_food.jpg,55 g,Instant Food,25,0
+698c722e70c46913d2ee7b1f,1097,Pristine Ready to Eat Poha,assets/images/instant_food.jpg,200 g,Instant Food,55,0
+698c722e70c46913d2ee7b20,1098,MTR Ready to Eat Upma,assets/images/instant_food.jpg,200 g,Instant Food,55,0
+698c722e70c46913d2ee7b21,1099,Haldiram's Ready Poha,assets/images/instant_food.jpg,200 g,Instant Food,60,0
+698c722e70c46913d2ee7b22,1100,iD Fresh Vada Batter,assets/images/instant_food.jpg,1 kg,Instant Food,105,0
+698c722e70c46913d2ee7b23,1101,iD Fresh Rava Idli Batter,assets/images/instant_food.jpg,1 kg,Instant Food,110,0
+698c722e70c46913d2ee7b24,1102,Gits Dhokla Mix,assets/images/instant_food.jpg,200 g,Instant Food,85,0
+698c722e70c46913d2ee7b25,1103,Gits Khaman Mix,assets/images/instant_food.jpg,200 g,Instant Food,85,0
+698c722e70c46913d2ee7b26,1104,MTR Gulab Jamun Ready Mix,assets/images/instant_food.jpg,200 g,Instant Food,90,0
+698c722e70c46913d2ee7b27,1105,MTR Rava Idli Mix,assets/images/instant_food.jpg,200 g,Instant Food,80,0
+698c722e70c46913d2ee7b28,1106,Haldiram's Dessert Rasmalai,assets/images/instant_food.jpg,1 kg,Instant Food,245,0
+698c722e70c46913d2ee7b29,1107,Haldiram's Dessert Gulab Jamun,assets/images/instant_food.jpg,1 kg,Instant Food,235,0
+698c722e70c46913d2ee7b2a,1108,Frozen Planet Veg Pizza,assets/images/instant_food.jpg,300 g,Instant Food,175,0
+698c722e70c46913d2ee7b2b,1109,McCain Veggie Pizza Pocket,assets/images/instant_food.jpg,250 g,Instant Food,165,0
+698c722e70c46913d2ee7b2c,1110,Godrej Yummiez Veg Pizza Fingers,assets/images/instant_food.jpg,200 g,Instant Food,155,0
+698c722e70c46913d2ee7b2d,1111,Sumeru Ready Meal Veg Biryani,assets/images/instant_food.jpg,300 g,Instant Food,165,0
+698c722e70c46913d2ee7b2e,1112,Prasuma Ready to Eat Veg Fried Rice,assets/images/instant_food.jpg,300 g,Instant Food,155,0
+698c722e70c46913d2ee7b2f,1113,ITC Kitchens Veg Khichdi,assets/images/instant_food.jpg,300 g,Instant Food,145,0
+698c722e70c46913d2ee7b30,1114,Kissan Fresh Tomato Ketchup,assets/images/sauces.jpg,500 g,Sauces,120,0
+698c722e70c46913d2ee7b31,1115,Maggi Rich Tomato Ketchup,assets/images/sauces.jpg,500 g,Sauces,115,0
+698c722e70c46913d2ee7b32,1116,Heinz Tomato Ketchup,assets/images/sauces.jpg,570 g,Sauces,135,0
+698c722e70c46913d2ee7b33,1117,Del Monte Tomato Ketchup,assets/images/sauces.jpg,500 g,Sauces,130,0
+698c722e70c46913d2ee7b34,1118,Veeba Tomato Ketchup,assets/images/sauces.jpg,500 g,Sauces,140,0
+698c722e70c46913d2ee7b35,1119,Ching's Red Chilli Sauce,assets/images/sauces.jpg,200 g,Sauces,95,0
+698c722e70c46913d2ee7b36,1120,Ching's Green Chilli Sauce,assets/images/sauces.jpg,200 g,Sauces,95,0
+698c722e70c46913d2ee7b37,1121,Ching's Schezwan Sauce,assets/images/sauces.jpg,200 g,Sauces,105,0
+698c722e70c46913d2ee7b38,1122,Ching's Dark Soy Sauce,assets/images/sauces.jpg,200 ml,Sauces,95,0
+698c722e70c46913d2ee7b39,1123,Ching's Hakka Noodle Sauce,assets/images/sauces.jpg,200 g,Sauces,105,0
+698c722e70c46913d2ee7b3a,1124,Knorr Hot & Sweet Sauce,assets/images/sauces.jpg,500 g,Sauces,135,0
+698c722e70c46913d2ee7b3b,1125,Knorr Soya Sauce,assets/images/sauces.jpg,200 ml,Sauces,85,0
+698c722e70c46913d2ee7b3c,1126,Keya Piri Piri Sauce,assets/images/sauces.jpg,200 g,Sauces,165,0
+698c722e70c46913d2ee7b3d,1127,Veeba Sriracha Sauce,assets/images/sauces.jpg,200 g,Sauces,175,0
+698c722e70c46913d2ee7b3e,1128,Veeba Sweet Chilli Sauce,assets/images/sauces.jpg,300 g,Sauces,165,0
+698c722e70c46913d2ee7b3f,1129,Kissan Mixed Fruit Jam,assets/images/sauces.jpg,500 g,Sauces,135,0
+698c722e70c46913d2ee7b40,1130,Kissan Strawberry Jam,assets/images/sauces.jpg,500 g,Sauces,135,0
+698c722e70c46913d2ee7b41,1131,Mapro Strawberry Jam,assets/images/sauces.jpg,500 g,Sauces,165,0
+698c722e70c46913d2ee7b42,1132,Mapro Orange Jam,assets/images/sauces.jpg,500 g,Sauces,160,0
+698c722e70c46913d2ee7b43,1133,Smucker's Strawberry Jam,assets/images/sauces.jpg,340 g,Sauces,245,0
+698c722e70c46913d2ee7b44,1134,Bonne Maman Blueberry Jam,assets/images/sauces.jpg,370 g,Sauces,495,0
+698c722e70c46913d2ee7b45,1135,St Dalfour Mixed Fruit Spread,assets/images/sauces.jpg,284 g,Sauces,395,0
+698c722e70c46913d2ee7b46,1136,Stute No Sugar Added Jam,assets/images/sauces.jpg,430 g,Sauces,275,0
+698c722e70c46913d2ee7b47,1137,Veeba Fruit Spread Mixed Berry,assets/images/sauces.jpg,350 g,Sauces,195,0
+698c722e70c46913d2ee7b48,1138,Sundrop Fruit Spread Strawberry,assets/images/sauces.jpg,350 g,Sauces,185,0
+698c722e70c46913d2ee7b49,1139,FunFoods Veg Mayonnaise,assets/images/sauces.jpg,500 g,Sauces,165,0
+698c722e70c46913d2ee7b4a,1140,FunFoods Mint Mayo,assets/images/sauces.jpg,245 g,Sauces,125,0
+698c722e70c46913d2ee7b4b,1141,Dr Oetker FunFoods Tandoori Mayo,assets/images/sauces.jpg,245 g,Sauces,135,0
+698c722e70c46913d2ee7b4c,1142,Veeba Eggless Mayonnaise,assets/images/sauces.jpg,300 g,Sauces,155,0
+698c722e70c46913d2ee7b4d,1143,Veeba Garlic Mayonnaise,assets/images/sauces.jpg,300 g,Sauces,165,0
+698c722e70c46913d2ee7b4e,1144,Del Monte Eggless Mayo,assets/images/sauces.jpg,275 g,Sauces,145,0
+698c722e70c46913d2ee7b4f,1145,Hellmann's Real Mayonnaise,assets/images/sauces.jpg,400 g,Sauces,225,0
+698c722e70c46913d2ee7b50,1146,Hellmann's Garlic Mayo,assets/images/sauces.jpg,400 g,Sauces,235,0
+698c722e70c46913d2ee7b51,1147,Wingreens Cheese Jalapeno Spread,assets/images/sauces.jpg,300 g,Sauces,185,0
+698c722e70c46913d2ee7b52,1148,Wingreens Chipotle Mayo,assets/images/sauces.jpg,300 g,Sauces,195,0
+698c722e70c46913d2ee7b53,1149,Mother's Recipe Mango Pickle,assets/images/sauces.jpg,500 g,Sauces,185,0
+698c722e70c46913d2ee7b54,1150,Mother's Recipe Mixed Pickle,assets/images/sauces.jpg,500 g,Sauces,185,0
+698c722e70c46913d2ee7b55,1151,Priya Mango Pickle,assets/images/sauces.jpg,300 g,Sauces,145,0
+698c722e70c46913d2ee7b56,1152,Priya Lemon Pickle,assets/images/sauces.jpg,300 g,Sauces,145,0
+698c722e70c46913d2ee7b57,1153,Patanjali Mango Pickle,assets/images/sauces.jpg,400 g,Sauces,125,0
+698c722e70c46913d2ee7b58,1154,Patanjali Amla Pickle,assets/images/sauces.jpg,400 g,Sauces,135,0
+698c722e70c46913d2ee7b59,1155,Ching's Schezwan Chutney,assets/images/sauces.jpg,250 g,Sauces,145,0
+698c722e70c46913d2ee7b5a,1156,Wingreens Mint Chutney,assets/images/sauces.jpg,300 g,Sauces,165,0
+698c722e70c46913d2ee7b5b,1157,Wingreens Coriander Chutney,assets/images/sauces.jpg,300 g,Sauces,165,0
+698c722e70c46913d2ee7b5c,1158,Dabur Hommade Imli Chutney,assets/images/sauces.jpg,500 g,Sauces,155,0
+698c722e70c46913d2ee7b5d,1159,Urban Platter Tamarind Chutney,assets/images/sauces.jpg,250 g,Sauces,195,0
+698c722e70c46913d2ee7b5e,1160,Urban Platter Mint Chutney,assets/images/sauces.jpg,250 g,Sauces,195,0
+698c722e70c46913d2ee7b5f,1161,Keya Mint Chutney,assets/images/sauces.jpg,200 g,Sauces,165,0
+698c722e70c46913d2ee7b60,1162,Keya Tomato Chutney,assets/images/sauces.jpg,200 g,Sauces,165,0
+698c722e70c46913d2ee7b61,1163,Smith & Jones Green Chutney,assets/images/sauces.jpg,200 g,Sauces,125,0
+698c722e70c46913d2ee7b62,1164,Sundrop Peanut Butter Crunchy,assets/images/sauces.jpg,925 g,Sauces,255,0
+698c722e70c46913d2ee7b63,1165,Pintola Peanut Butter Creamy,assets/images/sauces.jpg,750 g,Sauces,399,0
+698c722e70c46913d2ee7b64,1166,Pintola High Protein Peanut Butter,assets/images/sauces.jpg,750 g,Sauces,425,0
+698c722e70c46913d2ee7b65,1167,MYFITNESS Chocolate Peanut Butter,assets/images/sauces.jpg,510 g,Sauces,349,0
+698c722e70c46913d2ee7b66,1168,Alpino Peanut Butter Crunchy,assets/images/sauces.jpg,400 g,Sauces,325,0
+698c722e70c46913d2ee7b67,1169,Yoga Bar Peanut Butter,assets/images/sauces.jpg,340 g,Sauces,295,0
+698c722e70c46913d2ee7b68,1170,Bagrry's Almond Butter,assets/images/sauces.jpg,300 g,Sauces,645,0
+698c722e70c46913d2ee7b69,1171,DiSano Hazelnut Spread,assets/images/sauces.jpg,350 g,Sauces,265,0
+698c722e70c46913d2ee7b6a,1172,Ferrero Nutella,assets/images/sauces.jpg,350 g,Sauces,395,0
+698c722e70c46913d2ee7b6b,1173,Urban Platter Cashew Butter,assets/images/sauces.jpg,250 g,Sauces,595,0
+698c722e70c46913d2ee7b6c,1174,Dabur Honey,assets/images/sauces.jpg,500 g,Sauces,225,0
+698c722e70c46913d2ee7b6d,1175,Patanjali Honey,assets/images/sauces.jpg,500 g,Sauces,210,0
+698c722e70c46913d2ee7b6e,1176,Saffola Honey,assets/images/sauces.jpg,500 g,Sauces,245,0
+698c722e70c46913d2ee7b6f,1177,Nature's Nectar Raw Honey,assets/images/sauces.jpg,350 g,Sauces,395,0
+698c722e70c46913d2ee7b70,1178,Dabur Chyawanprash,assets/images/sauces.jpg,500 g,Sauces,225,0
+698c722e70c46913d2ee7b71,1179,Baidyanath Chyawanprash,assets/images/sauces.jpg,500 g,Sauces,215,0
+698c722e70c46913d2ee7b72,1180,Zandu Chyawanprash,assets/images/sauces.jpg,500 g,Sauces,210,0
+698c722e70c46913d2ee7b73,1181,Mapro Chocolate Syrup,assets/images/sauces.jpg,700 g,Sauces,195,0
+698c722e70c46913d2ee7b74,1182,Hershey's Chocolate Syrup,assets/images/sauces.jpg,623 g,Sauces,245,0
+698c722e70c46913d2ee7b75,1183,Hershey's Strawberry Syrup,assets/images/sauces.jpg,623 g,Sauces,245,0
+698c722e70c46913d2ee7b76,1184,Mapro Strawberry Syrup,assets/images/sauces.jpg,700 g,Sauces,195,0
+698c722e70c46913d2ee7b77,1185,Monin Vanilla Syrup,assets/images/sauces.jpg,750 ml,Sauces,695,0
+698c722e70c46913d2ee7b78,1186,Monin Caramel Syrup,assets/images/sauces.jpg,750 ml,Sauces,695,0
+698c722e70c46913d2ee7b79,1187,Urban Platter Maple Syrup,assets/images/sauces.jpg,250 ml,Sauces,695,0
+698c722e70c46913d2ee7b7a,1188,Veeba Pancake Syrup,assets/images/sauces.jpg,325 g,Sauces,195,0
+698c722e70c46913d2ee7b7b,1189,Veeba Thousand Island Dressing,assets/images/sauces.jpg,300 g,Sauces,165,0
+698c722e70c46913d2ee7b7c,1190,Veeba Caesar Salad Dressing,assets/images/sauces.jpg,300 g,Sauces,175,0
+698c722e70c46913d2ee7b7d,1191,Del Monte Caesar Dressing,assets/images/sauces.jpg,250 g,Sauces,165,0
+698c722e70c46913d2ee7b7e,1192,Wingreens Chipotle Dip,assets/images/sauces.jpg,300 g,Sauces,195,0
+698c722e70c46913d2ee7b7f,1193,Wingreens Peri Peri Dip,assets/images/sauces.jpg,300 g,Sauces,195,0
+698c722e70c46913d2ee7b80,1194,Keya Pesto Sauce,assets/images/sauces.jpg,190 g,Sauces,295,0
+698c722e70c46913d2ee7b81,1195,Barilla Basilico Pasta Sauce,assets/images/sauces.jpg,400 g,Sauces,295,0
+698c722e70c46913d2ee7b82,1196,Barilla Arrabbiata Sauce,assets/images/sauces.jpg,400 g,Sauces,295,0
+698c722e70c46913d2ee7b83,1197,Del Monte Pasta Sauce Italian,assets/images/sauces.jpg,400 g,Sauces,195,0
+698c722e70c46913d2ee7b84,1198,Veeba Pizza Pasta Sauce,assets/images/sauces.jpg,300 g,Sauces,165,0
+698c722e70c46913d2ee7b85,1199,Ching's Manchurian Cooking Sauce,assets/images/sauces.jpg,200 g,Sauces,105,0
+698c722e70c46913d2ee7b86,1200,Ching's Stir Fry Sauce,assets/images/sauces.jpg,200 g,Sauces,105,0
+698c722e70c46913d2ee7b87,1201,Urban Platter Teriyaki Sauce,assets/images/sauces.jpg,250 g,Sauces,295,0
+698c722e70c46913d2ee7b88,1202,Urban Platter Hoisin Sauce,assets/images/sauces.jpg,250 g,Sauces,295,0
+698c722e70c46913d2ee7b89,1203,Lee Kum Kee Soy Sauce Premium,assets/images/sauces.jpg,250 ml,Sauces,265,0
+698c722e70c46913d2ee7b8a,1204,California Almonds,assets/images/dryfood.jpg,200 g,Dryfruit & Cereals,180,0
+698c722e70c46913d2ee7b8b,1205,Kismis Raisins,assets/images/dryfood.jpg,200 g,Dryfruit & Cereals,95,0
+698c722e70c46913d2ee7b8c,1206,W240 Cashew Nuts,assets/images/dryfood.jpg,200 g,Dryfruit & Cereals,260,0
+698c722e70c46913d2ee7b8d,1207,Pistachios Roasted & Salted,assets/images/dryfood.jpg,200 g,Dryfruit & Cereals,320,0
+698c722e70c46913d2ee7b8e,1208,Walnuts Kernels,assets/images/dryfood.jpg,200 g,Dryfruit & Cereals,290,0
+698c722e70c46913d2ee7b8f,1209,Yoga Bar Dry Fruit Snack Mix,assets/images/dryfood.jpg,150 g,Dryfruit & Cereals,180,0
+698c722e70c46913d2ee7b90,1210,RiteBite Max Protein Nut Snack,assets/images/dryfood.jpg,150 g,Dryfruit & Cereals,165,0
+698c722e70c46913d2ee7b91,1211,True Elements Roasted Seeds Mix,assets/images/dryfood.jpg,150 g,Dryfruit & Cereals,175,0
+698c722e70c46913d2ee7b92,1212,Kellogg's Cornflakes Original,assets/images/dryfood.jpg,475 g,Dryfruit & Cereals,210,0
+698c722e70c46913d2ee7b93,1213,Kellogg's Cornflakes Chocos,assets/images/dryfood.jpg,375 g,Dryfruit & Cereals,195,0
+698c722e70c46913d2ee7b94,1214,Bagrry's Crunchy Muesli Fruits & Nuts,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,285,0
+698c722e70c46913d2ee7b95,1215,Yoga Bar Wholegrain Muesli,assets/images/dryfood.jpg,400 g,Dryfruit & Cereals,295,0
+698c722e70c46913d2ee7b96,1216,True Elements Fruit & Nut Granola,assets/images/dryfood.jpg,400 g,Dryfruit & Cereals,310,0
+698c722e70c46913d2ee7b97,1217,Yoga Bar Dark Chocolate Granola,assets/images/dryfood.jpg,400 g,Dryfruit & Cereals,325,0
+698c722e70c46913d2ee7b98,1218,Quaker Oats,assets/images/dryfood.jpg,1 kg,Dryfruit & Cereals,190,0
+698c722e70c46913d2ee7b99,1219,Saffola Masala Oats,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,210,0
+698c722e70c46913d2ee7b9a,1220,Organic India Daliya,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,145,0
+698c722e70c46913d2ee7b9b,1221,Fortune Broken Wheat Daliya,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,120,0
+698c722e70c46913d2ee7b9c,1222,Bambino Vermicelli,assets/images/dryfood.jpg,450 g,Dryfruit & Cereals,95,0
+698c722e70c46913d2ee7b9d,1223,MTR Vermicelli,assets/images/dryfood.jpg,400 g,Dryfruit & Cereals,90,0
+698c722e70c46913d2ee7b9e,1224,Tata Sampann Thick Poha,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,75,0
+698c722e70c46913d2ee7b9f,1225,24 Mantra Organic Thin Poha,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,95,0
+698c722e70c46913d2ee7ba0,1226,Organic Tattva Organic Rolled Oats,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,165,0
+698c722e70c46913d2ee7ba1,1227,24 Mantra Organic Ragi Flakes,assets/images/dryfood.jpg,300 g,Dryfruit & Cereals,155,0
+698c722e70c46913d2ee7ba2,1228,Organic India Chia Seeds,assets/images/dryfood.jpg,200 g,Dryfruit & Cereals,245,0
+698c722e70c46913d2ee7ba3,1229,True Elements Flax Seeds,assets/images/dryfood.jpg,250 g,Dryfruit & Cereals,125,0
+698c722e70c46913d2ee7ba4,1230,Urban Platter Steel Cut Oats,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,285,0
+698c722e70c46913d2ee7ba5,1231,Natureland Organics Multigrain Daliya,assets/images/dryfood.jpg,500 g,Dryfruit & Cereals,175,0
+698c722e70c46913d2ee7ba6,1232,Cadbury Dairy Milk Chocolate,assets/images/sweets.jpg,24 g,Sweets & Chocolates,20,0
+698c722e70c46913d2ee7ba7,1233,Cadbury Dairy Milk Silk,assets/images/sweets.jpg,60 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7ba8,1234,Cadbury Dairy Milk Fruit & Nut,assets/images/sweets.jpg,55 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7ba9,1235,Cadbury Dairy Milk Roast Almond,assets/images/sweets.jpg,55 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7baa,1236,Cadbury Dairy Milk Crackle,assets/images/sweets.jpg,55 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7bab,1237,Cadbury 5 Star,assets/images/sweets.jpg,40 g,Sweets & Chocolates,25,0
+698c722e70c46913d2ee7bac,1238,Cadbury Perk,assets/images/sweets.jpg,24 g,Sweets & Chocolates,10,0
+698c722e70c46913d2ee7bad,1239,Cadbury Munch,assets/images/sweets.jpg,32 g,Sweets & Chocolates,20,0
+698c722e70c46913d2ee7bae,1240,Cadbury Lickables,assets/images/sweets.jpg,20 g,Sweets & Chocolates,40,0
+698c722e70c46913d2ee7baf,1241,Cadbury Gems,assets/images/sweets.jpg,28 g,Sweets & Chocolates,20,0
+698c722e70c46913d2ee7bb0,1242,Nestle KitKat,assets/images/sweets.jpg,41 g,Sweets & Chocolates,25,0
+698c722e70c46913d2ee7bb1,1243,Nestle KitKat Chunky,assets/images/sweets.jpg,38 g,Sweets & Chocolates,30,0
+698c722e70c46913d2ee7bb2,1244,Nestle Munch,assets/images/sweets.jpg,32 g,Sweets & Chocolates,20,0
+698c722e70c46913d2ee7bb3,1245,Nestle Milkybar,assets/images/sweets.jpg,22 g,Sweets & Chocolates,20,0
+698c722e70c46913d2ee7bb4,1246,Nestle Milkybar Moosha,assets/images/sweets.jpg,18 g,Sweets & Chocolates,10,0
+698c722e70c46913d2ee7bb5,1247,Nestle Milkybar Eclairs,assets/images/sweets.jpg,57 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bb6,1248,Ferrero Rocher Chocolate Pack,assets/images/sweets.jpg,200 g,Sweets & Chocolates,525,0
+698c722e70c46913d2ee7bb7,1249,Ferrero Rocher Moments,assets/images/sweets.jpg,92 g,Sweets & Chocolates,235,0
+698c722e70c46913d2ee7bb8,1250,Lindt Lindor Milk Chocolate,assets/images/sweets.jpg,100 g,Sweets & Chocolates,595,0
+698c722e70c46913d2ee7bb9,1251,Lindt Excellence Dark Chocolate,assets/images/sweets.jpg,100 g,Sweets & Chocolates,625,0
+698c722e70c46913d2ee7bba,1252,Hershey's Milk Chocolate,assets/images/sweets.jpg,40 g,Sweets & Chocolates,50,0
+698c722e70c46913d2ee7bbb,1253,Hershey's Cookies 'n' Creme,assets/images/sweets.jpg,40 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7bbc,1254,Mars Chocolate Bar,assets/images/sweets.jpg,51 g,Sweets & Chocolates,50,0
+698c722e70c46913d2ee7bbd,1255,Snickers Chocolate Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bbe,1256,Bounty Coconut Chocolate,assets/images/sweets.jpg,57 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7bbf,1257,Galaxy Smooth Milk Chocolate,assets/images/sweets.jpg,56 g,Sweets & Chocolates,60,0
+698c722e70c46913d2ee7bc0,1258,Galaxy Fruit & Nut,assets/images/sweets.jpg,56 g,Sweets & Chocolates,65,0
+698c722e70c46913d2ee7bc1,1259,Toblerone Milk Chocolate,assets/images/sweets.jpg,100 g,Sweets & Chocolates,395,0
+698c722e70c46913d2ee7bc2,1260,Amul Milk Chocolate,assets/images/sweets.jpg,150 g,Sweets & Chocolates,150,0
+698c722e70c46913d2ee7bc3,1261,Amul Dark Chocolate,assets/images/sweets.jpg,150 g,Sweets & Chocolates,165,0
+698c722e70c46913d2ee7bc4,1262,Cadbury Celebrations Gift Pack,assets/images/sweets.jpg,118 g,Sweets & Chocolates,150,0
+698c722e70c46913d2ee7bc5,1263,Cadbury Celebrations Rich Dry Fruit,assets/images/sweets.jpg,127 g,Sweets & Chocolates,175,0
+698c722e70c46913d2ee7bc6,1264,Nestle Classic Chocolate Pack,assets/images/sweets.jpg,100 g,Sweets & Chocolates,145,0
+698c722e70c46913d2ee7bc7,1265,Kinder Joy Chocolate,assets/images/sweets.jpg,20 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bc8,1266,Kinder Bueno,assets/images/sweets.jpg,43 g,Sweets & Chocolates,80,0
+698c722e70c46913d2ee7bc9,1267,Bournville Rich Cocoa,assets/images/sweets.jpg,80 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7bca,1268,Bournville Dark Chocolate Cranberry,assets/images/sweets.jpg,80 g,Sweets & Chocolates,110,0
+698c722e70c46913d2ee7bcb,1269,Cadbury Fuse Chocolate,assets/images/sweets.jpg,25 g,Sweets & Chocolates,20,0
+698c722e70c46913d2ee7bcc,1270,Cadbury Dairy Milk Oreo,assets/images/sweets.jpg,50 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7bcd,1271,Cadbury Dairy Milk Lickables Oreo,assets/images/sweets.jpg,20 g,Sweets & Chocolates,40,0
+698c722e70c46913d2ee7bce,1272,Haldiram's Gulab Jamun,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,235,0
+698c722e70c46913d2ee7bcf,1273,Haldiram's Rasgulla,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,245,0
+698c722e70c46913d2ee7bd0,1274,Haldiram's Rasmalai,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,265,0
+698c722e70c46913d2ee7bd1,1275,Haldiram's Kaju Katli,assets/images/sweets.jpg,500 g,Sweets & Chocolates,425,0
+698c722e70c46913d2ee7bd2,1276,Haldiram's Soan Papdi,assets/images/sweets.jpg,500 g,Sweets & Chocolates,185,0
+698c722e70c46913d2ee7bd3,1277,Haldiram's Motichoor Ladoo,assets/images/sweets.jpg,500 g,Sweets & Chocolates,215,0
+698c722e70c46913d2ee7bd4,1278,Bikaji Soan Papdi,assets/images/sweets.jpg,500 g,Sweets & Chocolates,175,0
+698c722e70c46913d2ee7bd5,1279,Bikaji Rasgulla,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,235,0
+698c722e70c46913d2ee7bd6,1280,Bikaji Gulab Jamun,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,225,0
+698c722e70c46913d2ee7bd7,1281,MTR Gulab Jamun,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,235,0
+698c722e70c46913d2ee7bd8,1282,MTR Rasgulla,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,245,0
+698c722e70c46913d2ee7bd9,1283,Haldiram's Rajbhog,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,285,0
+698c722e70c46913d2ee7bda,1284,Haldiram's Cham Cham,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,265,0
+698c722e70c46913d2ee7bdb,1285,Bikano Rasgulla,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,245,0
+698c722e70c46913d2ee7bdc,1286,Bikano Gulab Jamun,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,235,0
+698c722e70c46913d2ee7bdd,1287,Haldiram's Milk Cake,assets/images/sweets.jpg,400 g,Sweets & Chocolates,285,0
+698c722e70c46913d2ee7bde,1288,Haldiram's Peda,assets/images/sweets.jpg,400 g,Sweets & Chocolates,295,0
+698c722e70c46913d2ee7bdf,1289,Bikanervala Kaju Katli,assets/images/sweets.jpg,500 g,Sweets & Chocolates,475,0
+698c722e70c46913d2ee7be0,1290,Bikanervala Rasgulla,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,265,0
+698c722e70c46913d2ee7be1,1291,Bikanervala Gulab Jamun,assets/images/sweets.jpg,1 kg,Sweets & Chocolates,255,0
+698c722e70c46913d2ee7be2,1292,Govindam Ghewar,assets/images/sweets.jpg,400 g,Sweets & Chocolates,395,0
+698c722e70c46913d2ee7be3,1293,Chitale Bandhu Bakarwadi Sweet,assets/images/sweets.jpg,250 g,Sweets & Chocolates,215,0
+698c722e70c46913d2ee7be4,1294,Chitale Bandhu Pedha,assets/images/sweets.jpg,250 g,Sweets & Chocolates,265,0
+698c722e70c46913d2ee7be5,1295,Karachi Halwa,assets/images/sweets.jpg,400 g,Sweets & Chocolates,225,0
+698c722e70c46913d2ee7be6,1296,Mysore Pak,assets/images/sweets.jpg,400 g,Sweets & Chocolates,235,0
+698c722e70c46913d2ee7be7,1297,Kalakand,assets/images/sweets.jpg,400 g,Sweets & Chocolates,245,0
+698c722e70c46913d2ee7be8,1298,Malai Barfi,assets/images/sweets.jpg,400 g,Sweets & Chocolates,255,0
+698c722e70c46913d2ee7be9,1299,Alpenliebe Gold Candy,assets/images/sweets.jpg,100 g,Sweets & Chocolates,50,0
+698c722e70c46913d2ee7bea,1300,Alpenliebe Juzt Jelly,assets/images/sweets.jpg,80 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7beb,1301,Alpenliebe Creamfills,assets/images/sweets.jpg,100 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7bec,1302,Eclairs Toffee,assets/images/sweets.jpg,150 g,Sweets & Chocolates,60,0
+698c722e70c46913d2ee7bed,1303,Melody Chocolate Toffee,assets/images/sweets.jpg,150 g,Sweets & Chocolates,65,0
+698c722e70c46913d2ee7bee,1304,Kopiko Coffee Candy,assets/images/sweets.jpg,120 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7bef,1305,Pulse Candy,assets/images/sweets.jpg,190 g,Sweets & Chocolates,70,0
+698c722e70c46913d2ee7bf0,1306,Pulse Kachcha Aam Candy,assets/images/sweets.jpg,190 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7bf1,1307,Mentos Mint Candy,assets/images/sweets.jpg,100 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bf2,1308,Mentos Rainbow Candy,assets/images/sweets.jpg,100 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bf3,1309,Chupa Chups Lollipop,assets/images/sweets.jpg,120 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7bf4,1310,Chupa Chups Sour Belt,assets/images/sweets.jpg,100 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7bf5,1311,Skittles Fruit Candy,assets/images/sweets.jpg,45 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bf6,1312,Skittles Sour Candy,assets/images/sweets.jpg,45 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bf7,1313,Jelly Belly Beans,assets/images/sweets.jpg,70 g,Sweets & Chocolates,195,0
+698c722e70c46913d2ee7bf8,1314,Center Fresh Gum,assets/images/sweets.jpg,120 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7bf9,1315,Center Fruit Gum,assets/images/sweets.jpg,120 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7bfa,1316,Big Babol Bubble Gum,assets/images/sweets.jpg,120 g,Sweets & Chocolates,50,0
+698c722e70c46913d2ee7bfb,1317,Boomer Strawberry Gum,assets/images/sweets.jpg,120 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7bfc,1318,Orbit Sugar Free Gum,assets/images/sweets.jpg,58 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7bfd,1319,Wrigley's Doublemint Gum,assets/images/sweets.jpg,58 g,Sweets & Chocolates,70,0
+698c722e70c46913d2ee7bfe,1320,Wrigley's Spearmint Gum,assets/images/sweets.jpg,58 g,Sweets & Chocolates,70,0
+698c722e70c46913d2ee7bff,1321,Happy Happy Wafer Rolls,assets/images/sweets.jpg,100 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7c00,1322,Tango Wafer Rolls,assets/images/sweets.jpg,125 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7c01,1323,Fox's Crystal Candy,assets/images/sweets.jpg,125 g,Sweets & Chocolates,145,0
+698c722e70c46913d2ee7c02,1324,Ricola Herbal Candy,assets/images/sweets.jpg,75 g,Sweets & Chocolates,165,0
+698c722e70c46913d2ee7c03,1325,Lotte Coffee Bite,assets/images/sweets.jpg,120 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7c04,1326,Lotte Choco Pie,assets/images/sweets.jpg,168 g,Sweets & Chocolates,145,0
+698c722e70c46913d2ee7c05,1327,Halls Menthol Candy,assets/images/sweets.jpg,90 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7c06,1328,Halls Strawberry Candy,assets/images/sweets.jpg,90 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7c07,1329,Werther's Original Candy,assets/images/sweets.jpg,80 g,Sweets & Chocolates,125,0
+698c722e70c46913d2ee7c08,1330,Werther's Eclairs,assets/images/sweets.jpg,80 g,Sweets & Chocolates,135,0
+698c722e70c46913d2ee7c09,1331,Tic Tac Mint,assets/images/sweets.jpg,49 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7c0a,1332,Tic Tac Orange,assets/images/sweets.jpg,49 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7c0b,1333,Fruitella Candy,assets/images/sweets.jpg,90 g,Sweets & Chocolates,65,0
+698c722e70c46913d2ee7c0c,1334,Cadbury Lickables Oreo,assets/images/sweets.jpg,20 g,Sweets & Chocolates,40,0
+698c722e70c46913d2ee7c0d,1335,RiteBite Max Protein Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,90,0
+698c722e70c46913d2ee7c0e,1336,Yoga Bar Protein Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7c0f,1337,Yoga Bar Dark Chocolate Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7c10,1338,The Whole Truth Protein Bar,assets/images/sweets.jpg,55 g,Sweets & Chocolates,115,0
+698c722e70c46913d2ee7c11,1339,Max Protein Peanut Butter Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,90,0
+698c722e70c46913d2ee7c12,1340,MuscleBlaze Protein Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,99,0
+698c722e70c46913d2ee7c13,1341,Open Secret Nutty Bar,assets/images/sweets.jpg,40 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7c14,1342,Open Secret Dates Bar,assets/images/sweets.jpg,40 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7c15,1343,Kellogg's Energy Bar,assets/images/sweets.jpg,42 g,Sweets & Chocolates,45,0
+698c722e70c46913d2ee7c16,1344,Nature Valley Oats & Honey Bar,assets/images/sweets.jpg,42 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7c17,1345,Nature Valley Crunchy Bar,assets/images/sweets.jpg,42 g,Sweets & Chocolates,55,0
+698c722e70c46913d2ee7c18,1346,Snickers Protein Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7c19,1347,Mars Protein Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7c1a,1348,Cadbury Fuse Fit Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,65,0
+698c722e70c46913d2ee7c1b,1349,Amul Dark Chocolate Bar,assets/images/sweets.jpg,40 g,Sweets & Chocolates,60,0
+698c722e70c46913d2ee7c1c,1350,Amul Sugar Free Chocolate,assets/images/sweets.jpg,40 g,Sweets & Chocolates,65,0
+698c722e70c46913d2ee7c1d,1351,Lindt Dark Chocolate 85%,assets/images/sweets.jpg,100 g,Sweets & Chocolates,695,0
+698c722e70c46913d2ee7c1e,1352,Ferrero Rocher Premium Pack,assets/images/sweets.jpg,300 g,Sweets & Chocolates,785,0
+698c722e70c46913d2ee7c1f,1353,Toblerone Dark Chocolate,assets/images/sweets.jpg,100 g,Sweets & Chocolates,425,0
+698c722e70c46913d2ee7c20,1354,ProteinX Energy Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7c21,1355,RiteBite Energy Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7c22,1356,Yoga Bar Super Seeds Bar,assets/images/sweets.jpg,45 g,Sweets & Chocolates,75,0
+698c722e70c46913d2ee7c23,1357,The Whole Truth Dark Chocolate Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,115,0
+698c722e70c46913d2ee7c24,1358,Alpino Protein Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7c25,1359,Pintola Energy Bar,assets/images/sweets.jpg,50 g,Sweets & Chocolates,85,0
+698c722e70c46913d2ee7c26,1360,Hershey's Kisses Pack,assets/images/sweets.jpg,150 g,Sweets & Chocolates,295,0
+698c722e70c46913d2ee7c27,1361,Galaxy Gift Pack,assets/images/sweets.jpg,180 g,Sweets & Chocolates,325,0
+698c722e70c46913d2ee7c28,1362,Kinder Bueno White,assets/images/sweets.jpg,39 g,Sweets & Chocolates,95,0
+698c722e70c46913d2ee7c29,1363,Cadbury Silk Oreo,assets/images/sweets.jpg,60 g,Sweets & Chocolates,90,0
+698c722e70c46913d2ee7c2a,1364,Coca-Cola,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c2b,1365,Coca-Cola Zero,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c2c,1366,Pepsi,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c2d,1367,Pepsi Black,assets/images/drinks.jpg,750 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c2e,1368,Thums Up,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c2f,1369,Sprite,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c30,1370,7UP,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c31,1371,Fanta Orange,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c32,1372,Limca,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c33,1373,Mountain Dew,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c34,1374,Mirinda Orange,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c35,1375,Appy Fizz,assets/images/drinks.jpg,600 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c36,1376,Camp Cola,assets/images/drinks.jpg,500 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c37,1377,Bovonto,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c38,1378,Coca-Cola Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c39,1379,Pepsi Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c3a,1380,Sprite Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c3b,1381,Fanta Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c3c,1382,Limca Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c3d,1383,Thums Up Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c3e,1384,Schweppes Soda,assets/images/drinks.jpg,750 ml,Drinks & Beverages,55,0
+698c722e70c46913d2ee7c3f,1385,Kinley Soda,assets/images/drinks.jpg,750 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c40,1386,Bisleri Soda,assets/images/drinks.jpg,750 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c41,1387,Lehar Soda,assets/images/drinks.jpg,750 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c42,1388,Schweppes Tonic Water,assets/images/drinks.jpg,300 ml,Drinks & Beverages,60,0
+698c722e70c46913d2ee7c43,1389,Schweppes Ginger Ale,assets/images/drinks.jpg,300 ml,Drinks & Beverages,60,0
+698c722e70c46913d2ee7c44,1390,Paper Boat Sparkling Jaljeera,assets/images/drinks.jpg,250 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c45,1391,Paper Boat Sparkling Aam Panna,assets/images/drinks.jpg,250 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c46,1392,Paper Boat Sparkling Guava,assets/images/drinks.jpg,250 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c47,1393,Paper Boat Sparkling Orange,assets/images/drinks.jpg,250 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c48,1394,Maaza Mango,assets/images/drinks.jpg,1 L,Drinks & Beverages,85,0
+698c722e70c46913d2ee7c49,1395,Slice Mango,assets/images/drinks.jpg,1 L,Drinks & Beverages,85,0
+698c722e70c46913d2ee7c4a,1396,Frooti Mango,assets/images/drinks.jpg,1 L,Drinks & Beverages,80,0
+698c722e70c46913d2ee7c4b,1397,Paper Boat Aamras,assets/images/drinks.jpg,1 L,Drinks & Beverages,135,0
+698c722e70c46913d2ee7c4c,1398,Tropicana Orange,assets/images/drinks.jpg,1 L,Drinks & Beverages,120,0
+698c722e70c46913d2ee7c4d,1399,Tropicana Apple,assets/images/drinks.jpg,1 L,Drinks & Beverages,120,0
+698c722e70c46913d2ee7c4e,1400,Real Mixed Fruit,assets/images/drinks.jpg,1 L,Drinks & Beverages,115,0
+698c722e70c46913d2ee7c4f,1401,Real Orange,assets/images/drinks.jpg,1 L,Drinks & Beverages,115,0
+698c722e70c46913d2ee7c50,1402,B Natural Mixed Fruit,assets/images/drinks.jpg,1 L,Drinks & Beverages,110,0
+698c722e70c46913d2ee7c51,1403,B Natural Guava,assets/images/drinks.jpg,1 L,Drinks & Beverages,110,0
+698c722e70c46913d2ee7c52,1404,Minute Maid Pulpy Orange,assets/images/drinks.jpg,1 L,Drinks & Beverages,105,0
+698c722e70c46913d2ee7c53,1405,Minute Maid Apple,assets/images/drinks.jpg,1 L,Drinks & Beverages,105,0
+698c722e70c46913d2ee7c54,1406,Del Monte Mango,assets/images/drinks.jpg,1 L,Drinks & Beverages,125,0
+698c722e70c46913d2ee7c55,1407,Del Monte Pineapple,assets/images/drinks.jpg,1 L,Drinks & Beverages,125,0
+698c722e70c46913d2ee7c56,1408,Raw Pressery Orange,assets/images/drinks.jpg,1 L,Drinks & Beverages,185,0
+698c722e70c46913d2ee7c57,1409,Raw Pressery Apple,assets/images/drinks.jpg,1 L,Drinks & Beverages,185,0
+698c722e70c46913d2ee7c58,1410,Raw Pressery Pomegranate,assets/images/drinks.jpg,1 L,Drinks & Beverages,195,0
+698c722e70c46913d2ee7c59,1411,Paper Boat Guava,assets/images/drinks.jpg,1 L,Drinks & Beverages,135,0
+698c722e70c46913d2ee7c5a,1412,Paper Boat Jamun,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c5b,1413,Paper Boat Lychee,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c5c,1414,Paper Boat Kokum,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c5d,1415,Paper Boat Anar,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c5e,1416,Maaza Mango Can,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c5f,1417,Slice Mango Can,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c60,1418,Frooti Mango Can,assets/images/drinks.jpg,250 ml,Drinks & Beverages,25,0
+698c722e70c46913d2ee7c61,1419,Tropicana Pomegranate,assets/images/drinks.jpg,1 L,Drinks & Beverages,135,0
+698c722e70c46913d2ee7c62,1420,B Natural Litchi,assets/images/drinks.jpg,1 L,Drinks & Beverages,120,0
+698c722e70c46913d2ee7c63,1421,Real Cranberry,assets/images/drinks.jpg,1 L,Drinks & Beverages,135,0
+698c722e70c46913d2ee7c64,1422,Paper Boat Mango Coconut,assets/images/drinks.jpg,250 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c65,1423,Paper Boat Orange,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c66,1424,Red Bull,assets/images/drinks.jpg,250 ml,Drinks & Beverages,125,0
+698c722e70c46913d2ee7c67,1425,Red Bull Sugar Free,assets/images/drinks.jpg,250 ml,Drinks & Beverages,125,0
+698c722e70c46913d2ee7c68,1426,Monster Energy,assets/images/drinks.jpg,350 ml,Drinks & Beverages,135,0
+698c722e70c46913d2ee7c69,1427,Monster Ultra,assets/images/drinks.jpg,350 ml,Drinks & Beverages,145,0
+698c722e70c46913d2ee7c6a,1428,Monster Mango Loco,assets/images/drinks.jpg,350 ml,Drinks & Beverages,145,0
+698c722e70c46913d2ee7c6b,1429,Sting Energy,assets/images/drinks.jpg,250 ml,Drinks & Beverages,20,0
+698c722e70c46913d2ee7c6c,1430,Sting Gold,assets/images/drinks.jpg,250 ml,Drinks & Beverages,20,0
+698c722e70c46913d2ee7c6d,1431,Gatorade Lemon,assets/images/drinks.jpg,500 ml,Drinks & Beverages,65,0
+698c722e70c46913d2ee7c6e,1432,Gatorade Orange,assets/images/drinks.jpg,500 ml,Drinks & Beverages,65,0
+698c722e70c46913d2ee7c6f,1433,PowerAde Blue,assets/images/drinks.jpg,500 ml,Drinks & Beverages,65,0
+698c722e70c46913d2ee7c70,1434,PowerAde Orange,assets/images/drinks.jpg,500 ml,Drinks & Beverages,65,0
+698c722e70c46913d2ee7c71,1435,Enerzal Orange,assets/images/drinks.jpg,50 g,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c72,1436,Electral ORS,assets/images/drinks.jpg,21 g,Drinks & Beverages,20,0
+698c722e70c46913d2ee7c73,1437,Fast&Up Reload,assets/images/drinks.jpg,20 tabs,Drinks & Beverages,295,0
+698c722e70c46913d2ee7c74,1438,Fast&Up Hydration,assets/images/drinks.jpg,10 tabs,Drinks & Beverages,165,0
+698c722e70c46913d2ee7c75,1439,Glucon-D Orange,assets/images/drinks.jpg,1 kg,Drinks & Beverages,185,0
+698c722e70c46913d2ee7c76,1440,ORS Lemon Drink,assets/images/drinks.jpg,200 ml,Drinks & Beverages,25,0
+698c722e70c46913d2ee7c77,1441,Paper Boat Electrolyte,assets/images/drinks.jpg,500 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c78,1442,True Elements Hydration,assets/images/drinks.jpg,250 ml,Drinks & Beverages,60,0
+698c722e70c46913d2ee7c79,1443,BodyArmor Sports Drink,assets/images/drinks.jpg,500 ml,Drinks & Beverages,95,0
+698c722e70c46913d2ee7c7a,1444,Revive Hydration,assets/images/drinks.jpg,500 ml,Drinks & Beverages,55,0
+698c722e70c46913d2ee7c7b,1445,Tzinga Energy,assets/images/drinks.jpg,250 ml,Drinks & Beverages,90,0
+698c722e70c46913d2ee7c7c,1446,Fast&Up ORS Sachets,assets/images/drinks.jpg,5 pcs,Drinks & Beverages,110,0
+698c722e70c46913d2ee7c7d,1447,Electral Ready Drink,assets/images/drinks.jpg,500 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c7e,1448,Himalayan ORS,assets/images/drinks.jpg,200 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c7f,1449,Enerzal Lemon,assets/images/drinks.jpg,50 g,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c80,1450,ORS Apple Drink,assets/images/drinks.jpg,200 ml,Drinks & Beverages,25,0
+698c722e70c46913d2ee7c81,1451,Revital H Drink,assets/images/drinks.jpg,200 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c82,1452,Zinga Energy,assets/images/drinks.jpg,250 ml,Drinks & Beverages,60,0
+698c722e70c46913d2ee7c83,1453,Monster Pacific Punch,assets/images/drinks.jpg,350 ml,Drinks & Beverages,145,0
+698c722e70c46913d2ee7c84,1454,Bisleri Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,20,0
+698c722e70c46913d2ee7c85,1455,Kinley Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,20,0
+698c722e70c46913d2ee7c86,1456,Aquafina Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,20,0
+698c722e70c46913d2ee7c87,1457,Rail Neer Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,15,0
+698c722e70c46913d2ee7c88,1458,Himalayan Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,60,0
+698c722e70c46913d2ee7c89,1459,Vedica Himalayan Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,55,0
+698c722e70c46913d2ee7c8a,1460,Evian Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,185,0
+698c722e70c46913d2ee7c8b,1461,Qua Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,50,0
+698c722e70c46913d2ee7c8c,1462,Tata Copper+ Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c8d,1463,Tata Silver+ Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c8e,1464,Catch Sparkling Water,assets/images/drinks.jpg,750 ml,Drinks & Beverages,65,0
+698c722e70c46913d2ee7c8f,1465,Perrier Sparkling Water,assets/images/drinks.jpg,330 ml,Drinks & Beverages,125,0
+698c722e70c46913d2ee7c90,1466,Veen Sparkling Water,assets/images/drinks.jpg,750 ml,Drinks & Beverages,95,0
+698c722e70c46913d2ee7c91,1467,Ice Cubes Pack,assets/images/drinks.jpg,1 kg,Drinks & Beverages,60,0
+698c722e70c46913d2ee7c92,1468,Crushed Ice Pack,assets/images/drinks.jpg,1 kg,Drinks & Beverages,65,0
+698c722e70c46913d2ee7c93,1469,Ice Cubes Premium,assets/images/drinks.jpg,2 kg,Drinks & Beverages,110,0
+698c722e70c46913d2ee7c94,1470,Bisleri 20L Can,assets/images/drinks.jpg,20 L,Drinks & Beverages,90,0
+698c722e70c46913d2ee7c95,1471,Kinley 20L Can,assets/images/drinks.jpg,20 L,Drinks & Beverages,95,0
+698c722e70c46913d2ee7c96,1472,Himalayan 500ml,assets/images/drinks.jpg,500 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7c97,1473,Aquafina 500ml,assets/images/drinks.jpg,500 ml,Drinks & Beverages,10,0
+698c722e70c46913d2ee7c98,1474,Bisleri 500ml,assets/images/drinks.jpg,500 ml,Drinks & Beverages,10,0
+698c722e70c46913d2ee7c99,1475,Kinley 500ml,assets/images/drinks.jpg,500 ml,Drinks & Beverages,10,0
+698c722e70c46913d2ee7c9a,1476,Evian 500ml,assets/images/drinks.jpg,500 ml,Drinks & Beverages,95,0
+698c722e70c46913d2ee7c9b,1477,Vedica 500ml,assets/images/drinks.jpg,500 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7c9c,1478,Qua 500ml,assets/images/drinks.jpg,500 ml,Drinks & Beverages,25,0
+698c722e70c46913d2ee7c9d,1479,Catch Soda Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,40,0
+698c722e70c46913d2ee7c9e,1480,Schweppes Soda Can,assets/images/drinks.jpg,330 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7c9f,1481,Ice Cubes Small,assets/images/drinks.jpg,500 g,Drinks & Beverages,35,0
+698c722e70c46913d2ee7ca0,1482,Ice Cubes Large,assets/images/drinks.jpg,5 kg,Drinks & Beverages,240,0
+698c722e70c46913d2ee7ca1,1483,Crystal Ice Cubes,assets/images/drinks.jpg,2 kg,Drinks & Beverages,130,0
+698c722e70c46913d2ee7ca2,1484,Amul Kool Milk,assets/images/drinks.jpg,200 ml,Drinks & Beverages,25,0
+698c722e70c46913d2ee7ca3,1485,Amul Kool Badam,assets/images/drinks.jpg,200 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7ca4,1486,Hershey's Milkshake Chocolate,assets/images/drinks.jpg,180 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7ca5,1487,Hershey's Milkshake Strawberry,assets/images/drinks.jpg,180 ml,Drinks & Beverages,35,0
+698c722e70c46913d2ee7ca6,1488,Cavin's Chocolate Milkshake,assets/images/drinks.jpg,200 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7ca7,1489,Cavin's Strawberry Milkshake,assets/images/drinks.jpg,200 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7ca8,1490,Sofit Soy Milk Plain,assets/images/drinks.jpg,1 L,Drinks & Beverages,120,0
+698c722e70c46913d2ee7ca9,1491,Sofit Soy Milk Chocolate,assets/images/drinks.jpg,1 L,Drinks & Beverages,125,0
+698c722e70c46913d2ee7caa,1492,Paper Boat Coconut Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,95,0
+698c722e70c46913d2ee7cab,1493,Raw Pressery Coconut Water,assets/images/drinks.jpg,1 L,Drinks & Beverages,155,0
+698c722e70c46913d2ee7cac,1494,Nescafe Cold Coffee,assets/images/drinks.jpg,180 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7cad,1495,Nescafe Iced Latte,assets/images/drinks.jpg,180 ml,Drinks & Beverages,55,0
+698c722e70c46913d2ee7cae,1496,Bru Cold Coffee,assets/images/drinks.jpg,180 ml,Drinks & Beverages,45,0
+698c722e70c46913d2ee7caf,1497,Rage Coffee Cold Brew,assets/images/drinks.jpg,250 ml,Drinks & Beverages,99,0
+698c722e70c46913d2ee7cb0,1498,Sleepy Owl Cold Brew,assets/images/drinks.jpg,250 ml,Drinks & Beverages,125,0
+698c722e70c46913d2ee7cb1,1499,Lipton Ice Tea Lemon,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7cb2,1500,Lipton Ice Tea Peach,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7cb3,1501,Nestea Lemon,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7cb4,1502,Nestea Peach,assets/images/drinks.jpg,250 ml,Drinks & Beverages,30,0
+698c722e70c46913d2ee7cb5,1503,Monin Vanilla Syrup,assets/images/drinks.jpg,750 ml,Drinks & Beverages,695,0
+698c722e70c46913d2ee7cb6,1504,Monin Caramel Syrup,assets/images/drinks.jpg,750 ml,Drinks & Beverages,695,0
+698c722e70c46913d2ee7cb7,1505,Mapro Strawberry Syrup,assets/images/drinks.jpg,700 ml,Drinks & Beverages,195,0
+698c722e70c46913d2ee7cb8,1506,Hershey's Chocolate Syrup,assets/images/drinks.jpg,623 g,Drinks & Beverages,245,0
+698c722e70c46913d2ee7cb9,1507,Dabur Rooh Afza,assets/images/drinks.jpg,750 ml,Drinks & Beverages,195,0
+698c722e70c46913d2ee7cba,1508,Tata Tea Gold,assets/images/drinks.jpg,1 kg,Drinks & Beverages,520,0
+698c722e70c46913d2ee7cbb,1509,Tata Tea Premium,assets/images/drinks.jpg,1 kg,Drinks & Beverages,495,0
+698c722e70c46913d2ee7cbc,1510,Taj Mahal Tea,assets/images/drinks.jpg,1 kg,Drinks & Beverages,565,0
+698c722e70c46913d2ee7cbd,1511,Red Label Tea,assets/images/drinks.jpg,1 kg,Drinks & Beverages,485,0
+698c722e70c46913d2ee7cbe,1512,Lipton Green Tea,assets/images/drinks.jpg,100 bags,Drinks & Beverages,295,0
+698c722e70c46913d2ee7cbf,1513,Twinings Green Tea,assets/images/drinks.jpg,25 bags,Drinks & Beverages,395,0
+698c722e70c46913d2ee7cc0,1514,Nescafe Classic,assets/images/drinks.jpg,200 g,Drinks & Beverages,495,0
+698c722e70c46913d2ee7cc1,1515,Nescafe Gold,assets/images/drinks.jpg,100 g,Drinks & Beverages,595,0
+698c722e70c46913d2ee7cc2,1516,Bru Instant Coffee,assets/images/drinks.jpg,200 g,Drinks & Beverages,485,0
+698c722e70c46913d2ee7cc3,1517,Davidoff Coffee,assets/images/drinks.jpg,100 g,Drinks & Beverages,695,0
+698c722e70c46913d2ee7cc4,1518,Girnar Masala Tea Premix,assets/images/drinks.jpg,200 g,Drinks & Beverages,265,0
+698c722e70c46913d2ee7cc5,1519,Bru Coffee Premix,assets/images/drinks.jpg,100 g,Drinks & Beverages,185,0
+698c722e70c46913d2ee7cc6,1520,Nescafe Cappuccino Premix,assets/images/drinks.jpg,10 sachets,Drinks & Beverages,195,0
+698c722e70c46913d2ee7cc7,1521,Cadbury Hot Chocolate,assets/images/drinks.jpg,200 g,Drinks & Beverages,295,0
+698c722e70c46913d2ee7cc8,1522,Hershey's Hot Chocolate,assets/images/drinks.jpg,200 g,Drinks & Beverages,315,0
+698c722e70c46913d2ee7cc9,1523,Country Bean Hot Chocolate,assets/images/drinks.jpg,200 g,Drinks & Beverages,395,0
+698c722e70c46913d2ee7cca,1524,Monin Hazelnut Syrup,assets/images/drinks.jpg,750 ml,Drinks & Beverages,695,0
+698c722e70c46913d2ee7ccb,1525,Monin Irish Syrup,assets/images/drinks.jpg,750 ml,Drinks & Beverages,695,0
+698c722e70c46913d2ee7ccc,1526,Classmate Long Notebook Ruled,assets/images/stationery.jpg,200 pages,Stationery,65,0
+698c722e70c46913d2ee7ccd,1527,Classmate Short Notebook Plain,assets/images/stationery.jpg,160 pages,Stationery,55,0
+698c722e70c46913d2ee7cce,1528,Navneet Youva Notebook Ruled,assets/images/stationery.jpg,200 pages,Stationery,70,0
+698c722e70c46913d2ee7ccf,1529,Navneet Drawing Book,assets/images/stationery.jpg,80 pages,Stationery,45,0
+698c722e70c46913d2ee7cd0,1530,Camlin Spiral Notebook,assets/images/stationery.jpg,200 pages,Stationery,120,0
+698c722e70c46913d2ee7cd1,1531,Paperkraft Office Notebook,assets/images/stationery.jpg,192 pages,Stationery,145,0
+698c722e70c46913d2ee7cd2,1532,Papergrid A5 Diary,assets/images/stationery.jpg,1 pc,Stationery,199,0
+698c722e70c46913d2ee7cd3,1533,Papergrid Executive Diary,assets/images/stationery.jpg,1 pc,Stationery,245,0
+698c722e70c46913d2ee7cd4,1534,Classmate Practical Notebook,assets/images/stationery.jpg,120 pages,Stationery,60,0
+698c722e70c46913d2ee7cd5,1535,Navneet Composition Notebook,assets/images/stationery.jpg,200 pages,Stationery,75,0
+698c722e70c46913d2ee7cd6,1536,Reynolds Trimax Ball Pen,assets/images/stationery.jpg,1 pc,Stationery,30,0
+698c722e70c46913d2ee7cd7,1537,Reynolds Butterflow Pen,assets/images/stationery.jpg,1 pc,Stationery,15,0
+698c722e70c46913d2ee7cd8,1538,Cello Gripper Ball Pen,assets/images/stationery.jpg,1 pc,Stationery,10,0
+698c722e70c46913d2ee7cd9,1539,Cello Butterflow Pen,assets/images/stationery.jpg,1 pc,Stationery,15,0
+698c722e70c46913d2ee7cda,1540,Parker Vector Pen,assets/images/stationery.jpg,1 pc,Stationery,225,0
+698c722e70c46913d2ee7cdb,1541,Pilot V7 Hi-Tecpoint Pen,assets/images/stationery.jpg,1 pc,Stationery,85,0
+698c722e70c46913d2ee7cdc,1542,Flair Writo Meter Pen,assets/images/stationery.jpg,1 pc,Stationery,10,0
+698c722e70c46913d2ee7cdd,1543,Apsara Platinum Pencil,assets/images/stationery.jpg,10 pcs,Stationery,55,0
+698c722e70c46913d2ee7cde,1544,Nataraj HB Pencil,assets/images/stationery.jpg,10 pcs,Stationery,50,0
+698c722e70c46913d2ee7cdf,1545,Apsara Non Dust Eraser,assets/images/stationery.jpg,5 pcs,Stationery,25,0
+698c722e70c46913d2ee7ce0,1546,Nataraj Sharpener,assets/images/stationery.jpg,1 pc,Stationery,5,0
+698c722e70c46913d2ee7ce1,1547,Camlin Exam Mechanical Pencil,assets/images/stationery.jpg,1 pc,Stationery,35,0
+698c722e70c46913d2ee7ce2,1548,Cello Signature Gel Pen,assets/images/stationery.jpg,1 pc,Stationery,20,0
+698c722e70c46913d2ee7ce3,1549,Uniball Eye Roller Pen,assets/images/stationery.jpg,1 pc,Stationery,75,0
+698c722e70c46913d2ee7ce4,1550,Add Gel Achiever Pen,assets/images/stationery.jpg,1 pc,Stationery,25,0
+698c722e70c46913d2ee7ce5,1551,Fevicol MR Adhesive,assets/images/stationery.jpg,100 g,Stationery,55,0
+698c722e70c46913d2ee7ce6,1552,Fevistik Glue Stick,assets/images/stationery.jpg,15 g,Stationery,25,0
+698c722e70c46913d2ee7ce7,1553,Pidilite Feviquick,assets/images/stationery.jpg,5 g,Stationery,20,0
+698c722e70c46913d2ee7ce8,1554,Scotch Transparent Tape,assets/images/stationery.jpg,1 roll,Stationery,35,0
+698c722e70c46913d2ee7ce9,1555,Wonder Paper Tape,assets/images/stationery.jpg,1 roll,Stationery,25,0
+698c722e70c46913d2ee7cea,1556,Camlin Correction Pen,assets/images/stationery.jpg,7 ml,Stationery,30,0
+698c722e70c46913d2ee7ceb,1557,Camlin Correction Tape,assets/images/stationery.jpg,1 pc,Stationery,40,0
+698c722e70c46913d2ee7cec,1558,Pidilite Craft Glue,assets/images/stationery.jpg,50 ml,Stationery,45,0
+698c722e70c46913d2ee7ced,1559,Camlin Wax Crayons,assets/images/stationery.jpg,12 shades,Stationery,65,0
+698c722e70c46913d2ee7cee,1560,Camlin Sketch Pens,assets/images/stationery.jpg,12 shades,Stationery,95,0
+698c722e70c46913d2ee7cef,1561,Camlin Water Colours,assets/images/stationery.jpg,12 shades,Stationery,85,0
+698c722e70c46913d2ee7cf0,1562,Faber Castell Colour Pencils,assets/images/stationery.jpg,12 pcs,Stationery,120,0
+698c722e70c46913d2ee7cf1,1563,Camlin Poster Colours,assets/images/stationery.jpg,10 shades,Stationery,110,0
+698c722e70c46913d2ee7cf2,1564,DOM Drawing Pencils Set,assets/images/stationery.jpg,6 pcs,Stationery,95,0
+698c722e70c46913d2ee7cf3,1565,Camlin Oil Pastels,assets/images/stationery.jpg,12 shades,Stationery,85,0
+698c722e70c46913d2ee7cf4,1566,Fevicryl Acrylic Colours,assets/images/stationery.jpg,6 shades,Stationery,195,0
+698c722e70c46913d2ee7cf5,1567,Craft Scissors,assets/images/stationery.jpg,1 pc,Stationery,45,0
+698c722e70c46913d2ee7cf6,1568,Colourful Craft Paper Set,assets/images/stationery.jpg,20 sheets,Stationery,55,0
+698c722e70c46913d2ee7cf7,1569,Plastic Button File,assets/images/stationery.jpg,1 pc,Stationery,25,0
+698c722e70c46913d2ee7cf8,1570,Display Book File,assets/images/stationery.jpg,20 pockets,Stationery,120,0
+698c722e70c46913d2ee7cf9,1571,Lever Arch File,assets/images/stationery.jpg,1 pc,Stationery,145,0
+698c722e70c46913d2ee7cfa,1572,Expanding Document Folder,assets/images/stationery.jpg,1 pc,Stationery,165,0
+698c722e70c46913d2ee7cfb,1573,Office Staples Pack,assets/images/stationery.jpg,1000 pcs,Stationery,35,0
+698c722e70c46913d2ee7cfc,1574,Stapler Small,assets/images/stationery.jpg,1 pc,Stationery,75,0
+698c722e70c46913d2ee7cfd,1575,Paper Clips Pack,assets/images/stationery.jpg,100 pcs,Stationery,25,0
+698c722e70c46913d2ee7cfe,1576,Britannia White Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7cff,1577,Britannia Brown Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7d00,1578,Britannia Whole Wheat Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,55,0
+698c722e70c46913d2ee7d01,1579,Britannia Multigrain Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,60,0
+698c722e70c46913d2ee7d02,1580,Britannia Milk Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7d03,1581,Harvest Gold White Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7d04,1582,Harvest Gold Brown Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7d05,1583,Harvest Gold Multigrain Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,60,0
+698c722e70c46913d2ee7d06,1584,Harvest Gold 100% Atta Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,55,0
+698c722e70c46913d2ee7d07,1585,Harvest Gold Milk Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7d08,1586,Modern White Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7d09,1587,Modern Brown Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7d0a,1588,Modern Multigrain Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,60,0
+698c722e70c46913d2ee7d0b,1589,Modern Whole Wheat Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,55,0
+698c722e70c46913d2ee7d0c,1590,Elite White Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,45,0
+698c722e70c46913d2ee7d0d,1591,Elite Brown Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7d0e,1592,Elite Multigrain Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,60,0
+698c722e70c46913d2ee7d0f,1593,Britannia Pav,assets/images/bakery.jpg,6 pcs,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7d10,1594,Britannia Ladi Pav,assets/images/bakery.jpg,6 pcs,Biscuits & Bakery,32,0
+698c722e70c46913d2ee7d11,1595,Britannia Burger Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7d12,1596,Britannia Hot Dog Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,38,0
+698c722e70c46913d2ee7d13,1597,Harvest Gold Pav,assets/images/bakery.jpg,6 pcs,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7d14,1598,Harvest Gold Ladi Pav,assets/images/bakery.jpg,6 pcs,Biscuits & Bakery,32,0
+698c722e70c46913d2ee7d15,1599,Harvest Gold Burger Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7d16,1600,Harvest Gold Hot Dog Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,38,0
+698c722e70c46913d2ee7d17,1601,Modern Pav,assets/images/bakery.jpg,6 pcs,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7d18,1602,Modern Ladi Pav,assets/images/bakery.jpg,6 pcs,Biscuits & Bakery,32,0
+698c722e70c46913d2ee7d19,1603,Modern Burger Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7d1a,1604,Modern Hot Dog Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,38,0
+698c722e70c46913d2ee7d1b,1605,Elite Pav,assets/images/bakery.jpg,6 pcs,Biscuits & Bakery,30,0
+698c722e70c46913d2ee7d1c,1606,Elite Burger Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,35,0
+698c722e70c46913d2ee7d1d,1607,Elite Hot Dog Bun,assets/images/bakery.jpg,4 pcs,Biscuits & Bakery,38,0
+698c722e70c46913d2ee7d1e,1608,Elite Milk Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,50,0
+698c722e70c46913d2ee7d1f,1609,Elite Whole Wheat Bread,assets/images/bakery.jpg,400 g,Biscuits & Bakery,55,0

@@ -1,0 +1,9 @@
+﻿Recipe Name: Paneer Butter Masala
+Ingredients IDs: [ 146, 123, 31, 415 ]
+Section Options IDs: [ 146, 123, 100 ]
+Products found in DB:
+- [31] Tomato (Vegetables)
+- [100] Amul Masti Curd Pouch (Dairy Products)
+- [123] Amul Salted Butter (Dairy Products)
+- [146] Amul Fresh Malai Paneer (Dairy Products)
+- [415] Tata Salt (Oil, Ghee & Masala)
